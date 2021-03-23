@@ -1,4 +1,4 @@
-﻿Location,Period,Indicator,Dim1,First Tooltip
+﻿Country,Year,Indicator,Gender,Value
 Afghanistan,2019,Neonatal mortality rate (per 1000 live births),Both sexes,35.86 [27.77-45.18]
 Afghanistan,2018,Neonatal mortality rate (per 1000 live births),Both sexes,36.89 [29.34-45.28]
 Afghanistan,2017,Neonatal mortality rate (per 1000 live births),Both sexes,37.98 [30.95-45.6]
