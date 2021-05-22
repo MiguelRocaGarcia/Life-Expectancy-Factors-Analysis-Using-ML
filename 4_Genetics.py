@@ -1,10 +1,13 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-1 -*-
+
+
 import pandas as pd
 import numpy as np
 import sklearn
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import PowerTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 import tensorflow as tf
 from keras import backend as K
 import requests
@@ -59,28 +62,55 @@ def predictLifeExpectancy(d):
   return scalerLE.inverse_transform(life_expectancy).flatten()
 
 
+
 # Obtener los datos de un país en un año y un género:
 COUNTRY = 'Spain' #Nombre del país en inglés
 YEAR = 2010 # Rango dentro del intervalo [1990, 2019]
 GENDER = 'Both sexes' #Posibles valores: Male, Female y Both sexes
 
-TARGET_FIT = 1.0
+TARGET_FIT = 0.999
 ALPHABET_MIN = -5.0
 ALPHABET_MAX = 5.0
 N_FEATURES = df.shape[1] - 1
- 
+
+W_INPUT = 0.8
+W_PREDICTION = 1 - W_INPUT
+
+data = df_filled[(df_filled['Country'] == COUNTRY)&(df_filled['Year'] == YEAR)&(df_filled['Gender'] == GENDER)]
+
+#Aplicamos las transformaciones
+data_norm = data.copy()
+data_norm.drop(columns=['Country'], inplace=True)
+data_norm.insert(loc=1,column='Female',value=data_norm['Gender'].apply(lambda gender: 0 if gender == 'Male' else 1))
+data_norm.insert(loc=2,column='Male',value=data_norm['Gender'].apply(lambda gender: 0 if gender == 'Female' else 1))
+data_norm.drop(columns=['Gender'], inplace=True)
+data_norm[featuresScale] = scaler_total.transform(data_norm[featuresScale])
+data_norm[columnsYJ] = power_YJ.transform(data_norm[columnsYJ])
+LE_VALUE = data_norm['Life Expectancy'].values[0]
+data_norm.drop(columns=['Life Expectancy'], inplace=True)
+data_norm = data_norm.values
 
 
 def phenotype (chromosome):
-    return 'Resultado'
-
+    #life_expectancy = NN_model.predict(np.array(chromosome).reshape(1,-1))
+    #return 'Esperanza de vida: ' + str(scalerLE.inverse_transform(life_expectancy).flatten()[0])
+    return 'Diferencia' + str(abs(data_norm - np.array(chromosome).reshape(1, -1)))
+    
 
 def fitness (chromosome):
-    score = 0
+    diff_input = np.sum(abs(data_norm - np.array(chromosome).reshape(1,-1)))
+    similarity_input = 1/(diff_input + 1)
+
+    if(similarity_input > 0.8):
+        le_predicted = NN_model.predict(np.array(chromosome).reshape(1, -1))[0][0]
+        diff_prediction = abs(LE_VALUE - le_predicted)
+        similarity_prediction = 1/(diff_prediction + 1)
+    else:
+        similarity_prediction = 0.0
+    score = W_INPUT * similarity_input + W_PREDICTION * similarity_prediction
+
     return score
 
 
-parameters = { 'alphabet':[ALPHABET_MIN, ALPHABET_MAX], 'type':'floating', 'elitism':False, 'norm':True, 'chromsize':N_FEATURES, 'pmut':0.1, 'pcross':0.5, 'target':TARGET_FIT }
 
-
-print('Compila')
+parameters = { 'alphabet':[ALPHABET_MIN, ALPHABET_MAX], 'type':'floating', 'elitism':True, 'norm':True, 'chromsize':N_FEATURES, 'pmut':0.1, 'pcross':0.7, 'target':TARGET_FIT }
