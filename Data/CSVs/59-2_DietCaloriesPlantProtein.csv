@@ -1,0 +1,8982 @@
+Country,Year,Value
+Afghanistan,1961,285.52
+Afghanistan,1962,278.0
+Afghanistan,1963,251.68
+Afghanistan,1964,276.64
+Afghanistan,1965,275.68
+Afghanistan,1966,252.24
+Afghanistan,1967,273.92
+Afghanistan,1968,266.52
+Afghanistan,1969,270.6
+Afghanistan,1970,230.12
+Afghanistan,1971,233.56
+Afghanistan,1972,250.16
+Afghanistan,1973,253.68
+Afghanistan,1974,251.4
+Afghanistan,1975,254.12
+Afghanistan,1976,258.8
+Afghanistan,1977,226.52
+Afghanistan,1978,240.24
+Afghanistan,1979,237.8
+Afghanistan,1980,222.32
+Afghanistan,1981,220.52
+Afghanistan,1982,217.16
+Afghanistan,1983,218.6
+Afghanistan,1984,211.56
+Afghanistan,1985,208.52
+Afghanistan,1986,208.08
+Afghanistan,1987,249.44
+Afghanistan,1988,223.08
+Afghanistan,1989,211.76
+Afghanistan,1990,197.08
+Afghanistan,1991,173.68
+Afghanistan,1992,159.12
+Afghanistan,1993,168.88
+Afghanistan,1994,159.32
+Afghanistan,1995,151.2
+Afghanistan,1996,152.96
+Afghanistan,1997,159.4
+Afghanistan,1998,160.28
+Afghanistan,1999,151.92
+Afghanistan,2000,151.08
+Afghanistan,2001,154.4
+Afghanistan,2002,156.36
+Afghanistan,2003,165.28
+Afghanistan,2004,167.56
+Afghanistan,2005,161.96
+Afghanistan,2006,168.72
+Afghanistan,2007,178.16
+Afghanistan,2008,180.64
+Afghanistan,2009,184.44
+Afghanistan,2010,184.12
+Afghanistan,2011,186.92
+Afghanistan,2012,186.6
+Afghanistan,2013,184.12
+Albania,1961,188.96
+Albania,1962,190.24
+Albania,1963,185.72
+Albania,1964,191.64
+Albania,1965,194.68
+Albania,1966,187.52
+Albania,1967,188.0
+Albania,1968,197.64
+Albania,1969,202.8
+Albania,1970,203.6
+Albania,1971,199.32
+Albania,1972,208.36
+Albania,1973,207.04
+Albania,1974,213.16
+Albania,1975,208.88
+Albania,1976,231.96
+Albania,1977,245.96
+Albania,1978,233.04
+Albania,1979,217.56
+Albania,1980,217.92
+Albania,1981,228.52
+Albania,1982,227.64
+Albania,1983,241.96
+Albania,1984,238.0
+Albania,1985,221.72
+Albania,1986,240.6
+Albania,1987,214.16
+Albania,1988,222.8
+Albania,1989,220.24
+Albania,1990,214.84
+Albania,1991,208.2
+Albania,1992,228.56
+Albania,1993,235.96
+Albania,1994,235.24
+Albania,1995,201.08
+Albania,1996,208.68
+Albania,1997,210.68
+Albania,1998,210.56
+Albania,1999,214.76
+Albania,2000,206.0
+Albania,2001,206.96
+Albania,2002,212.6
+Albania,2003,194.96
+Albania,2004,189.48
+Albania,2005,197.52
+Albania,2006,188.92
+Albania,2007,188.4
+Albania,2008,194.64
+Albania,2009,191.52
+Albania,2010,201.56
+Albania,2011,206.72
+Albania,2012,208.4
+Albania,2013,208.0
+Algeria,1961,136.88
+Algeria,1962,137.8
+Algeria,1963,131.28
+Algeria,1964,129.84
+Algeria,1965,136.88
+Algeria,1966,133.96
+Algeria,1967,140.56
+Algeria,1968,145.16
+Algeria,1969,143.8
+Algeria,1970,141.92
+Algeria,1971,142.48
+Algeria,1972,156.92
+Algeria,1973,161.0
+Algeria,1974,166.68
+Algeria,1975,176.6
+Algeria,1976,177.4
+Algeria,1977,179.12
+Algeria,1978,194.28
+Algeria,1979,199.4
+Algeria,1980,207.48
+Algeria,1981,199.08
+Algeria,1982,197.72
+Algeria,1983,199.0
+Algeria,1984,196.08
+Algeria,1985,205.24
+Algeria,1986,217.12
+Algeria,1987,214.72
+Algeria,1988,219.8
+Algeria,1989,223.24
+Algeria,1990,218.96
+Algeria,1991,222.16
+Algeria,1992,231.8
+Algeria,1993,229.36
+Algeria,1994,225.76
+Algeria,1995,227.6
+Algeria,1996,236.68
+Algeria,1997,224.56
+Algeria,1998,241.92
+Algeria,1999,245.0
+Algeria,2000,228.76
+Algeria,2001,232.36
+Algeria,2002,239.52
+Algeria,2003,249.08
+Algeria,2004,246.52
+Algeria,2005,249.04
+Algeria,2006,247.4
+Algeria,2007,245.2
+Algeria,2008,248.52
+Algeria,2009,255.0
+Algeria,2010,253.6
+Algeria,2011,260.24
+Algeria,2012,260.08
+Algeria,2013,267.88
+Angola,1961,116.6
+Angola,1962,117.96
+Angola,1963,119.36
+Angola,1964,123.84
+Angola,1965,118.44
+Angola,1966,118.08
+Angola,1967,121.8
+Angola,1968,113.84
+Angola,1969,118.96
+Angola,1970,118.6
+Angola,1971,123.32
+Angola,1972,120.96
+Angola,1973,116.44
+Angola,1974,119.76
+Angola,1975,127.92
+Angola,1976,124.2
+Angola,1977,125.04
+Angola,1978,127.68
+Angola,1979,127.0
+Angola,1980,130.0
+Angola,1981,121.84
+Angola,1982,110.44
+Angola,1983,108.24
+Angola,1984,100.64
+Angola,1985,98.12
+Angola,1986,95.0
+Angola,1987,91.44
+Angola,1988,88.12
+Angola,1989,82.8
+Angola,1990,91.92
+Angola,1991,88.32
+Angola,1992,91.16
+Angola,1993,91.24
+Angola,1994,103.0
+Angola,1995,102.84
+Angola,1996,107.56
+Angola,1997,111.76
+Angola,1998,106.84
+Angola,1999,107.4
+Angola,2000,109.8
+Angola,2001,110.6
+Angola,2002,116.44
+Angola,2003,118.92
+Angola,2004,121.08
+Angola,2005,125.48
+Angola,2006,128.16
+Angola,2007,131.48
+Angola,2008,141.2
+Angola,2009,146.8
+Angola,2010,150.44
+Angola,2011,154.88
+Angola,2012,148.64
+Angola,2013,155.44
+Antigua and Barbuda,1961,107.2
+Antigua and Barbuda,1962,101.0
+Antigua and Barbuda,1963,99.6
+Antigua and Barbuda,1964,109.4
+Antigua and Barbuda,1965,111.6
+Antigua and Barbuda,1966,100.44
+Antigua and Barbuda,1967,72.8
+Antigua and Barbuda,1968,78.08
+Antigua and Barbuda,1969,81.0
+Antigua and Barbuda,1970,87.52
+Antigua and Barbuda,1971,86.0
+Antigua and Barbuda,1972,85.88
+Antigua and Barbuda,1973,79.8
+Antigua and Barbuda,1974,82.72
+Antigua and Barbuda,1975,84.96
+Antigua and Barbuda,1976,81.88
+Antigua and Barbuda,1977,81.72
+Antigua and Barbuda,1978,71.32
+Antigua and Barbuda,1979,71.32
+Antigua and Barbuda,1980,80.16
+Antigua and Barbuda,1981,77.84
+Antigua and Barbuda,1982,77.96
+Antigua and Barbuda,1983,85.76
+Antigua and Barbuda,1984,98.96
+Antigua and Barbuda,1985,94.16
+Antigua and Barbuda,1986,93.4
+Antigua and Barbuda,1987,97.44
+Antigua and Barbuda,1988,98.08
+Antigua and Barbuda,1989,104.28
+Antigua and Barbuda,1990,107.8
+Antigua and Barbuda,1991,108.2
+Antigua and Barbuda,1992,112.0
+Antigua and Barbuda,1993,107.76
+Antigua and Barbuda,1994,103.04
+Antigua and Barbuda,1995,100.72
+Antigua and Barbuda,1996,95.48
+Antigua and Barbuda,1997,91.48
+Antigua and Barbuda,1998,92.0
+Antigua and Barbuda,1999,91.28
+Antigua and Barbuda,2000,92.44
+Antigua and Barbuda,2001,85.48
+Antigua and Barbuda,2002,83.56
+Antigua and Barbuda,2003,84.96
+Antigua and Barbuda,2004,87.96
+Antigua and Barbuda,2005,103.36
+Antigua and Barbuda,2006,101.56
+Antigua and Barbuda,2007,97.96
+Antigua and Barbuda,2008,100.96
+Antigua and Barbuda,2009,98.4
+Antigua and Barbuda,2010,98.28
+Antigua and Barbuda,2011,110.08
+Antigua and Barbuda,2012,95.8
+Antigua and Barbuda,2013,107.52
+Argentina,1961,161.52
+Argentina,1962,150.72
+Argentina,1963,152.64
+Argentina,1964,155.24
+Argentina,1965,164.52
+Argentina,1966,141.64
+Argentina,1967,145.8
+Argentina,1968,147.92
+Argentina,1969,146.84
+Argentina,1970,153.76
+Argentina,1971,147.48
+Argentina,1972,138.92
+Argentina,1973,138.6
+Argentina,1974,144.8
+Argentina,1975,140.68
+Argentina,1976,138.6
+Argentina,1977,139.52
+Argentina,1978,138.16
+Argentina,1979,138.56
+Argentina,1980,136.2
+Argentina,1981,139.76
+Argentina,1982,138.96
+Argentina,1983,133.6
+Argentina,1984,136.0
+Argentina,1985,138.16
+Argentina,1986,134.68
+Argentina,1987,138.28
+Argentina,1988,142.84
+Argentina,1989,138.16
+Argentina,1990,132.6
+Argentina,1991,138.64
+Argentina,1992,136.44
+Argentina,1993,137.8
+Argentina,1994,139.32
+Argentina,1995,142.2
+Argentina,1996,144.0
+Argentina,1997,145.32
+Argentina,1998,146.88
+Argentina,1999,147.64
+Argentina,2000,148.24
+Argentina,2001,147.64
+Argentina,2002,143.32
+Argentina,2003,145.24
+Argentina,2004,144.24
+Argentina,2005,140.52
+Argentina,2006,142.76
+Argentina,2007,141.76
+Argentina,2008,141.88
+Argentina,2009,140.16
+Argentina,2010,141.44
+Argentina,2011,141.08
+Argentina,2012,142.48
+Argentina,2013,142.8
+Armenia,1961,237.96
+Armenia,1962,239.6
+Armenia,1963,238.32
+Armenia,1964,239.64
+Armenia,1965,235.12
+Armenia,1966,230.08
+Armenia,1967,226.68
+Armenia,1968,224.52
+Armenia,1969,224.2
+Armenia,1970,224.72
+Armenia,1971,222.0
+Armenia,1972,217.76
+Armenia,1973,218.76
+Armenia,1974,216.92
+Armenia,1975,214.0
+Armenia,1976,215.24
+Armenia,1977,212.04
+Armenia,1978,212.76
+Armenia,1979,211.68
+Armenia,1980,209.2
+Armenia,1981,207.24
+Armenia,1982,209.72
+Armenia,1983,206.64
+Armenia,1984,206.04
+Armenia,1985,206.72
+Armenia,1986,205.8
+Armenia,1987,206.88
+Armenia,1988,203.36
+Armenia,1989,200.0
+Armenia,1990,202.4
+Armenia,1991,200.08
+Armenia,1992,178.56
+Armenia,1993,180.08
+Armenia,1994,169.24
+Armenia,1995,181.08
+Armenia,1996,184.68
+Armenia,1997,188.32
+Armenia,1998,191.0
+Armenia,1999,189.24
+Armenia,2000,181.96
+Armenia,2001,179.2
+Armenia,2002,170.76
+Armenia,2003,178.32
+Armenia,2004,195.68
+Armenia,2005,189.28
+Armenia,2006,197.88
+Armenia,2007,189.04
+Armenia,2008,195.52
+Armenia,2009,186.48
+Armenia,2010,177.2
+Armenia,2011,185.6
+Armenia,2012,181.76
+Armenia,2013,187.16
+Australia,1961,147.76
+Australia,1962,148.72
+Australia,1963,153.8
+Australia,1964,151.0
+Australia,1965,146.12
+Australia,1966,159.52
+Australia,1967,153.2
+Australia,1968,150.56
+Australia,1969,146.92
+Australia,1970,149.68
+Australia,1971,150.0
+Australia,1972,147.44
+Australia,1973,137.08
+Australia,1974,144.32
+Australia,1975,141.4
+Australia,1976,136.44
+Australia,1977,136.92
+Australia,1978,134.28
+Australia,1979,136.24
+Australia,1980,136.28
+Australia,1981,138.24
+Australia,1982,142.68
+Australia,1983,138.56
+Australia,1984,152.04
+Australia,1985,150.52
+Australia,1986,146.08
+Australia,1987,150.92
+Australia,1988,151.28
+Australia,1989,145.6
+Australia,1990,150.68
+Australia,1991,142.76
+Australia,1992,133.48
+Australia,1993,131.04
+Australia,1994,137.76
+Australia,1995,154.48
+Australia,1996,147.0
+Australia,1997,146.28
+Australia,1998,135.24
+Australia,1999,132.36
+Australia,2000,133.72
+Australia,2001,132.48
+Australia,2002,146.24
+Australia,2003,158.16
+Australia,2004,142.4
+Australia,2005,139.32
+Australia,2006,137.84
+Australia,2007,140.4
+Australia,2008,148.88
+Australia,2009,141.12
+Australia,2010,136.2
+Australia,2011,136.08
+Australia,2012,136.88
+Australia,2013,138.4
+Austria,1961,160.4
+Austria,1962,156.72
+Austria,1963,160.08
+Austria,1964,158.56
+Austria,1965,156.52
+Austria,1966,155.44
+Austria,1967,151.08
+Austria,1968,151.6
+Austria,1969,149.16
+Austria,1970,148.4
+Austria,1971,146.48
+Austria,1972,144.36
+Austria,1973,143.96
+Austria,1974,136.08
+Austria,1975,138.6
+Austria,1976,135.44
+Austria,1977,133.04
+Austria,1978,133.72
+Austria,1979,135.8
+Austria,1980,134.88
+Austria,1981,135.4
+Austria,1982,136.08
+Austria,1983,131.48
+Austria,1984,134.0
+Austria,1985,133.04
+Austria,1986,135.36
+Austria,1987,137.96
+Austria,1988,136.04
+Austria,1989,141.88
+Austria,1990,146.76
+Austria,1991,146.0
+Austria,1992,142.2
+Austria,1993,142.08
+Austria,1994,137.96
+Austria,1995,147.68
+Austria,1996,151.0
+Austria,1997,137.32
+Austria,1998,157.68
+Austria,1999,163.56
+Austria,2000,164.72
+Austria,2001,168.12
+Austria,2002,166.36
+Austria,2003,167.96
+Austria,2004,165.08
+Austria,2005,168.56
+Austria,2006,169.48
+Austria,2007,172.52
+Austria,2008,169.92
+Austria,2009,169.52
+Austria,2010,164.84
+Austria,2011,170.0
+Austria,2012,170.12
+Austria,2013,173.4
+Azerbaijan,1961,237.96
+Azerbaijan,1962,239.6
+Azerbaijan,1963,238.32
+Azerbaijan,1964,239.64
+Azerbaijan,1965,235.12
+Azerbaijan,1966,230.08
+Azerbaijan,1967,226.68
+Azerbaijan,1968,224.52
+Azerbaijan,1969,224.2
+Azerbaijan,1970,224.72
+Azerbaijan,1971,222.0
+Azerbaijan,1972,217.76
+Azerbaijan,1973,218.76
+Azerbaijan,1974,216.92
+Azerbaijan,1975,214.0
+Azerbaijan,1976,215.24
+Azerbaijan,1977,212.04
+Azerbaijan,1978,212.76
+Azerbaijan,1979,211.68
+Azerbaijan,1980,209.2
+Azerbaijan,1981,207.24
+Azerbaijan,1982,209.72
+Azerbaijan,1983,206.64
+Azerbaijan,1984,206.04
+Azerbaijan,1985,206.72
+Azerbaijan,1986,205.8
+Azerbaijan,1987,206.88
+Azerbaijan,1988,203.36
+Azerbaijan,1989,200.0
+Azerbaijan,1990,202.4
+Azerbaijan,1991,200.08
+Azerbaijan,1992,196.32
+Azerbaijan,1993,199.24
+Azerbaijan,1994,189.84
+Azerbaijan,1995,184.16
+Azerbaijan,1996,189.36
+Azerbaijan,1997,177.48
+Azerbaijan,1998,183.4
+Azerbaijan,1999,187.12
+Azerbaijan,2000,197.04
+Azerbaijan,2001,206.92
+Azerbaijan,2002,211.28
+Azerbaijan,2003,215.96
+Azerbaijan,2004,224.4
+Azerbaijan,2005,242.28
+Azerbaijan,2006,261.6
+Azerbaijan,2007,263.4
+Azerbaijan,2008,265.2
+Azerbaijan,2009,253.56
+Azerbaijan,2010,242.28
+Azerbaijan,2011,247.96
+Azerbaijan,2012,249.72
+Azerbaijan,2013,252.28
+Bahamas,1961,138.88
+Bahamas,1962,134.68
+Bahamas,1963,132.64
+Bahamas,1964,129.32
+Bahamas,1965,127.04
+Bahamas,1966,131.72
+Bahamas,1967,128.76
+Bahamas,1968,123.12
+Bahamas,1969,122.92
+Bahamas,1970,121.32
+Bahamas,1971,122.44
+Bahamas,1972,114.84
+Bahamas,1973,112.32
+Bahamas,1974,110.76
+Bahamas,1975,109.4
+Bahamas,1976,113.12
+Bahamas,1977,104.8
+Bahamas,1978,99.64
+Bahamas,1979,102.08
+Bahamas,1980,114.64
+Bahamas,1981,104.32
+Bahamas,1982,126.6
+Bahamas,1983,125.56
+Bahamas,1984,118.6
+Bahamas,1985,122.84
+Bahamas,1986,124.88
+Bahamas,1987,120.04
+Bahamas,1988,124.0
+Bahamas,1989,123.68
+Bahamas,1990,119.52
+Bahamas,1991,110.24
+Bahamas,1992,109.32
+Bahamas,1993,104.2
+Bahamas,1994,110.0
+Bahamas,1995,123.24
+Bahamas,1996,123.16
+Bahamas,1997,124.88
+Bahamas,1998,117.76
+Bahamas,1999,120.24
+Bahamas,2000,129.48
+Bahamas,2001,127.96
+Bahamas,2002,121.52
+Bahamas,2003,119.36
+Bahamas,2004,111.64
+Bahamas,2005,111.0
+Bahamas,2006,113.6
+Bahamas,2007,112.72
+Bahamas,2008,109.8
+Bahamas,2009,111.64
+Bahamas,2010,107.32
+Bahamas,2011,105.96
+Bahamas,2012,119.8
+Bahamas,2013,120.76
+Bangladesh,1961,160.16
+Bangladesh,1962,156.84
+Bangladesh,1963,160.64
+Bangladesh,1964,159.48
+Bangladesh,1965,154.12
+Bangladesh,1966,152.52
+Bangladesh,1967,142.04
+Bangladesh,1968,149.16
+Bangladesh,1969,156.44
+Bangladesh,1970,162.88
+Bangladesh,1971,151.28
+Bangladesh,1972,142.16
+Bangladesh,1973,155.68
+Bangladesh,1974,159.68
+Bangladesh,1975,152.56
+Bangladesh,1976,160.56
+Bangladesh,1977,145.72
+Bangladesh,1978,159.2
+Bangladesh,1979,160.96
+Bangladesh,1980,159.88
+Bangladesh,1981,154.48
+Bangladesh,1982,156.84
+Bangladesh,1983,158.92
+Bangladesh,1984,157.92
+Bangladesh,1985,162.36
+Bangladesh,1986,155.92
+Bangladesh,1987,161.36
+Bangladesh,1988,161.28
+Bangladesh,1989,159.0
+Bangladesh,1990,162.8
+Bangladesh,1991,160.72
+Bangladesh,1992,158.84
+Bangladesh,1993,150.08
+Bangladesh,1994,152.36
+Bangladesh,1995,153.92
+Bangladesh,1996,153.76
+Bangladesh,1997,154.6
+Bangladesh,1998,156.2
+Bangladesh,1999,172.48
+Bangladesh,2000,167.12
+Bangladesh,2001,171.68
+Bangladesh,2002,174.76
+Bangladesh,2003,175.28
+Bangladesh,2004,179.0
+Bangladesh,2005,176.24
+Bangladesh,2006,175.12
+Bangladesh,2007,181.64
+Bangladesh,2008,174.56
+Bangladesh,2009,183.92
+Bangladesh,2010,184.8
+Bangladesh,2011,179.08
+Bangladesh,2012,179.08
+Bangladesh,2013,183.68
+Barbados,1961,130.12
+Barbados,1962,130.88
+Barbados,1963,133.44
+Barbados,1964,130.04
+Barbados,1965,124.12
+Barbados,1966,125.92
+Barbados,1967,145.52
+Barbados,1968,134.44
+Barbados,1969,129.72
+Barbados,1970,136.4
+Barbados,1971,138.68
+Barbados,1972,128.36
+Barbados,1973,131.8
+Barbados,1974,120.16
+Barbados,1975,125.36
+Barbados,1976,127.64
+Barbados,1977,130.08
+Barbados,1978,134.64
+Barbados,1979,134.32
+Barbados,1980,141.96
+Barbados,1981,134.96
+Barbados,1982,127.88
+Barbados,1983,132.48
+Barbados,1984,135.08
+Barbados,1985,135.72
+Barbados,1986,144.28
+Barbados,1987,147.28
+Barbados,1988,140.68
+Barbados,1989,143.0
+Barbados,1990,144.76
+Barbados,1991,147.6
+Barbados,1992,143.52
+Barbados,1993,144.4
+Barbados,1994,144.88
+Barbados,1995,141.28
+Barbados,1996,137.2
+Barbados,1997,137.04
+Barbados,1998,134.64
+Barbados,1999,142.08
+Barbados,2000,136.52
+Barbados,2001,148.48
+Barbados,2002,148.52
+Barbados,2003,150.68
+Barbados,2004,144.92
+Barbados,2005,150.2
+Barbados,2006,149.96
+Barbados,2007,148.24
+Barbados,2008,146.76
+Barbados,2009,146.84
+Barbados,2010,145.28
+Barbados,2011,148.56
+Barbados,2012,149.24
+Barbados,2013,150.88
+Belarus,1961,237.96
+Belarus,1962,239.6
+Belarus,1963,238.32
+Belarus,1964,239.64
+Belarus,1965,235.12
+Belarus,1966,230.08
+Belarus,1967,226.68
+Belarus,1968,224.52
+Belarus,1969,224.2
+Belarus,1970,224.72
+Belarus,1971,222.0
+Belarus,1972,217.76
+Belarus,1973,218.76
+Belarus,1974,216.92
+Belarus,1975,214.0
+Belarus,1976,215.24
+Belarus,1977,212.04
+Belarus,1978,212.76
+Belarus,1979,211.68
+Belarus,1980,209.2
+Belarus,1981,207.24
+Belarus,1982,209.72
+Belarus,1983,206.64
+Belarus,1984,206.04
+Belarus,1985,206.72
+Belarus,1986,205.8
+Belarus,1987,206.88
+Belarus,1988,203.36
+Belarus,1989,200.0
+Belarus,1990,202.4
+Belarus,1991,200.08
+Belarus,1992,177.36
+Belarus,1993,179.2
+Belarus,1994,175.92
+Belarus,1995,177.4
+Belarus,1996,179.44
+Belarus,1997,178.08
+Belarus,1998,171.68
+Belarus,1999,169.76
+Belarus,2000,168.12
+Belarus,2001,161.92
+Belarus,2002,155.48
+Belarus,2003,156.72
+Belarus,2004,165.24
+Belarus,2005,160.88
+Belarus,2006,163.36
+Belarus,2007,163.04
+Belarus,2008,160.96
+Belarus,2009,155.68
+Belarus,2010,159.88
+Belarus,2011,166.12
+Belarus,2012,166.72
+Belarus,2013,155.44
+Belgium,1961,162.32
+Belgium,1962,160.4
+Belgium,1963,161.28
+Belgium,1964,167.88
+Belgium,1965,161.04
+Belgium,1966,157.76
+Belgium,1967,158.16
+Belgium,1968,154.88
+Belgium,1969,162.64
+Belgium,1970,152.04
+Belgium,1971,158.0
+Belgium,1972,155.24
+Belgium,1973,156.6
+Belgium,1974,152.32
+Belgium,1975,154.96
+Belgium,1976,153.12
+Belgium,1977,157.44
+Belgium,1978,157.0
+Belgium,1979,150.52
+Belgium,1980,154.08
+Belgium,1981,158.88
+Belgium,1982,157.76
+Belgium,1983,154.0
+Belgium,1984,163.12
+Belgium,1985,157.24
+Belgium,1986,154.68
+Belgium,1987,155.12
+Belgium,1988,158.08
+Belgium,1989,157.48
+Belgium,1990,160.28
+Belgium,1991,160.36
+Belgium,1992,166.04
+Belgium,1993,161.52
+Belgium,1994,158.92
+Belgium,1995,155.28
+Belgium,1996,155.32
+Belgium,1997,158.24
+Belgium,1998,157.96
+Belgium,1999,159.12
+Belgium,2000,152.36
+Belgium,2001,151.4
+Belgium,2002,154.96
+Belgium,2003,157.88
+Belgium,2004,156.88
+Belgium,2005,155.08
+Belgium,2006,157.44
+Belgium,2007,156.48
+Belgium,2008,157.56
+Belgium,2009,160.28
+Belgium,2010,159.56
+Belgium,2011,161.0
+Belgium,2012,162.12
+Belgium,2013,165.88
+Belize,1961,136.68
+Belize,1962,131.96
+Belize,1963,142.36
+Belize,1964,137.04
+Belize,1965,135.76
+Belize,1966,133.32
+Belize,1967,135.28
+Belize,1968,132.08
+Belize,1969,132.52
+Belize,1970,129.6
+Belize,1971,132.56
+Belize,1972,133.04
+Belize,1973,131.52
+Belize,1974,136.68
+Belize,1975,133.56
+Belize,1976,131.44
+Belize,1977,133.12
+Belize,1978,137.64
+Belize,1979,138.36
+Belize,1980,142.84
+Belize,1981,142.2
+Belize,1982,140.68
+Belize,1983,131.56
+Belize,1984,132.32
+Belize,1985,130.4
+Belize,1986,126.8
+Belize,1987,136.84
+Belize,1988,134.36
+Belize,1989,144.88
+Belize,1990,146.68
+Belize,1991,153.64
+Belize,1992,162.52
+Belize,1993,160.76
+Belize,1994,155.08
+Belize,1995,156.48
+Belize,1996,158.12
+Belize,1997,161.44
+Belize,1998,164.12
+Belize,1999,165.08
+Belize,2000,167.6
+Belize,2001,173.84
+Belize,2002,180.76
+Belize,2003,187.24
+Belize,2004,185.12
+Belize,2005,184.56
+Belize,2006,176.16
+Belize,2007,175.96
+Belize,2008,168.44
+Belize,2009,172.16
+Belize,2010,176.96
+Belize,2011,173.96
+Belize,2012,167.6
+Belize,2013,177.28
+Benin,1961,137.84
+Benin,1962,137.92
+Benin,1963,131.16
+Benin,1964,126.36
+Benin,1965,140.72
+Benin,1966,133.4
+Benin,1967,143.56
+Benin,1968,150.2
+Benin,1969,143.8
+Benin,1970,135.28
+Benin,1971,141.04
+Benin,1972,131.92
+Benin,1973,141.8
+Benin,1974,124.16
+Benin,1975,114.72
+Benin,1976,140.08
+Benin,1977,138.48
+Benin,1978,139.52
+Benin,1979,151.2
+Benin,1980,148.64
+Benin,1981,139.52
+Benin,1982,130.6
+Benin,1983,125.0
+Benin,1984,147.92
+Benin,1985,152.28
+Benin,1986,158.16
+Benin,1987,147.92
+Benin,1988,152.96
+Benin,1989,168.88
+Benin,1990,169.52
+Benin,1991,176.28
+Benin,1992,175.24
+Benin,1993,168.44
+Benin,1994,172.64
+Benin,1995,174.96
+Benin,1996,178.2
+Benin,1997,180.36
+Benin,1998,182.64
+Benin,1999,178.68
+Benin,2000,183.8
+Benin,2001,181.76
+Benin,2002,194.4
+Benin,2003,183.12
+Benin,2004,198.0
+Benin,2005,195.12
+Benin,2006,193.8
+Benin,2007,201.28
+Benin,2008,204.2
+Benin,2009,206.6
+Benin,2010,201.96
+Benin,2011,195.6
+Benin,2012,201.0
+Benin,2013,200.72
+Bermuda,1961,100.52
+Bermuda,1962,103.36
+Bermuda,1963,97.92
+Bermuda,1964,102.28
+Bermuda,1965,100.0
+Bermuda,1966,94.92
+Bermuda,1967,101.04
+Bermuda,1968,98.4
+Bermuda,1969,99.08
+Bermuda,1970,108.72
+Bermuda,1971,103.92
+Bermuda,1972,107.12
+Bermuda,1973,109.4
+Bermuda,1974,106.76
+Bermuda,1975,104.72
+Bermuda,1976,109.0
+Bermuda,1977,107.8
+Bermuda,1978,116.96
+Bermuda,1979,115.08
+Bermuda,1980,117.6
+Bermuda,1981,120.72
+Bermuda,1982,127.84
+Bermuda,1983,130.72
+Bermuda,1984,142.08
+Bermuda,1985,137.56
+Bermuda,1986,142.28
+Bermuda,1987,142.44
+Bermuda,1988,120.92
+Bermuda,1989,129.08
+Bermuda,1990,110.48
+Bermuda,1991,120.2
+Bermuda,1992,137.88
+Bermuda,1993,136.16
+Bermuda,1994,140.52
+Bermuda,1995,145.84
+Bermuda,1996,142.64
+Bermuda,1997,130.08
+Bermuda,1998,125.16
+Bermuda,1999,115.84
+Bermuda,2000,114.84
+Bermuda,2001,111.0
+Bermuda,2002,108.4
+Bermuda,2003,94.0
+Bermuda,2004,95.88
+Bermuda,2005,100.52
+Bermuda,2006,102.4
+Bermuda,2007,105.2
+Bermuda,2008,104.88
+Bermuda,2009,109.24
+Bermuda,2010,111.6
+Bermuda,2011,101.84
+Bermuda,2012,103.84
+Bermuda,2013,122.04
+Bolivia,1961,129.84
+Bolivia,1962,131.92
+Bolivia,1963,135.6
+Bolivia,1964,128.08
+Bolivia,1965,135.76
+Bolivia,1966,131.8
+Bolivia,1967,134.6
+Bolivia,1968,138.72
+Bolivia,1969,130.92
+Bolivia,1970,137.52
+Bolivia,1971,142.2
+Bolivia,1972,138.52
+Bolivia,1973,131.04
+Bolivia,1974,145.76
+Bolivia,1975,151.96
+Bolivia,1976,149.12
+Bolivia,1977,134.2
+Bolivia,1978,138.44
+Bolivia,1979,138.28
+Bolivia,1980,132.2
+Bolivia,1981,138.76
+Bolivia,1982,132.64
+Bolivia,1983,120.8
+Bolivia,1984,138.08
+Bolivia,1985,151.88
+Bolivia,1986,138.56
+Bolivia,1987,140.12
+Bolivia,1988,131.8
+Bolivia,1989,134.56
+Bolivia,1990,126.24
+Bolivia,1991,136.08
+Bolivia,1992,135.04
+Bolivia,1993,134.64
+Bolivia,1994,126.56
+Bolivia,1995,134.6
+Bolivia,1996,123.2
+Bolivia,1997,125.76
+Bolivia,1998,118.84
+Bolivia,1999,131.04
+Bolivia,2000,134.56
+Bolivia,2001,135.08
+Bolivia,2002,134.56
+Bolivia,2003,136.8
+Bolivia,2004,129.76
+Bolivia,2005,132.44
+Bolivia,2006,134.76
+Bolivia,2007,134.0
+Bolivia,2008,130.52
+Bolivia,2009,136.36
+Bolivia,2010,139.8
+Bolivia,2011,142.52
+Bolivia,2012,140.2
+Bolivia,2013,145.0
+Bosnia and Herzegovina,1992,208.12
+Bosnia and Herzegovina,1993,223.52
+Bosnia and Herzegovina,1994,247.52
+Bosnia and Herzegovina,1995,243.52
+Bosnia and Herzegovina,1996,250.16
+Bosnia and Herzegovina,1997,271.48
+Bosnia and Herzegovina,1998,262.08
+Bosnia and Herzegovina,1999,246.32
+Bosnia and Herzegovina,2000,220.64
+Bosnia and Herzegovina,2001,225.92
+Bosnia and Herzegovina,2002,231.8
+Bosnia and Herzegovina,2003,225.16
+Bosnia and Herzegovina,2004,251.2
+Bosnia and Herzegovina,2005,236.64
+Bosnia and Herzegovina,2006,235.68
+Bosnia and Herzegovina,2007,235.6
+Bosnia and Herzegovina,2008,241.72
+Bosnia and Herzegovina,2009,236.76
+Bosnia and Herzegovina,2010,235.8
+Bosnia and Herzegovina,2011,237.16
+Bosnia and Herzegovina,2012,230.84
+Bosnia and Herzegovina,2013,244.88
+Botswana,1961,192.8
+Botswana,1962,175.72
+Botswana,1963,180.28
+Botswana,1964,180.84
+Botswana,1965,181.64
+Botswana,1966,174.2
+Botswana,1967,182.4
+Botswana,1968,186.44
+Botswana,1969,181.2
+Botswana,1970,178.68
+Botswana,1971,186.32
+Botswana,1972,188.2
+Botswana,1973,182.2
+Botswana,1974,169.68
+Botswana,1975,182.12
+Botswana,1976,177.56
+Botswana,1977,191.4
+Botswana,1978,171.6
+Botswana,1979,178.6
+Botswana,1980,168.16
+Botswana,1981,167.08
+Botswana,1982,168.04
+Botswana,1983,177.0
+Botswana,1984,173.36
+Botswana,1985,186.68
+Botswana,1986,183.8
+Botswana,1987,176.28
+Botswana,1988,174.6
+Botswana,1989,168.92
+Botswana,1990,166.68
+Botswana,1991,154.72
+Botswana,1992,153.24
+Botswana,1993,157.32
+Botswana,1994,179.6
+Botswana,1995,168.2
+Botswana,1996,173.0
+Botswana,1997,165.16
+Botswana,1998,154.72
+Botswana,1999,161.12
+Botswana,2000,157.28
+Botswana,2001,168.2
+Botswana,2002,165.64
+Botswana,2003,163.84
+Botswana,2004,156.04
+Botswana,2005,142.32
+Botswana,2006,138.48
+Botswana,2007,138.52
+Botswana,2008,145.28
+Botswana,2009,157.68
+Botswana,2010,154.92
+Botswana,2011,153.96
+Botswana,2012,157.32
+Botswana,2013,153.8
+Brazil,1961,153.8
+Brazil,1962,155.96
+Brazil,1963,158.32
+Brazil,1964,162.52
+Brazil,1965,165.16
+Brazil,1966,165.92
+Brazil,1967,172.84
+Brazil,1968,172.8
+Brazil,1969,164.84
+Brazil,1970,161.68
+Brazil,1971,171.24
+Brazil,1972,162.72
+Brazil,1973,156.52
+Brazil,1974,155.6
+Brazil,1975,153.56
+Brazil,1976,150.16
+Brazil,1977,152.24
+Brazil,1978,152.76
+Brazil,1979,157.4
+Brazil,1980,153.6
+Brazil,1981,152.64
+Brazil,1982,156.88
+Brazil,1983,156.32
+Brazil,1984,154.76
+Brazil,1985,155.8
+Brazil,1986,148.04
+Brazil,1987,149.8
+Brazil,1988,147.84
+Brazil,1989,146.88
+Brazil,1990,145.04
+Brazil,1991,149.24
+Brazil,1992,149.64
+Brazil,1993,152.8
+Brazil,1994,155.48
+Brazil,1995,144.64
+Brazil,1996,158.92
+Brazil,1997,150.72
+Brazil,1998,153.04
+Brazil,1999,155.64
+Brazil,2000,152.6
+Brazil,2001,158.24
+Brazil,2002,159.04
+Brazil,2003,171.72
+Brazil,2004,165.72
+Brazil,2005,169.0
+Brazil,2006,167.96
+Brazil,2007,168.24
+Brazil,2008,170.72
+Brazil,2009,168.2
+Brazil,2010,171.72
+Brazil,2011,174.04
+Brazil,2012,168.56
+Brazil,2013,169.6
+Brunei,1961,100.76
+Brunei,1962,100.44
+Brunei,1963,102.24
+Brunei,1964,96.92
+Brunei,1965,104.04
+Brunei,1966,123.84
+Brunei,1967,127.12
+Brunei,1968,113.32
+Brunei,1969,126.28
+Brunei,1970,114.72
+Brunei,1971,125.0
+Brunei,1972,116.04
+Brunei,1973,111.16
+Brunei,1974,109.96
+Brunei,1975,111.44
+Brunei,1976,113.68
+Brunei,1977,114.08
+Brunei,1978,131.28
+Brunei,1979,132.56
+Brunei,1980,143.16
+Brunei,1981,137.28
+Brunei,1982,137.32
+Brunei,1983,140.04
+Brunei,1984,154.28
+Brunei,1985,177.0
+Brunei,1986,170.72
+Brunei,1987,163.48
+Brunei,1988,170.68
+Brunei,1989,176.12
+Brunei,1990,175.12
+Brunei,1991,162.56
+Brunei,1992,165.44
+Brunei,1993,163.48
+Brunei,1994,161.4
+Brunei,1995,161.08
+Brunei,1996,169.0
+Brunei,1997,167.8
+Brunei,1998,171.6
+Brunei,1999,166.2
+Brunei,2000,166.48
+Brunei,2001,167.28
+Brunei,2002,172.64
+Brunei,2003,169.84
+Brunei,2004,162.84
+Brunei,2005,163.64
+Brunei,2006,157.4
+Brunei,2007,150.6
+Brunei,2008,152.76
+Brunei,2009,154.56
+Brunei,2010,153.08
+Brunei,2011,156.08
+Brunei,2012,157.64
+Brunei,2013,161.84
+Bulgaria,1961,269.16
+Bulgaria,1962,267.52
+Bulgaria,1963,271.24
+Bulgaria,1964,271.04
+Bulgaria,1965,277.04
+Bulgaria,1966,280.64
+Bulgaria,1967,270.52
+Bulgaria,1968,264.88
+Bulgaria,1969,264.68
+Bulgaria,1970,259.24
+Bulgaria,1971,262.76
+Bulgaria,1972,256.44
+Bulgaria,1973,250.36
+Bulgaria,1974,246.68
+Bulgaria,1975,243.48
+Bulgaria,1976,247.56
+Bulgaria,1977,238.6
+Bulgaria,1978,241.28
+Bulgaria,1979,241.48
+Bulgaria,1980,240.68
+Bulgaria,1981,241.96
+Bulgaria,1982,237.8
+Bulgaria,1983,229.92
+Bulgaria,1984,228.48
+Bulgaria,1985,225.8
+Bulgaria,1986,228.32
+Bulgaria,1987,235.84
+Bulgaria,1988,237.84
+Bulgaria,1989,229.6
+Bulgaria,1990,207.52
+Bulgaria,1991,208.24
+Bulgaria,1992,189.72
+Bulgaria,1993,184.32
+Bulgaria,1994,185.44
+Bulgaria,1995,189.04
+Bulgaria,1996,177.56
+Bulgaria,1997,172.44
+Bulgaria,1998,179.8
+Bulgaria,1999,188.04
+Bulgaria,2000,178.72
+Bulgaria,2001,179.6
+Bulgaria,2002,176.04
+Bulgaria,2003,172.76
+Bulgaria,2004,167.76
+Bulgaria,2005,158.56
+Bulgaria,2006,162.92
+Bulgaria,2007,159.16
+Bulgaria,2008,165.28
+Bulgaria,2009,166.4
+Bulgaria,2010,167.76
+Bulgaria,2011,166.84
+Bulgaria,2012,166.16
+Bulgaria,2013,168.92
+Burkina Faso,1961,149.28
+Burkina Faso,1962,143.96
+Burkina Faso,1963,158.8
+Burkina Faso,1964,171.72
+Burkina Faso,1965,171.6
+Burkina Faso,1966,170.2
+Burkina Faso,1967,173.12
+Burkina Faso,1968,173.44
+Burkina Faso,1969,171.64
+Burkina Faso,1970,165.32
+Burkina Faso,1971,163.04
+Burkina Faso,1972,155.28
+Burkina Faso,1973,155.08
+Burkina Faso,1974,159.04
+Burkina Faso,1975,160.96
+Burkina Faso,1976,164.44
+Burkina Faso,1977,145.92
+Burkina Faso,1978,164.36
+Burkina Faso,1979,172.76
+Burkina Faso,1980,159.24
+Burkina Faso,1981,153.84
+Burkina Faso,1982,167.68
+Burkina Faso,1983,160.36
+Burkina Faso,1984,153.12
+Burkina Faso,1985,170.68
+Burkina Faso,1986,211.56
+Burkina Faso,1987,207.8
+Burkina Faso,1988,212.52
+Burkina Faso,1989,217.32
+Burkina Faso,1990,225.6
+Burkina Faso,1991,226.32
+Burkina Faso,1992,237.56
+Burkina Faso,1993,245.76
+Burkina Faso,1994,242.2
+Burkina Faso,1995,239.68
+Burkina Faso,1996,239.08
+Burkina Faso,1997,227.88
+Burkina Faso,1998,233.28
+Burkina Faso,1999,236.88
+Burkina Faso,2000,236.04
+Burkina Faso,2001,237.52
+Burkina Faso,2002,245.08
+Burkina Faso,2003,259.36
+Burkina Faso,2004,255.48
+Burkina Faso,2005,246.68
+Burkina Faso,2006,254.2
+Burkina Faso,2007,260.32
+Burkina Faso,2008,268.48
+Burkina Faso,2009,271.72
+Burkina Faso,2010,274.44
+Burkina Faso,2011,267.72
+Burkina Faso,2012,271.72
+Burkina Faso,2013,273.24
+Cabo Verde,1961,153.0
+Cabo Verde,1962,152.16
+Cabo Verde,1963,146.52
+Cabo Verde,1964,156.16
+Cabo Verde,1965,167.48
+Cabo Verde,1966,157.36
+Cabo Verde,1967,150.64
+Cabo Verde,1968,132.48
+Cabo Verde,1969,136.4
+Cabo Verde,1970,135.48
+Cabo Verde,1971,136.16
+Cabo Verde,1972,153.16
+Cabo Verde,1973,157.8
+Cabo Verde,1974,149.16
+Cabo Verde,1975,154.68
+Cabo Verde,1976,143.84
+Cabo Verde,1977,135.6
+Cabo Verde,1978,174.08
+Cabo Verde,1979,183.28
+Cabo Verde,1980,177.36
+Cabo Verde,1981,180.76
+Cabo Verde,1982,163.52
+Cabo Verde,1983,182.88
+Cabo Verde,1984,187.04
+Cabo Verde,1985,178.2
+Cabo Verde,1986,199.04
+Cabo Verde,1987,235.44
+Cabo Verde,1988,215.24
+Cabo Verde,1989,208.16
+Cabo Verde,1990,178.72
+Cabo Verde,1991,155.52
+Cabo Verde,1992,163.92
+Cabo Verde,1993,161.6
+Cabo Verde,1994,145.32
+Cabo Verde,1995,131.56
+Cabo Verde,1996,144.28
+Cabo Verde,1997,156.92
+Cabo Verde,1998,153.12
+Cabo Verde,1999,156.08
+Cabo Verde,2000,156.12
+Cabo Verde,2001,151.84
+Cabo Verde,2002,151.64
+Cabo Verde,2003,158.72
+Cabo Verde,2004,165.36
+Cabo Verde,2005,170.16
+Cabo Verde,2006,168.84
+Cabo Verde,2007,174.16
+Cabo Verde,2008,174.96
+Cabo Verde,2009,170.64
+Cabo Verde,2010,170.56
+Cabo Verde,2011,175.16
+Cabo Verde,2012,178.52
+Cabo Verde,2013,182.88
+Cambodia,1961,150.92
+Cambodia,1962,147.44
+Cambodia,1963,152.96
+Cambodia,1964,150.88
+Cambodia,1965,150.08
+Cambodia,1966,152.52
+Cambodia,1967,152.8
+Cambodia,1968,153.68
+Cambodia,1969,155.12
+Cambodia,1970,160.32
+Cambodia,1971,162.28
+Cambodia,1972,157.16
+Cambodia,1973,151.56
+Cambodia,1974,150.24
+Cambodia,1975,127.88
+Cambodia,1976,122.76
+Cambodia,1977,125.16
+Cambodia,1978,129.24
+Cambodia,1979,132.04
+Cambodia,1980,132.44
+Cambodia,1981,143.68
+Cambodia,1982,146.2
+Cambodia,1983,150.68
+Cambodia,1984,147.16
+Cambodia,1985,142.88
+Cambodia,1986,140.0
+Cambodia,1987,152.0
+Cambodia,1988,147.72
+Cambodia,1989,144.92
+Cambodia,1990,148.92
+Cambodia,1991,153.56
+Cambodia,1992,152.24
+Cambodia,1993,151.76
+Cambodia,1994,151.28
+Cambodia,1995,151.12
+Cambodia,1996,138.64
+Cambodia,1997,136.96
+Cambodia,1998,143.08
+Cambodia,1999,147.24
+Cambodia,2000,151.96
+Cambodia,2001,150.44
+Cambodia,2002,154.48
+Cambodia,2003,159.56
+Cambodia,2004,157.96
+Cambodia,2005,166.36
+Cambodia,2006,170.88
+Cambodia,2007,173.16
+Cambodia,2008,173.72
+Cambodia,2009,176.36
+Cambodia,2010,179.56
+Cambodia,2011,181.76
+Cambodia,2012,183.56
+Cambodia,2013,186.2
+Cameroon,1961,178.24
+Cameroon,1962,175.96
+Cameroon,1963,179.64
+Cameroon,1964,177.28
+Cameroon,1965,171.96
+Cameroon,1966,179.48
+Cameroon,1967,167.76
+Cameroon,1968,172.56
+Cameroon,1969,186.8
+Cameroon,1970,186.52
+Cameroon,1971,193.08
+Cameroon,1972,195.64
+Cameroon,1973,189.88
+Cameroon,1974,200.44
+Cameroon,1975,203.96
+Cameroon,1976,199.16
+Cameroon,1977,189.92
+Cameroon,1978,181.4
+Cameroon,1979,183.8
+Cameroon,1980,180.68
+Cameroon,1981,175.72
+Cameroon,1982,173.72
+Cameroon,1983,164.72
+Cameroon,1984,149.64
+Cameroon,1985,147.32
+Cameroon,1986,152.04
+Cameroon,1987,143.76
+Cameroon,1988,146.36
+Cameroon,1989,147.0
+Cameroon,1990,145.84
+Cameroon,1991,149.64
+Cameroon,1992,158.04
+Cameroon,1993,150.64
+Cameroon,1994,155.6
+Cameroon,1995,155.56
+Cameroon,1996,156.96
+Cameroon,1997,160.76
+Cameroon,1998,164.72
+Cameroon,1999,170.96
+Cameroon,2000,173.04
+Cameroon,2001,179.72
+Cameroon,2002,177.8
+Cameroon,2003,179.72
+Cameroon,2004,181.04
+Cameroon,2005,194.56
+Cameroon,2006,201.32
+Cameroon,2007,203.48
+Cameroon,2008,210.4
+Cameroon,2009,215.72
+Cameroon,2010,216.44
+Cameroon,2011,223.88
+Cameroon,2012,228.52
+Cameroon,2013,233.04
+Canada,1961,131.24
+Canada,1962,133.08
+Canada,1963,138.88
+Canada,1964,128.2
+Canada,1965,143.24
+Canada,1966,132.76
+Canada,1967,132.28
+Canada,1968,133.36
+Canada,1969,133.4
+Canada,1970,134.6
+Canada,1971,131.88
+Canada,1972,132.8
+Canada,1973,134.88
+Canada,1974,135.88
+Canada,1975,134.6
+Canada,1976,142.12
+Canada,1977,138.56
+Canada,1978,138.12
+Canada,1979,137.24
+Canada,1980,137.6
+Canada,1981,135.36
+Canada,1982,146.16
+Canada,1983,134.6
+Canada,1984,141.12
+Canada,1985,144.12
+Canada,1986,151.04
+Canada,1987,159.4
+Canada,1988,146.68
+Canada,1989,144.2
+Canada,1990,150.88
+Canada,1991,155.4
+Canada,1992,156.88
+Canada,1993,158.72
+Canada,1994,169.2
+Canada,1995,164.48
+Canada,1996,169.32
+Canada,1997,178.08
+Canada,1998,178.28
+Canada,1999,187.96
+Canada,2000,182.84
+Canada,2001,179.92
+Canada,2002,181.64
+Canada,2003,180.88
+Canada,2004,183.84
+Canada,2005,179.92
+Canada,2006,183.28
+Canada,2007,183.16
+Canada,2008,187.92
+Canada,2009,185.4
+Canada,2010,192.24
+Canada,2011,190.32
+Canada,2012,196.76
+Canada,2013,201.0
+Central African Republic,1961,99.96
+Central African Republic,1962,107.48
+Central African Republic,1963,104.68
+Central African Republic,1964,105.28
+Central African Republic,1965,105.6
+Central African Republic,1966,102.96
+Central African Republic,1967,105.64
+Central African Republic,1968,102.76
+Central African Republic,1969,104.44
+Central African Republic,1970,107.68
+Central African Republic,1971,102.52
+Central African Republic,1972,98.84
+Central African Republic,1973,99.96
+Central African Republic,1974,106.48
+Central African Republic,1975,105.52
+Central African Republic,1976,103.52
+Central African Republic,1977,101.56
+Central African Republic,1978,97.32
+Central African Republic,1979,101.2
+Central African Republic,1980,98.28
+Central African Republic,1981,102.76
+Central African Republic,1982,101.8
+Central African Republic,1983,97.88
+Central African Republic,1984,94.52
+Central African Republic,1985,95.48
+Central African Republic,1986,99.08
+Central African Republic,1987,98.84
+Central African Republic,1988,97.52
+Central African Republic,1989,102.28
+Central African Republic,1990,103.32
+Central African Republic,1991,105.56
+Central African Republic,1992,106.44
+Central African Republic,1993,107.88
+Central African Republic,1994,108.12
+Central African Republic,1995,111.12
+Central African Republic,1996,114.56
+Central African Republic,1997,106.96
+Central African Republic,1998,118.32
+Central African Republic,1999,113.4
+Central African Republic,2000,116.28
+Central African Republic,2001,119.28
+Central African Republic,2002,121.68
+Central African Republic,2003,117.0
+Central African Republic,2004,116.6
+Central African Republic,2005,117.56
+Central African Republic,2006,122.56
+Central African Republic,2007,123.16
+Central African Republic,2008,126.24
+Central African Republic,2009,128.92
+Central African Republic,2010,132.04
+Central African Republic,2011,129.68
+Central African Republic,2012,127.32
+Central African Republic,2013,115.72
+Chad,1961,242.0
+Chad,1962,257.68
+Chad,1963,254.16
+Chad,1964,251.24
+Chad,1965,247.12
+Chad,1966,242.44
+Chad,1967,238.52
+Chad,1968,232.48
+Chad,1969,228.84
+Chad,1970,215.92
+Chad,1971,206.0
+Chad,1972,185.8
+Chad,1973,174.48
+Chad,1974,181.12
+Chad,1975,172.08
+Chad,1976,166.48
+Chad,1977,165.84
+Chad,1978,162.4
+Chad,1979,160.72
+Chad,1980,156.2
+Chad,1981,152.4
+Chad,1982,149.64
+Chad,1983,144.4
+Chad,1984,135.72
+Chad,1985,157.72
+Chad,1986,145.96
+Chad,1987,141.16
+Chad,1988,157.2
+Chad,1989,147.4
+Chad,1990,141.8
+Chad,1991,166.08
+Chad,1992,170.92
+Chad,1993,153.28
+Chad,1994,194.08
+Chad,1995,170.68
+Chad,1996,171.28
+Chad,1997,182.28
+Chad,1998,200.36
+Chad,1999,197.8
+Chad,2000,201.6
+Chad,2001,210.0
+Chad,2002,202.2
+Chad,2003,208.88
+Chad,2004,207.04
+Chad,2005,209.32
+Chad,2006,209.36
+Chad,2007,203.96
+Chad,2008,207.16
+Chad,2009,206.72
+Chad,2010,208.56
+Chad,2011,207.96
+Chad,2012,211.32
+Chad,2013,212.08
+Chile,1961,176.56
+Chile,1962,172.36
+Chile,1963,178.48
+Chile,1964,180.84
+Chile,1965,181.44
+Chile,1966,189.72
+Chile,1967,184.48
+Chile,1968,182.12
+Chile,1969,177.4
+Chile,1970,176.68
+Chile,1971,185.36
+Chile,1972,188.08
+Chile,1973,186.76
+Chile,1974,192.76
+Chile,1975,174.64
+Chile,1976,182.6
+Chile,1977,177.6
+Chile,1978,173.68
+Chile,1979,181.0
+Chile,1980,179.2
+Chile,1981,182.48
+Chile,1982,177.12
+Chile,1983,172.32
+Chile,1984,177.96
+Chile,1985,167.4
+Chile,1986,166.6
+Chile,1987,164.68
+Chile,1988,160.08
+Chile,1989,159.44
+Chile,1990,160.4
+Chile,1991,163.28
+Chile,1992,166.04
+Chile,1993,162.16
+Chile,1994,162.08
+Chile,1995,159.56
+Chile,1996,159.52
+Chile,1997,160.16
+Chile,1998,158.56
+Chile,1999,160.4
+Chile,2000,162.68
+Chile,2001,167.12
+Chile,2002,169.36
+Chile,2003,169.76
+Chile,2004,173.88
+Chile,2005,175.12
+Chile,2006,176.32
+Chile,2007,163.84
+Chile,2008,164.76
+Chile,2009,161.6
+Chile,2010,168.44
+Chile,2011,169.6
+Chile,2012,168.32
+Chile,2013,168.36
+China,1961,143.88
+China,1962,155.0
+China,1963,156.68
+China,1964,161.96
+China,1965,166.64
+China,1966,169.8
+China,1967,165.32
+China,1968,158.04
+China,1969,153.84
+China,1970,162.56
+China,1971,163.96
+China,1972,160.32
+China,1973,165.48
+China,1974,165.04
+China,1975,165.88
+China,1976,164.4
+China,1977,165.88
+China,1978,179.84
+China,1979,180.76
+China,1980,185.88
+China,1981,190.2
+China,1982,200.0
+China,1983,206.44
+China,1984,208.48
+China,1985,206.96
+China,1986,207.0
+China,1987,205.4
+China,1988,202.4
+China,1989,199.4
+China,1990,204.72
+China,1991,195.2
+China,1992,198.24
+China,1993,209.36
+China,1994,213.88
+China,1995,215.56
+China,1996,217.28
+China,1997,221.56
+China,1998,221.56
+China,1999,218.4
+China,2000,225.04
+China,2001,223.6
+China,2002,223.6
+China,2003,220.44
+China,2004,221.44
+China,2005,221.4
+China,2006,218.28
+China,2007,221.36
+China,2008,225.92
+China,2009,225.04
+China,2010,230.16
+China,2011,231.4
+China,2012,232.68
+China,2013,233.6
+Colombia,1961,110.0
+Colombia,1962,109.32
+Colombia,1963,104.12
+Colombia,1964,111.68
+Colombia,1965,110.16
+Colombia,1966,105.68
+Colombia,1967,105.48
+Colombia,1968,107.76
+Colombia,1969,103.24
+Colombia,1970,105.64
+Colombia,1971,107.16
+Colombia,1972,106.24
+Colombia,1973,108.56
+Colombia,1974,112.2
+Colombia,1975,110.48
+Colombia,1976,114.92
+Colombia,1977,111.48
+Colombia,1978,117.76
+Colombia,1979,118.0
+Colombia,1980,121.48
+Colombia,1981,120.0
+Colombia,1982,122.6
+Colombia,1983,123.32
+Colombia,1984,123.6
+Colombia,1985,118.52
+Colombia,1986,117.92
+Colombia,1987,120.08
+Colombia,1988,120.16
+Colombia,1989,120.72
+Colombia,1990,119.64
+Colombia,1991,117.4
+Colombia,1992,126.36
+Colombia,1993,129.04
+Colombia,1994,135.68
+Colombia,1995,135.92
+Colombia,1996,141.0
+Colombia,1997,140.24
+Colombia,1998,135.12
+Colombia,1999,135.2
+Colombia,2000,134.92
+Colombia,2001,135.16
+Colombia,2002,134.0
+Colombia,2003,133.04
+Colombia,2004,128.56
+Colombia,2005,125.48
+Colombia,2006,125.52
+Colombia,2007,127.2
+Colombia,2008,124.64
+Colombia,2009,120.8
+Colombia,2010,118.48
+Colombia,2011,120.6
+Colombia,2012,122.8
+Colombia,2013,123.6
+Congo,1961,82.12
+Congo,1962,87.72
+Congo,1963,87.2
+Congo,1964,88.56
+Congo,1965,86.64
+Congo,1966,83.4
+Congo,1967,84.6
+Congo,1968,86.76
+Congo,1969,83.04
+Congo,1970,82.16
+Congo,1971,90.24
+Congo,1972,95.12
+Congo,1973,91.6
+Congo,1974,91.96
+Congo,1975,93.88
+Congo,1976,89.64
+Congo,1977,95.76
+Congo,1978,95.72
+Congo,1979,91.56
+Congo,1980,93.6
+Congo,1981,90.48
+Congo,1982,97.2
+Congo,1983,98.84
+Congo,1984,99.48
+Congo,1985,99.76
+Congo,1986,101.96
+Congo,1987,102.72
+Congo,1988,98.6
+Congo,1989,101.12
+Congo,1990,102.44
+Congo,1991,104.56
+Congo,1992,109.64
+Congo,1993,106.44
+Congo,1994,105.76
+Congo,1995,101.16
+Congo,1996,95.32
+Congo,1997,104.32
+Congo,1998,111.36
+Congo,1999,114.08
+Congo,2000,116.72
+Congo,2001,120.56
+Congo,2002,121.08
+Congo,2003,119.16
+Congo,2004,117.52
+Congo,2005,102.96
+Congo,2006,104.52
+Congo,2007,105.32
+Congo,2008,106.44
+Congo,2009,114.48
+Congo,2010,117.12
+Congo,2011,116.24
+Congo,2012,120.72
+Congo,2013,117.64
+Costa Rica,1961,113.84
+Costa Rica,1962,116.68
+Costa Rica,1963,114.88
+Costa Rica,1964,118.6
+Costa Rica,1965,131.52
+Costa Rica,1966,129.08
+Costa Rica,1967,129.56
+Costa Rica,1968,128.72
+Costa Rica,1969,128.44
+Costa Rica,1970,128.56
+Costa Rica,1971,126.96
+Costa Rica,1972,128.4
+Costa Rica,1973,123.56
+Costa Rica,1974,124.0
+Costa Rica,1975,124.68
+Costa Rica,1976,125.84
+Costa Rica,1977,120.88
+Costa Rica,1978,117.28
+Costa Rica,1979,121.92
+Costa Rica,1980,134.2
+Costa Rica,1981,131.24
+Costa Rica,1982,125.48
+Costa Rica,1983,133.72
+Costa Rica,1984,137.56
+Costa Rica,1985,131.0
+Costa Rica,1986,130.76
+Costa Rica,1987,138.12
+Costa Rica,1988,132.04
+Costa Rica,1989,147.92
+Costa Rica,1990,139.68
+Costa Rica,1991,137.36
+Costa Rica,1992,125.96
+Costa Rica,1993,127.68
+Costa Rica,1994,138.8
+Costa Rica,1995,148.36
+Costa Rica,1996,136.68
+Costa Rica,1997,144.12
+Costa Rica,1998,136.04
+Costa Rica,1999,140.92
+Costa Rica,2000,157.12
+Costa Rica,2001,141.0
+Costa Rica,2002,142.08
+Costa Rica,2003,140.12
+Costa Rica,2004,142.4
+Costa Rica,2005,141.6
+Costa Rica,2006,145.88
+Costa Rica,2007,145.08
+Costa Rica,2008,142.68
+Costa Rica,2009,144.32
+Costa Rica,2010,146.16
+Costa Rica,2011,149.04
+Costa Rica,2012,138.64
+Costa Rica,2013,136.36
+Cote d'Ivoire,1961,138.84
+Cote d'Ivoire,1962,148.4
+Cote d'Ivoire,1963,161.36
+Cote d'Ivoire,1964,166.16
+Cote d'Ivoire,1965,167.0
+Cote d'Ivoire,1966,163.48
+Cote d'Ivoire,1967,164.64
+Cote d'Ivoire,1968,169.92
+Cote d'Ivoire,1969,168.76
+Cote d'Ivoire,1970,171.2
+Cote d'Ivoire,1971,163.16
+Cote d'Ivoire,1972,161.0
+Cote d'Ivoire,1973,159.0
+Cote d'Ivoire,1974,157.44
+Cote d'Ivoire,1975,160.48
+Cote d'Ivoire,1976,160.8
+Cote d'Ivoire,1977,158.8
+Cote d'Ivoire,1978,163.4
+Cote d'Ivoire,1979,172.0
+Cote d'Ivoire,1980,176.52
+Cote d'Ivoire,1981,177.48
+Cote d'Ivoire,1982,174.56
+Cote d'Ivoire,1983,170.92
+Cote d'Ivoire,1984,169.36
+Cote d'Ivoire,1985,163.28
+Cote d'Ivoire,1986,162.48
+Cote d'Ivoire,1987,161.32
+Cote d'Ivoire,1988,161.36
+Cote d'Ivoire,1989,157.16
+Cote d'Ivoire,1990,156.08
+Cote d'Ivoire,1991,157.08
+Cote d'Ivoire,1992,157.92
+Cote d'Ivoire,1993,156.24
+Cote d'Ivoire,1994,154.28
+Cote d'Ivoire,1995,156.76
+Cote d'Ivoire,1996,159.24
+Cote d'Ivoire,1997,160.4
+Cote d'Ivoire,1998,160.72
+Cote d'Ivoire,1999,158.8
+Cote d'Ivoire,2000,158.24
+Cote d'Ivoire,2001,159.84
+Cote d'Ivoire,2002,159.6
+Cote d'Ivoire,2003,158.56
+Cote d'Ivoire,2004,163.88
+Cote d'Ivoire,2005,167.76
+Cote d'Ivoire,2006,168.8
+Cote d'Ivoire,2007,168.4
+Cote d'Ivoire,2008,169.48
+Cote d'Ivoire,2009,170.92
+Cote d'Ivoire,2010,172.32
+Cote d'Ivoire,2011,173.52
+Cote d'Ivoire,2012,178.8
+Cote d'Ivoire,2013,179.36
+Croatia,1992,118.96
+Croatia,1993,124.2
+Croatia,1994,130.36
+Croatia,1995,141.52
+Croatia,1996,145.68
+Croatia,1997,147.72
+Croatia,1998,145.4
+Croatia,1999,151.92
+Croatia,2000,144.36
+Croatia,2001,159.44
+Croatia,2002,161.24
+Croatia,2003,156.8
+Croatia,2004,145.04
+Croatia,2005,146.68
+Croatia,2006,141.32
+Croatia,2007,142.72
+Croatia,2008,143.84
+Croatia,2009,148.64
+Croatia,2010,145.88
+Croatia,2011,146.0
+Croatia,2012,140.04
+Croatia,2013,145.48
+Cuba,1961,117.12
+Cuba,1962,116.2
+Cuba,1963,131.56
+Cuba,1964,118.6
+Cuba,1965,119.76
+Cuba,1966,111.2
+Cuba,1967,115.44
+Cuba,1968,114.96
+Cuba,1969,120.48
+Cuba,1970,128.28
+Cuba,1971,140.92
+Cuba,1972,134.16
+Cuba,1973,131.36
+Cuba,1974,146.92
+Cuba,1975,128.48
+Cuba,1976,139.44
+Cuba,1977,136.36
+Cuba,1978,137.8
+Cuba,1979,132.52
+Cuba,1980,145.6
+Cuba,1981,145.96
+Cuba,1982,145.44
+Cuba,1983,145.88
+Cuba,1984,150.96
+Cuba,1985,153.92
+Cuba,1986,144.96
+Cuba,1987,149.84
+Cuba,1988,145.72
+Cuba,1989,146.8
+Cuba,1990,135.88
+Cuba,1991,130.16
+Cuba,1992,134.92
+Cuba,1993,114.76
+Cuba,1994,128.68
+Cuba,1995,124.8
+Cuba,1996,134.16
+Cuba,1997,143.8
+Cuba,1998,153.04
+Cuba,1999,180.48
+Cuba,2000,186.6
+Cuba,2001,200.16
+Cuba,2002,197.04
+Cuba,2003,221.52
+Cuba,2004,214.24
+Cuba,2005,225.04
+Cuba,2006,228.76
+Cuba,2007,226.08
+Cuba,2008,236.44
+Cuba,2009,220.24
+Cuba,2010,196.48
+Cuba,2011,216.2
+Cuba,2012,226.68
+Cuba,2013,236.36
+Cyprus,1961,183.44
+Cyprus,1962,191.92
+Cyprus,1963,188.0
+Cyprus,1964,196.24
+Cyprus,1965,188.4
+Cyprus,1966,189.28
+Cyprus,1967,200.52
+Cyprus,1968,195.68
+Cyprus,1969,206.04
+Cyprus,1970,191.64
+Cyprus,1971,188.68
+Cyprus,1972,160.88
+Cyprus,1973,166.0
+Cyprus,1974,157.52
+Cyprus,1975,154.6
+Cyprus,1976,159.92
+Cyprus,1977,152.92
+Cyprus,1978,140.16
+Cyprus,1979,145.88
+Cyprus,1980,143.88
+Cyprus,1981,144.0
+Cyprus,1982,143.56
+Cyprus,1983,152.36
+Cyprus,1984,151.16
+Cyprus,1985,154.52
+Cyprus,1986,152.64
+Cyprus,1987,152.84
+Cyprus,1988,146.28
+Cyprus,1989,148.44
+Cyprus,1990,145.64
+Cyprus,1991,138.84
+Cyprus,1992,153.84
+Cyprus,1993,147.6
+Cyprus,1994,140.28
+Cyprus,1995,147.12
+Cyprus,1996,136.96
+Cyprus,1997,138.52
+Cyprus,1998,142.12
+Cyprus,1999,143.76
+Cyprus,2000,133.52
+Cyprus,2001,131.96
+Cyprus,2002,129.0
+Cyprus,2003,120.16
+Cyprus,2004,120.92
+Cyprus,2005,118.76
+Cyprus,2006,116.88
+Cyprus,2007,127.48
+Cyprus,2008,130.12
+Cyprus,2009,126.88
+Cyprus,2010,133.92
+Cyprus,2011,125.72
+Cyprus,2012,130.44
+Cyprus,2013,130.24
+Czechia,1993,133.56
+Czechia,1994,146.24
+Czechia,1995,158.8
+Czechia,1996,163.2
+Czechia,1997,157.84
+Czechia,1998,160.28
+Czechia,1999,142.0
+Czechia,2000,142.44
+Czechia,2001,153.64
+Czechia,2002,155.16
+Czechia,2003,154.52
+Czechia,2004,159.84
+Czechia,2005,165.72
+Czechia,2006,158.32
+Czechia,2007,153.68
+Czechia,2008,153.56
+Czechia,2009,151.32
+Czechia,2010,151.12
+Czechia,2011,154.36
+Czechia,2012,142.64
+Czechia,2013,147.96
+Czechoslovakia,1961,191.08
+Czechoslovakia,1962,196.48
+Czechoslovakia,1963,200.88
+Czechoslovakia,1964,201.96
+Czechoslovakia,1965,195.88
+Czechoslovakia,1966,197.16
+Czechoslovakia,1967,194.92
+Czechoslovakia,1968,191.4
+Czechoslovakia,1969,182.6
+Czechoslovakia,1970,178.36
+Czechoslovakia,1971,176.96
+Czechoslovakia,1972,174.64
+Czechoslovakia,1973,173.56
+Czechoslovakia,1974,173.32
+Czechoslovakia,1975,172.04
+Czechoslovakia,1976,170.72
+Czechoslovakia,1977,166.04
+Czechoslovakia,1978,166.16
+Czechoslovakia,1979,164.52
+Czechoslovakia,1980,160.52
+Czechoslovakia,1981,164.48
+Czechoslovakia,1982,170.72
+Czechoslovakia,1983,167.04
+Czechoslovakia,1984,173.0
+Czechoslovakia,1985,172.84
+Czechoslovakia,1986,173.64
+Czechoslovakia,1987,177.08
+Czechoslovakia,1988,180.12
+Czechoslovakia,1989,183.12
+Czechoslovakia,1990,182.8
+Czechoslovakia,1991,174.24
+Czechoslovakia,1992,157.04
+Denmark,1961,140.52
+Denmark,1962,136.8
+Denmark,1963,133.52
+Denmark,1964,129.88
+Denmark,1965,126.76
+Denmark,1966,127.72
+Denmark,1967,124.36
+Denmark,1968,124.24
+Denmark,1969,121.8
+Denmark,1970,126.8
+Denmark,1971,123.84
+Denmark,1972,123.8
+Denmark,1973,121.96
+Denmark,1974,122.04
+Denmark,1975,117.72
+Denmark,1976,119.72
+Denmark,1977,121.48
+Denmark,1978,122.16
+Denmark,1979,123.2
+Denmark,1980,127.12
+Denmark,1981,131.2
+Denmark,1982,130.64
+Denmark,1983,130.4
+Denmark,1984,135.04
+Denmark,1985,139.36
+Denmark,1986,140.28
+Denmark,1987,142.04
+Denmark,1988,139.28
+Denmark,1989,136.56
+Denmark,1990,133.32
+Denmark,1991,138.36
+Denmark,1992,142.96
+Denmark,1993,145.32
+Denmark,1994,146.32
+Denmark,1995,147.84
+Denmark,1996,145.6
+Denmark,1997,155.2
+Denmark,1998,161.08
+Denmark,1999,160.2
+Denmark,2000,151.2
+Denmark,2001,151.12
+Denmark,2002,152.8
+Denmark,2003,152.92
+Denmark,2004,155.24
+Denmark,2005,158.48
+Denmark,2006,160.92
+Denmark,2007,157.56
+Denmark,2008,159.16
+Denmark,2009,159.52
+Denmark,2010,166.92
+Denmark,2011,157.4
+Denmark,2012,156.24
+Denmark,2013,156.24
+Djibouti,1961,94.64
+Djibouti,1962,104.68
+Djibouti,1963,96.68
+Djibouti,1964,104.92
+Djibouti,1965,101.28
+Djibouti,1966,101.92
+Djibouti,1967,99.52
+Djibouti,1968,98.0
+Djibouti,1969,93.52
+Djibouti,1970,99.72
+Djibouti,1971,101.28
+Djibouti,1972,96.68
+Djibouti,1973,101.76
+Djibouti,1974,93.96
+Djibouti,1975,89.2
+Djibouti,1976,86.92
+Djibouti,1977,85.6
+Djibouti,1978,74.92
+Djibouti,1979,78.24
+Djibouti,1980,87.32
+Djibouti,1981,90.8
+Djibouti,1982,94.08
+Djibouti,1983,91.2
+Djibouti,1984,92.2
+Djibouti,1985,92.92
+Djibouti,1986,98.88
+Djibouti,1987,124.64
+Djibouti,1988,127.52
+Djibouti,1989,119.44
+Djibouti,1990,132.76
+Djibouti,1991,101.8
+Djibouti,1992,100.08
+Djibouti,1993,103.36
+Djibouti,1994,102.28
+Djibouti,1995,109.68
+Djibouti,1996,110.68
+Djibouti,1997,113.92
+Djibouti,1998,123.32
+Djibouti,1999,128.16
+Djibouti,2000,133.12
+Djibouti,2001,136.48
+Djibouti,2002,138.68
+Djibouti,2003,144.92
+Djibouti,2004,145.12
+Djibouti,2005,159.52
+Djibouti,2006,160.36
+Djibouti,2007,163.96
+Djibouti,2008,170.48
+Djibouti,2009,189.84
+Djibouti,2010,201.64
+Djibouti,2011,200.48
+Djibouti,2012,199.88
+Djibouti,2013,203.08
+Dominica,1961,91.6
+Dominica,1962,98.28
+Dominica,1963,100.72
+Dominica,1964,99.48
+Dominica,1965,100.32
+Dominica,1966,91.84
+Dominica,1967,90.28
+Dominica,1968,100.08
+Dominica,1969,97.08
+Dominica,1970,99.68
+Dominica,1971,97.12
+Dominica,1972,99.56
+Dominica,1973,98.0
+Dominica,1974,96.08
+Dominica,1975,96.96
+Dominica,1976,101.64
+Dominica,1977,106.56
+Dominica,1978,109.72
+Dominica,1979,122.28
+Dominica,1980,125.08
+Dominica,1981,124.48
+Dominica,1982,118.48
+Dominica,1983,118.52
+Dominica,1984,123.68
+Dominica,1985,128.72
+Dominica,1986,139.6
+Dominica,1987,142.6
+Dominica,1988,145.64
+Dominica,1989,145.08
+Dominica,1990,139.4
+Dominica,1991,134.0
+Dominica,1992,133.96
+Dominica,1993,129.96
+Dominica,1994,140.16
+Dominica,1995,150.48
+Dominica,1996,140.44
+Dominica,1997,138.6
+Dominica,1998,141.24
+Dominica,1999,148.12
+Dominica,2000,154.4
+Dominica,2001,156.4
+Dominica,2002,150.6
+Dominica,2003,156.88
+Dominica,2004,150.8
+Dominica,2005,159.44
+Dominica,2006,152.36
+Dominica,2007,162.24
+Dominica,2008,154.04
+Dominica,2009,156.64
+Dominica,2010,148.32
+Dominica,2011,150.64
+Dominica,2012,151.6
+Dominica,2013,148.24
+Dominican Republic,1961,99.12
+Dominican Republic,1962,99.88
+Dominican Republic,1963,100.68
+Dominican Republic,1964,101.4
+Dominican Republic,1965,104.16
+Dominican Republic,1966,103.88
+Dominican Republic,1967,104.56
+Dominican Republic,1968,102.72
+Dominican Republic,1969,107.4
+Dominican Republic,1970,106.12
+Dominican Republic,1971,107.28
+Dominican Republic,1972,107.88
+Dominican Republic,1973,114.8
+Dominican Republic,1974,121.04
+Dominican Republic,1975,119.28
+Dominican Republic,1976,114.04
+Dominican Republic,1977,113.8
+Dominican Republic,1978,114.6
+Dominican Republic,1979,115.8
+Dominican Republic,1980,121.04
+Dominican Republic,1981,117.08
+Dominican Republic,1982,116.84
+Dominican Republic,1983,121.52
+Dominican Republic,1984,124.72
+Dominican Republic,1985,133.28
+Dominican Republic,1986,124.84
+Dominican Republic,1987,122.48
+Dominican Republic,1988,125.52
+Dominican Republic,1989,121.6
+Dominican Republic,1990,107.32
+Dominican Republic,1991,112.24
+Dominican Republic,1992,103.4
+Dominican Republic,1993,106.64
+Dominican Republic,1994,108.8
+Dominican Republic,1995,108.04
+Dominican Republic,1996,99.76
+Dominican Republic,1997,94.28
+Dominican Republic,1998,95.12
+Dominican Republic,1999,91.64
+Dominican Republic,2000,98.56
+Dominican Republic,2001,99.32
+Dominican Republic,2002,103.36
+Dominican Republic,2003,98.0
+Dominican Republic,2004,99.24
+Dominican Republic,2005,107.0
+Dominican Republic,2006,108.92
+Dominican Republic,2007,108.76
+Dominican Republic,2008,105.0
+Dominican Republic,2009,107.72
+Dominican Republic,2010,121.12
+Dominican Republic,2011,126.76
+Dominican Republic,2012,125.52
+Dominican Republic,2013,127.2
+Ecuador,1961,126.44
+Ecuador,1962,127.56
+Ecuador,1963,130.04
+Ecuador,1964,129.56
+Ecuador,1965,142.48
+Ecuador,1966,138.2
+Ecuador,1967,137.52
+Ecuador,1968,133.56
+Ecuador,1969,128.4
+Ecuador,1970,132.64
+Ecuador,1971,123.8
+Ecuador,1972,121.24
+Ecuador,1973,112.88
+Ecuador,1974,111.64
+Ecuador,1975,116.08
+Ecuador,1976,118.4
+Ecuador,1977,107.32
+Ecuador,1978,101.28
+Ecuador,1979,102.64
+Ecuador,1980,109.52
+Ecuador,1981,107.24
+Ecuador,1982,106.04
+Ecuador,1983,93.72
+Ecuador,1984,104.64
+Ecuador,1985,98.44
+Ecuador,1986,100.56
+Ecuador,1987,102.64
+Ecuador,1988,108.92
+Ecuador,1989,110.08
+Ecuador,1990,108.52
+Ecuador,1991,103.32
+Ecuador,1992,117.12
+Ecuador,1993,117.0
+Ecuador,1994,121.76
+Ecuador,1995,109.92
+Ecuador,1996,114.72
+Ecuador,1997,115.52
+Ecuador,1998,111.2
+Ecuador,1999,117.4
+Ecuador,2000,111.68
+Ecuador,2001,104.64
+Ecuador,2002,101.32
+Ecuador,2003,98.4
+Ecuador,2004,100.32
+Ecuador,2005,102.56
+Ecuador,2006,98.2
+Ecuador,2007,96.52
+Ecuador,2008,97.12
+Ecuador,2009,98.88
+Ecuador,2010,103.44
+Ecuador,2011,103.68
+Ecuador,2012,101.48
+Ecuador,2013,99.32
+Egypt,1961,196.2
+Egypt,1962,211.56
+Egypt,1963,208.4
+Egypt,1964,218.52
+Egypt,1965,214.04
+Egypt,1966,222.92
+Egypt,1967,208.44
+Egypt,1968,215.48
+Egypt,1969,212.88
+Egypt,1970,212.4
+Egypt,1971,209.48
+Egypt,1972,215.28
+Egypt,1973,214.4
+Egypt,1974,215.24
+Egypt,1975,216.6
+Egypt,1976,223.52
+Egypt,1977,225.44
+Egypt,1978,231.36
+Egypt,1979,241.16
+Egypt,1980,246.32
+Egypt,1981,257.72
+Egypt,1982,263.32
+Egypt,1983,266.28
+Egypt,1984,265.8
+Egypt,1985,268.24
+Egypt,1986,268.4
+Egypt,1987,280.88
+Egypt,1988,280.2
+Egypt,1989,277.16
+Egypt,1990,287.2
+Egypt,1991,285.8
+Egypt,1992,287.52
+Egypt,1993,290.44
+Egypt,1994,296.72
+Egypt,1995,300.68
+Egypt,1996,304.16
+Egypt,1997,306.4
+Egypt,1998,302.76
+Egypt,1999,302.0
+Egypt,2000,303.36
+Egypt,2001,307.8
+Egypt,2002,308.84
+Egypt,2003,303.76
+Egypt,2004,298.56
+Egypt,2005,304.6
+Egypt,2006,306.56
+Egypt,2007,307.12
+Egypt,2008,309.44
+Egypt,2009,311.56
+Egypt,2010,312.2
+Egypt,2011,310.24
+Egypt,2012,310.28
+Egypt,2013,307.6
+El Salvador,1961,118.36
+El Salvador,1962,124.56
+El Salvador,1963,125.64
+El Salvador,1964,126.16
+El Salvador,1965,127.08
+El Salvador,1966,127.88
+El Salvador,1967,127.84
+El Salvador,1968,134.16
+El Salvador,1969,132.8
+El Salvador,1970,133.28
+El Salvador,1971,136.44
+El Salvador,1972,135.36
+El Salvador,1973,139.08
+El Salvador,1974,139.92
+El Salvador,1975,150.2
+El Salvador,1976,146.52
+El Salvador,1977,152.12
+El Salvador,1978,152.92
+El Salvador,1979,159.36
+El Salvador,1980,160.72
+El Salvador,1981,164.08
+El Salvador,1982,161.84
+El Salvador,1983,164.32
+El Salvador,1984,166.2
+El Salvador,1985,164.56
+El Salvador,1986,158.88
+El Salvador,1987,154.08
+El Salvador,1988,159.32
+El Salvador,1989,164.8
+El Salvador,1990,170.64
+El Salvador,1991,182.56
+El Salvador,1992,180.0
+El Salvador,1993,175.6
+El Salvador,1994,176.96
+El Salvador,1995,178.56
+El Salvador,1996,176.88
+El Salvador,1997,175.08
+El Salvador,1998,171.92
+El Salvador,1999,168.08
+El Salvador,2000,181.48
+El Salvador,2001,188.72
+El Salvador,2002,194.28
+El Salvador,2003,191.24
+El Salvador,2004,189.64
+El Salvador,2005,181.6
+El Salvador,2006,185.0
+El Salvador,2007,177.08
+El Salvador,2008,188.64
+El Salvador,2009,182.8
+El Salvador,2010,181.12
+El Salvador,2011,184.28
+El Salvador,2012,189.72
+El Salvador,2013,186.6
+Estonia,1961,237.96
+Estonia,1962,239.6
+Estonia,1963,238.32
+Estonia,1964,239.64
+Estonia,1965,235.12
+Estonia,1966,230.08
+Estonia,1967,226.68
+Estonia,1968,224.52
+Estonia,1969,224.2
+Estonia,1970,224.72
+Estonia,1971,222.0
+Estonia,1972,217.76
+Estonia,1973,218.76
+Estonia,1974,216.92
+Estonia,1975,214.0
+Estonia,1976,215.24
+Estonia,1977,212.04
+Estonia,1978,212.76
+Estonia,1979,211.68
+Estonia,1980,209.2
+Estonia,1981,207.24
+Estonia,1982,209.72
+Estonia,1983,206.64
+Estonia,1984,206.04
+Estonia,1985,206.72
+Estonia,1986,205.8
+Estonia,1987,206.88
+Estonia,1988,203.36
+Estonia,1989,200.0
+Estonia,1990,202.4
+Estonia,1991,200.08
+Estonia,1992,126.2
+Estonia,1993,133.48
+Estonia,1994,142.6
+Estonia,1995,172.4
+Estonia,1996,180.72
+Estonia,1997,172.16
+Estonia,1998,164.4
+Estonia,1999,147.2
+Estonia,2000,151.52
+Estonia,2001,147.64
+Estonia,2002,145.2
+Estonia,2003,146.52
+Estonia,2004,143.32
+Estonia,2005,156.24
+Estonia,2006,164.68
+Estonia,2007,173.2
+Estonia,2008,182.56
+Estonia,2009,173.88
+Estonia,2010,182.52
+Estonia,2011,184.92
+Estonia,2012,182.72
+Estonia,2013,202.64
+Eswatini,1961,180.96
+Eswatini,1962,173.16
+Eswatini,1963,166.2
+Eswatini,1964,163.72
+Eswatini,1965,168.88
+Eswatini,1966,165.48
+Eswatini,1967,153.24
+Eswatini,1968,174.44
+Eswatini,1969,174.84
+Eswatini,1970,176.8
+Eswatini,1971,174.88
+Eswatini,1972,176.88
+Eswatini,1973,180.92
+Eswatini,1974,176.16
+Eswatini,1975,173.16
+Eswatini,1976,179.2
+Eswatini,1977,162.8
+Eswatini,1978,163.6
+Eswatini,1979,169.28
+Eswatini,1980,161.56
+Eswatini,1981,163.48
+Eswatini,1982,161.68
+Eswatini,1983,160.12
+Eswatini,1984,167.2
+Eswatini,1985,161.16
+Eswatini,1986,171.96
+Eswatini,1987,171.56
+Eswatini,1988,171.16
+Eswatini,1989,169.64
+Eswatini,1990,170.4
+Eswatini,1991,163.96
+Eswatini,1992,161.48
+Eswatini,1993,164.6
+Eswatini,1994,168.56
+Eswatini,1995,168.0
+Eswatini,1996,167.68
+Eswatini,1997,149.92
+Eswatini,1998,153.12
+Eswatini,1999,152.52
+Eswatini,2000,160.44
+Eswatini,2001,166.08
+Eswatini,2002,170.16
+Eswatini,2003,175.32
+Eswatini,2004,175.6
+Eswatini,2005,171.88
+Eswatini,2006,165.12
+Eswatini,2007,168.16
+Eswatini,2008,163.56
+Eswatini,2009,164.76
+Eswatini,2010,165.2
+Eswatini,2011,165.48
+Eswatini,2012,166.28
+Eswatini,2013,164.08
+Ethiopia,1961,196.28
+Ethiopia,1962,195.72
+Ethiopia,1963,195.44
+Ethiopia,1964,193.0
+Ethiopia,1965,194.04
+Ethiopia,1966,188.0
+Ethiopia,1967,189.84
+Ethiopia,1968,182.36
+Ethiopia,1969,186.52
+Ethiopia,1970,186.4
+Ethiopia,1971,184.64
+Ethiopia,1972,174.92
+Ethiopia,1973,163.04
+Ethiopia,1974,159.16
+Ethiopia,1975,156.44
+Ethiopia,1976,149.6
+Ethiopia,1977,162.12
+Ethiopia,1978,158.68
+Ethiopia,1979,184.12
+Ethiopia,1980,202.04
+Ethiopia,1981,185.6
+Ethiopia,1982,183.4
+Ethiopia,1983,188.68
+Ethiopia,1984,158.16
+Ethiopia,1985,150.08
+Ethiopia,1986,153.96
+Ethiopia,1987,153.4
+Ethiopia,1988,158.24
+Ethiopia,1989,153.36
+Ethiopia,1990,150.84
+Ethiopia,1991,162.92
+Ethiopia,1992,156.08
+Ethiopia,1993,148.84
+Ethiopia,1994,152.04
+Ethiopia,1995,158.36
+Ethiopia,1996,167.64
+Ethiopia,1997,171.4
+Ethiopia,1998,171.04
+Ethiopia,1999,174.32
+Ethiopia,2000,183.4
+Ethiopia,2001,189.4
+Ethiopia,2002,183.4
+Ethiopia,2003,187.8
+Ethiopia,2004,187.4
+Ethiopia,2005,200.28
+Ethiopia,2006,197.72
+Ethiopia,2007,197.36
+Ethiopia,2008,203.12
+Ethiopia,2009,211.88
+Ethiopia,2010,210.24
+Ethiopia,2011,216.48
+Ethiopia,2012,217.16
+Ethiopia,2013,210.84
+Fiji,1961,152.88
+Fiji,1962,158.44
+Fiji,1963,163.52
+Fiji,1964,162.12
+Fiji,1965,175.76
+Fiji,1966,156.44
+Fiji,1967,151.4
+Fiji,1968,156.04
+Fiji,1969,159.88
+Fiji,1970,121.04
+Fiji,1971,157.76
+Fiji,1972,158.04
+Fiji,1973,149.44
+Fiji,1974,135.56
+Fiji,1975,135.76
+Fiji,1976,125.48
+Fiji,1977,132.64
+Fiji,1978,130.88
+Fiji,1979,136.36
+Fiji,1980,145.28
+Fiji,1981,106.16
+Fiji,1982,145.08
+Fiji,1983,142.8
+Fiji,1984,142.76
+Fiji,1985,137.56
+Fiji,1986,145.88
+Fiji,1987,142.48
+Fiji,1988,147.12
+Fiji,1989,149.12
+Fiji,1990,151.04
+Fiji,1991,151.4
+Fiji,1992,151.08
+Fiji,1993,164.68
+Fiji,1994,167.68
+Fiji,1995,158.96
+Fiji,1996,162.2
+Fiji,1997,168.64
+Fiji,1998,176.6
+Fiji,1999,170.96
+Fiji,2000,171.92
+Fiji,2001,174.0
+Fiji,2002,178.08
+Fiji,2003,173.56
+Fiji,2004,171.24
+Fiji,2005,173.52
+Fiji,2006,176.76
+Fiji,2007,167.12
+Fiji,2008,173.32
+Fiji,2009,166.8
+Fiji,2010,169.88
+Fiji,2011,170.64
+Fiji,2012,171.12
+Fiji,2013,168.92
+Finland,1961,168.68
+Finland,1962,158.76
+Finland,1963,158.32
+Finland,1964,147.4
+Finland,1965,147.64
+Finland,1966,145.24
+Finland,1967,138.04
+Finland,1968,137.76
+Finland,1969,141.08
+Finland,1970,139.12
+Finland,1971,132.2
+Finland,1972,133.0
+Finland,1973,132.36
+Finland,1974,133.0
+Finland,1975,133.52
+Finland,1976,130.16
+Finland,1977,124.12
+Finland,1978,132.56
+Finland,1979,133.28
+Finland,1980,134.36
+Finland,1981,132.92
+Finland,1982,134.72
+Finland,1983,127.28
+Finland,1984,134.92
+Finland,1985,132.6
+Finland,1986,132.32
+Finland,1987,131.68
+Finland,1988,141.76
+Finland,1989,149.48
+Finland,1990,147.36
+Finland,1991,144.08
+Finland,1992,145.36
+Finland,1993,133.76
+Finland,1994,133.88
+Finland,1995,135.56
+Finland,1996,139.2
+Finland,1997,150.56
+Finland,1998,147.56
+Finland,1999,155.84
+Finland,2000,152.8
+Finland,2001,154.68
+Finland,2002,152.6
+Finland,2003,157.0
+Finland,2004,161.52
+Finland,2005,165.44
+Finland,2006,172.48
+Finland,2007,170.4
+Finland,2008,172.2
+Finland,2009,167.8
+Finland,2010,173.92
+Finland,2011,171.32
+Finland,2012,176.52
+Finland,2013,178.76
+France,1961,182.6
+France,1962,182.56
+France,1963,178.72
+France,1964,171.12
+France,1965,170.96
+France,1966,166.6
+France,1967,159.76
+France,1968,160.68
+France,1969,156.84
+France,1970,155.68
+France,1971,149.24
+France,1972,147.64
+France,1973,145.0
+France,1974,145.48
+France,1975,145.12
+France,1976,142.48
+France,1977,150.56
+France,1978,148.72
+France,1979,147.52
+France,1980,148.04
+France,1981,147.88
+France,1982,151.68
+France,1983,153.04
+France,1984,150.36
+France,1985,152.12
+France,1986,151.68
+France,1987,152.0
+France,1988,156.76
+France,1989,157.24
+France,1990,155.24
+France,1991,154.76
+France,1992,151.6
+France,1993,156.76
+France,1994,151.36
+France,1995,153.84
+France,1996,153.44
+France,1997,153.76
+France,1998,156.04
+France,1999,157.24
+France,2000,158.24
+France,2001,158.28
+France,2002,159.6
+France,2003,157.2
+France,2004,159.44
+France,2005,156.64
+France,2006,159.6
+France,2007,156.44
+France,2008,165.2
+France,2009,159.4
+France,2010,168.8
+France,2011,165.64
+France,2012,165.88
+France,2013,164.68
+French Polynesia,1961,153.04
+French Polynesia,1962,143.76
+French Polynesia,1963,143.84
+French Polynesia,1964,143.32
+French Polynesia,1965,154.84
+French Polynesia,1966,161.92
+French Polynesia,1967,150.8
+French Polynesia,1968,153.32
+French Polynesia,1969,148.2
+French Polynesia,1970,149.92
+French Polynesia,1971,149.84
+French Polynesia,1972,148.04
+French Polynesia,1973,147.52
+French Polynesia,1974,149.68
+French Polynesia,1975,146.84
+French Polynesia,1976,146.52
+French Polynesia,1977,147.2
+French Polynesia,1978,146.08
+French Polynesia,1979,148.8
+French Polynesia,1980,145.12
+French Polynesia,1981,142.56
+French Polynesia,1982,143.88
+French Polynesia,1983,146.16
+French Polynesia,1984,144.32
+French Polynesia,1985,143.84
+French Polynesia,1986,148.76
+French Polynesia,1987,146.16
+French Polynesia,1988,143.8
+French Polynesia,1989,138.96
+French Polynesia,1990,143.76
+French Polynesia,1991,140.96
+French Polynesia,1992,136.24
+French Polynesia,1993,141.56
+French Polynesia,1994,139.2
+French Polynesia,1995,133.72
+French Polynesia,1996,135.84
+French Polynesia,1997,132.56
+French Polynesia,1998,136.64
+French Polynesia,1999,131.84
+French Polynesia,2000,129.28
+French Polynesia,2001,131.2
+French Polynesia,2002,129.6
+French Polynesia,2003,133.0
+French Polynesia,2004,129.76
+French Polynesia,2005,134.0
+French Polynesia,2006,132.84
+French Polynesia,2007,134.44
+French Polynesia,2008,133.24
+French Polynesia,2009,131.56
+French Polynesia,2010,133.32
+French Polynesia,2011,132.32
+French Polynesia,2012,134.36
+French Polynesia,2013,132.16
+Gabon,1961,89.0
+Gabon,1962,90.76
+Gabon,1963,87.32
+Gabon,1964,87.24
+Gabon,1965,88.12
+Gabon,1966,90.0
+Gabon,1967,92.68
+Gabon,1968,92.12
+Gabon,1969,91.56
+Gabon,1970,93.28
+Gabon,1971,91.32
+Gabon,1972,88.48
+Gabon,1973,84.08
+Gabon,1974,101.88
+Gabon,1975,105.04
+Gabon,1976,109.8
+Gabon,1977,116.4
+Gabon,1978,117.88
+Gabon,1979,113.72
+Gabon,1980,113.64
+Gabon,1981,107.16
+Gabon,1982,111.48
+Gabon,1983,118.84
+Gabon,1984,119.44
+Gabon,1985,125.56
+Gabon,1986,129.56
+Gabon,1987,129.28
+Gabon,1988,137.64
+Gabon,1989,132.0
+Gabon,1990,132.36
+Gabon,1991,147.8
+Gabon,1992,140.12
+Gabon,1993,139.92
+Gabon,1994,138.84
+Gabon,1995,148.08
+Gabon,1996,153.04
+Gabon,1997,150.8
+Gabon,1998,152.88
+Gabon,1999,157.32
+Gabon,2000,161.56
+Gabon,2001,157.64
+Gabon,2002,160.48
+Gabon,2003,158.24
+Gabon,2004,159.12
+Gabon,2005,163.16
+Gabon,2006,160.0
+Gabon,2007,160.04
+Gabon,2008,163.56
+Gabon,2009,162.64
+Gabon,2010,163.36
+Gabon,2011,168.24
+Gabon,2012,173.12
+Gabon,2013,174.4
+Gambia,1961,170.44
+Gambia,1962,171.52
+Gambia,1963,177.72
+Gambia,1964,178.6
+Gambia,1965,178.72
+Gambia,1966,181.08
+Gambia,1967,177.0
+Gambia,1968,179.32
+Gambia,1969,182.64
+Gambia,1970,181.96
+Gambia,1971,182.8
+Gambia,1972,177.88
+Gambia,1973,175.88
+Gambia,1974,162.92
+Gambia,1975,146.64
+Gambia,1976,144.04
+Gambia,1977,133.32
+Gambia,1978,141.04
+Gambia,1979,141.68
+Gambia,1980,151.24
+Gambia,1981,142.08
+Gambia,1982,153.56
+Gambia,1983,156.16
+Gambia,1984,149.52
+Gambia,1985,171.88
+Gambia,1986,181.28
+Gambia,1987,166.68
+Gambia,1988,166.48
+Gambia,1989,161.56
+Gambia,1990,169.72
+Gambia,1991,172.0
+Gambia,1992,173.68
+Gambia,1993,162.52
+Gambia,1994,161.2
+Gambia,1995,160.12
+Gambia,1996,159.96
+Gambia,1997,165.92
+Gambia,1998,156.0
+Gambia,1999,172.08
+Gambia,2000,180.84
+Gambia,2001,176.6
+Gambia,2002,177.44
+Gambia,2003,178.48
+Gambia,2004,170.64
+Gambia,2005,170.04
+Gambia,2006,169.36
+Gambia,2007,178.76
+Gambia,2008,188.8
+Gambia,2009,188.36
+Gambia,2010,191.24
+Gambia,2011,190.68
+Gambia,2012,192.4
+Gambia,2013,189.8
+Georgia,1961,237.96
+Georgia,1962,239.6
+Georgia,1963,238.32
+Georgia,1964,239.64
+Georgia,1965,235.12
+Georgia,1966,230.08
+Georgia,1967,226.68
+Georgia,1968,224.52
+Georgia,1969,224.2
+Georgia,1970,224.72
+Georgia,1971,222.0
+Georgia,1972,217.76
+Georgia,1973,218.76
+Georgia,1974,216.92
+Georgia,1975,214.0
+Georgia,1976,215.24
+Georgia,1977,212.04
+Georgia,1978,212.76
+Georgia,1979,211.68
+Georgia,1980,209.2
+Georgia,1981,207.24
+Georgia,1982,209.72
+Georgia,1983,206.64
+Georgia,1984,206.04
+Georgia,1985,206.72
+Georgia,1986,205.8
+Georgia,1987,206.88
+Georgia,1988,203.36
+Georgia,1989,200.0
+Georgia,1990,202.4
+Georgia,1991,200.08
+Georgia,1992,161.64
+Georgia,1993,164.8
+Georgia,1994,171.32
+Georgia,1995,202.64
+Georgia,1996,203.0
+Georgia,1997,209.84
+Georgia,1998,207.28
+Georgia,1999,212.52
+Georgia,2000,199.36
+Georgia,2001,191.72
+Georgia,2002,204.8
+Georgia,2003,213.44
+Georgia,2004,205.68
+Georgia,2005,208.48
+Georgia,2006,196.4
+Georgia,2007,194.84
+Georgia,2008,204.8
+Georgia,2009,198.24
+Georgia,2010,187.52
+Georgia,2011,200.44
+Georgia,2012,197.76
+Georgia,2013,206.84
+Germany,1961,138.28
+Germany,1962,141.04
+Germany,1963,137.28
+Germany,1964,144.52
+Germany,1965,146.96
+Germany,1966,146.04
+Germany,1967,143.4
+Germany,1968,142.84
+Germany,1969,141.08
+Germany,1970,140.52
+Germany,1971,138.96
+Germany,1972,137.8
+Germany,1973,139.0
+Germany,1974,136.92
+Germany,1975,135.48
+Germany,1976,137.64
+Germany,1977,137.48
+Germany,1978,142.84
+Germany,1979,142.72
+Germany,1980,143.2
+Germany,1981,142.8
+Germany,1982,144.24
+Germany,1983,145.32
+Germany,1984,150.04
+Germany,1985,151.12
+Germany,1986,151.4
+Germany,1987,151.96
+Germany,1988,151.8
+Germany,1989,152.08
+Germany,1990,146.12
+Germany,1991,144.2
+Germany,1992,144.8
+Germany,1993,142.84
+Germany,1994,145.48
+Germany,1995,145.96
+Germany,1996,149.12
+Germany,1997,134.04
+Germany,1998,149.2
+Germany,1999,150.92
+Germany,2000,151.92
+Germany,2001,158.92
+Germany,2002,163.6
+Germany,2003,153.6
+Germany,2004,154.12
+Germany,2005,154.44
+Germany,2006,157.92
+Germany,2007,161.96
+Germany,2008,159.6
+Germany,2009,160.88
+Germany,2010,160.2
+Germany,2011,163.84
+Germany,2012,160.04
+Germany,2013,160.44
+Ghana,1961,116.84
+Ghana,1962,114.08
+Ghana,1963,105.08
+Ghana,1964,106.24
+Ghana,1965,99.44
+Ghana,1966,111.68
+Ghana,1967,120.6
+Ghana,1968,115.12
+Ghana,1969,113.76
+Ghana,1970,124.48
+Ghana,1971,124.96
+Ghana,1972,122.6
+Ghana,1973,126.16
+Ghana,1974,131.12
+Ghana,1975,115.0
+Ghana,1976,108.24
+Ghana,1977,98.92
+Ghana,1978,94.2
+Ghana,1979,98.52
+Ghana,1980,96.92
+Ghana,1981,91.44
+Ghana,1982,85.16
+Ghana,1983,88.8
+Ghana,1984,102.44
+Ghana,1985,102.96
+Ghana,1986,105.88
+Ghana,1987,114.0
+Ghana,1988,109.64
+Ghana,1989,110.08
+Ghana,1990,100.56
+Ghana,1991,115.92
+Ghana,1992,118.44
+Ghana,1993,133.08
+Ghana,1994,136.76
+Ghana,1995,135.4
+Ghana,1996,135.4
+Ghana,1997,137.72
+Ghana,1998,139.28
+Ghana,1999,140.92
+Ghana,2000,142.36
+Ghana,2001,152.72
+Ghana,2002,160.08
+Ghana,2003,164.92
+Ghana,2004,166.6
+Ghana,2005,172.2
+Ghana,2006,177.92
+Ghana,2007,170.16
+Ghana,2008,189.28
+Ghana,2009,197.92
+Ghana,2010,199.4
+Ghana,2011,199.16
+Ghana,2012,201.28
+Ghana,2013,189.4
+Greece,1961,225.08
+Greece,1962,215.36
+Greece,1963,218.32
+Greece,1964,224.68
+Greece,1965,225.72
+Greece,1966,220.84
+Greece,1967,226.48
+Greece,1968,221.88
+Greece,1969,223.76
+Greece,1970,229.24
+Greece,1971,218.32
+Greece,1972,219.76
+Greece,1973,231.2
+Greece,1974,229.36
+Greece,1975,230.0
+Greece,1976,219.68
+Greece,1977,216.56
+Greece,1978,217.76
+Greece,1979,214.84
+Greece,1980,204.84
+Greece,1981,217.8
+Greece,1982,216.6
+Greece,1983,212.8
+Greece,1984,221.56
+Greece,1985,212.64
+Greece,1986,196.88
+Greece,1987,208.6
+Greece,1988,213.88
+Greece,1989,217.48
+Greece,1990,215.12
+Greece,1991,220.64
+Greece,1992,214.6
+Greece,1993,213.72
+Greece,1994,212.68
+Greece,1995,209.32
+Greece,1996,211.64
+Greece,1997,210.32
+Greece,1998,202.84
+Greece,1999,211.92
+Greece,2000,212.8
+Greece,2001,212.76
+Greece,2002,213.28
+Greece,2003,213.88
+Greece,2004,220.6
+Greece,2005,207.16
+Greece,2006,198.56
+Greece,2007,200.12
+Greece,2008,198.04
+Greece,2009,200.04
+Greece,2010,194.84
+Greece,2011,194.64
+Greece,2012,197.2
+Greece,2013,198.24
+Grenada,1961,105.0
+Grenada,1962,104.8
+Grenada,1963,107.92
+Grenada,1964,108.64
+Grenada,1965,111.0
+Grenada,1966,115.84
+Grenada,1967,116.16
+Grenada,1968,114.8
+Grenada,1969,118.48
+Grenada,1970,117.96
+Grenada,1971,108.28
+Grenada,1972,108.08
+Grenada,1973,106.08
+Grenada,1974,107.6
+Grenada,1975,107.68
+Grenada,1976,112.24
+Grenada,1977,118.6
+Grenada,1978,121.76
+Grenada,1979,119.8
+Grenada,1980,117.6
+Grenada,1981,113.8
+Grenada,1982,103.12
+Grenada,1983,102.16
+Grenada,1984,96.52
+Grenada,1985,95.24
+Grenada,1986,93.68
+Grenada,1987,104.04
+Grenada,1988,102.2
+Grenada,1989,111.28
+Grenada,1990,113.8
+Grenada,1991,110.72
+Grenada,1992,117.28
+Grenada,1993,116.72
+Grenada,1994,111.48
+Grenada,1995,114.44
+Grenada,1996,104.68
+Grenada,1997,114.24
+Grenada,1998,105.6
+Grenada,1999,98.0
+Grenada,2000,95.76
+Grenada,2001,95.72
+Grenada,2002,100.44
+Grenada,2003,102.28
+Grenada,2004,112.12
+Grenada,2005,104.48
+Grenada,2006,103.4
+Grenada,2007,112.64
+Grenada,2008,108.72
+Grenada,2009,112.52
+Grenada,2010,108.76
+Grenada,2011,106.48
+Grenada,2012,110.32
+Grenada,2013,110.4
+Guatemala,1961,160.92
+Guatemala,1962,161.28
+Guatemala,1963,165.64
+Guatemala,1964,170.08
+Guatemala,1965,170.44
+Guatemala,1966,170.6
+Guatemala,1967,172.4
+Guatemala,1968,172.72
+Guatemala,1969,174.44
+Guatemala,1970,172.72
+Guatemala,1971,171.12
+Guatemala,1972,169.6
+Guatemala,1973,174.76
+Guatemala,1974,172.92
+Guatemala,1975,176.84
+Guatemala,1976,173.64
+Guatemala,1977,175.84
+Guatemala,1978,176.28
+Guatemala,1979,175.28
+Guatemala,1980,175.64
+Guatemala,1981,203.04
+Guatemala,1982,189.68
+Guatemala,1983,180.96
+Guatemala,1984,171.76
+Guatemala,1985,191.92
+Guatemala,1986,196.96
+Guatemala,1987,201.16
+Guatemala,1988,200.48
+Guatemala,1989,180.92
+Guatemala,1990,195.2
+Guatemala,1991,193.6
+Guatemala,1992,190.16
+Guatemala,1993,191.8
+Guatemala,1994,189.8
+Guatemala,1995,180.48
+Guatemala,1996,180.4
+Guatemala,1997,167.16
+Guatemala,1998,170.84
+Guatemala,1999,164.64
+Guatemala,2000,163.64
+Guatemala,2001,168.2
+Guatemala,2002,172.2
+Guatemala,2003,167.6
+Guatemala,2004,168.2
+Guatemala,2005,164.76
+Guatemala,2006,175.48
+Guatemala,2007,173.32
+Guatemala,2008,168.72
+Guatemala,2009,179.68
+Guatemala,2010,181.16
+Guatemala,2011,182.4
+Guatemala,2012,187.08
+Guatemala,2013,183.6
+Guinea,1961,160.0
+Guinea,1962,157.6
+Guinea,1963,150.92
+Guinea,1964,165.68
+Guinea,1965,156.44
+Guinea,1966,155.8
+Guinea,1967,159.08
+Guinea,1968,157.76
+Guinea,1969,153.8
+Guinea,1970,158.36
+Guinea,1971,161.48
+Guinea,1972,158.88
+Guinea,1973,165.0
+Guinea,1974,164.68
+Guinea,1975,167.24
+Guinea,1976,172.04
+Guinea,1977,172.96
+Guinea,1978,178.32
+Guinea,1979,189.52
+Guinea,1980,188.08
+Guinea,1981,196.6
+Guinea,1982,189.84
+Guinea,1983,187.04
+Guinea,1984,197.16
+Guinea,1985,195.16
+Guinea,1986,196.6
+Guinea,1987,194.68
+Guinea,1988,203.44
+Guinea,1989,200.0
+Guinea,1990,193.68
+Guinea,1991,190.64
+Guinea,1992,187.16
+Guinea,1993,182.0
+Guinea,1994,184.56
+Guinea,1995,172.6
+Guinea,1996,172.68
+Guinea,1997,171.96
+Guinea,1998,169.76
+Guinea,1999,171.52
+Guinea,2000,175.08
+Guinea,2001,174.24
+Guinea,2002,176.4
+Guinea,2003,175.88
+Guinea,2004,179.48
+Guinea,2005,175.76
+Guinea,2006,178.64
+Guinea,2007,179.08
+Guinea,2008,183.2
+Guinea,2009,183.48
+Guinea,2010,183.04
+Guinea,2011,180.12
+Guinea,2012,181.92
+Guinea,2013,183.96
+Guinea-Bissau,1961,99.44
+Guinea-Bissau,1962,96.84
+Guinea-Bissau,1963,98.72
+Guinea-Bissau,1964,100.88
+Guinea-Bissau,1965,101.56
+Guinea-Bissau,1966,104.36
+Guinea-Bissau,1967,102.56
+Guinea-Bissau,1968,93.68
+Guinea-Bissau,1969,102.28
+Guinea-Bissau,1970,94.36
+Guinea-Bissau,1971,103.92
+Guinea-Bissau,1972,90.08
+Guinea-Bissau,1973,100.44
+Guinea-Bissau,1974,97.08
+Guinea-Bissau,1975,108.12
+Guinea-Bissau,1976,115.16
+Guinea-Bissau,1977,115.24
+Guinea-Bissau,1978,131.64
+Guinea-Bissau,1979,128.76
+Guinea-Bissau,1980,135.56
+Guinea-Bissau,1981,150.64
+Guinea-Bissau,1982,152.04
+Guinea-Bissau,1983,146.2
+Guinea-Bissau,1984,146.8
+Guinea-Bissau,1985,153.12
+Guinea-Bissau,1986,141.8
+Guinea-Bissau,1987,147.56
+Guinea-Bissau,1988,145.04
+Guinea-Bissau,1989,143.68
+Guinea-Bissau,1990,143.56
+Guinea-Bissau,1991,153.0
+Guinea-Bissau,1992,146.6
+Guinea-Bissau,1993,148.68
+Guinea-Bissau,1994,150.88
+Guinea-Bissau,1995,152.08
+Guinea-Bissau,1996,143.0
+Guinea-Bissau,1997,135.76
+Guinea-Bissau,1998,132.96
+Guinea-Bissau,1999,136.6
+Guinea-Bissau,2000,142.76
+Guinea-Bissau,2001,145.08
+Guinea-Bissau,2002,143.84
+Guinea-Bissau,2003,137.8
+Guinea-Bissau,2004,141.44
+Guinea-Bissau,2005,143.0
+Guinea-Bissau,2006,142.12
+Guinea-Bissau,2007,142.6
+Guinea-Bissau,2008,142.12
+Guinea-Bissau,2009,140.76
+Guinea-Bissau,2010,143.04
+Guinea-Bissau,2011,140.88
+Guinea-Bissau,2012,139.44
+Guinea-Bissau,2013,140.6
+Guyana,1961,138.8
+Guyana,1962,138.16
+Guyana,1963,132.76
+Guyana,1964,139.6
+Guyana,1965,132.08
+Guyana,1966,136.16
+Guyana,1967,138.08
+Guyana,1968,132.92
+Guyana,1969,133.24
+Guyana,1970,123.88
+Guyana,1971,124.52
+Guyana,1972,123.56
+Guyana,1973,130.0
+Guyana,1974,144.56
+Guyana,1975,150.92
+Guyana,1976,144.76
+Guyana,1977,147.0
+Guyana,1978,138.68
+Guyana,1979,135.12
+Guyana,1980,136.4
+Guyana,1981,140.36
+Guyana,1982,129.4
+Guyana,1983,132.88
+Guyana,1984,134.32
+Guyana,1985,140.0
+Guyana,1986,148.28
+Guyana,1987,142.96
+Guyana,1988,145.4
+Guyana,1989,148.28
+Guyana,1990,149.84
+Guyana,1991,155.56
+Guyana,1992,156.48
+Guyana,1993,159.04
+Guyana,1994,155.0
+Guyana,1995,155.92
+Guyana,1996,153.56
+Guyana,1997,163.52
+Guyana,1998,173.16
+Guyana,1999,164.2
+Guyana,2000,176.28
+Guyana,2001,171.88
+Guyana,2002,169.4
+Guyana,2003,166.92
+Guyana,2004,158.44
+Guyana,2005,173.0
+Guyana,2006,165.44
+Guyana,2007,167.76
+Guyana,2008,173.48
+Guyana,2009,167.96
+Guyana,2010,171.56
+Guyana,2011,166.4
+Guyana,2012,167.76
+Guyana,2013,173.76
+Haiti,1961,150.24
+Haiti,1962,153.2
+Haiti,1963,153.8
+Haiti,1964,145.64
+Haiti,1965,155.88
+Haiti,1966,153.4
+Haiti,1967,152.44
+Haiti,1968,145.8
+Haiti,1969,147.44
+Haiti,1970,146.92
+Haiti,1971,146.48
+Haiti,1972,149.12
+Haiti,1973,150.4
+Haiti,1974,150.28
+Haiti,1975,150.76
+Haiti,1976,148.8
+Haiti,1977,142.8
+Haiti,1978,150.48
+Haiti,1979,155.8
+Haiti,1980,153.96
+Haiti,1981,157.76
+Haiti,1982,153.4
+Haiti,1983,155.88
+Haiti,1984,153.88
+Haiti,1985,155.44
+Haiti,1986,154.4
+Haiti,1987,156.76
+Haiti,1988,153.08
+Haiti,1989,146.92
+Haiti,1990,144.96
+Haiti,1991,147.08
+Haiti,1992,145.68
+Haiti,1993,141.96
+Haiti,1994,141.72
+Haiti,1995,137.4
+Haiti,1996,142.56
+Haiti,1997,140.28
+Haiti,1998,146.08
+Haiti,1999,141.04
+Haiti,2000,140.52
+Haiti,2001,134.36
+Haiti,2002,132.56
+Haiti,2003,137.8
+Haiti,2004,136.48
+Haiti,2005,139.44
+Haiti,2006,139.32
+Haiti,2007,147.44
+Haiti,2008,146.64
+Haiti,2009,152.0
+Haiti,2010,162.88
+Haiti,2011,148.32
+Haiti,2012,147.32
+Haiti,2013,150.28
+Honduras,1961,152.2
+Honduras,1962,148.36
+Honduras,1963,149.92
+Honduras,1964,149.96
+Honduras,1965,152.52
+Honduras,1966,157.2
+Honduras,1967,160.52
+Honduras,1968,155.4
+Honduras,1969,157.36
+Honduras,1970,159.68
+Honduras,1971,153.0
+Honduras,1972,148.76
+Honduras,1973,149.48
+Honduras,1974,145.0
+Honduras,1975,152.0
+Honduras,1976,149.84
+Honduras,1977,146.44
+Honduras,1978,144.12
+Honduras,1979,145.16
+Honduras,1980,146.6
+Honduras,1981,147.56
+Honduras,1982,144.64
+Honduras,1983,150.48
+Honduras,1984,148.44
+Honduras,1985,150.56
+Honduras,1986,148.6
+Honduras,1987,147.24
+Honduras,1988,153.0
+Honduras,1989,156.72
+Honduras,1990,159.2
+Honduras,1991,159.2
+Honduras,1992,154.52
+Honduras,1993,155.28
+Honduras,1994,156.48
+Honduras,1995,157.04
+Honduras,1996,153.92
+Honduras,1997,149.68
+Honduras,1998,152.08
+Honduras,1999,150.12
+Honduras,2000,149.16
+Honduras,2001,153.68
+Honduras,2002,159.44
+Honduras,2003,159.32
+Honduras,2004,158.84
+Honduras,2005,160.36
+Honduras,2006,153.56
+Honduras,2007,154.4
+Honduras,2008,162.4
+Honduras,2009,160.44
+Honduras,2010,163.08
+Honduras,2011,164.92
+Honduras,2012,162.88
+Honduras,2013,166.72
+Hong Kong,1961,156.48
+Hong Kong,1962,155.36
+Hong Kong,1963,144.24
+Hong Kong,1964,145.12
+Hong Kong,1965,143.0
+Hong Kong,1966,138.36
+Hong Kong,1967,151.04
+Hong Kong,1968,151.64
+Hong Kong,1969,154.88
+Hong Kong,1970,158.76
+Hong Kong,1971,156.76
+Hong Kong,1972,159.8
+Hong Kong,1973,158.92
+Hong Kong,1974,159.6
+Hong Kong,1975,156.28
+Hong Kong,1976,155.4
+Hong Kong,1977,146.64
+Hong Kong,1978,150.6
+Hong Kong,1979,147.6
+Hong Kong,1980,150.4
+Hong Kong,1981,152.64
+Hong Kong,1982,151.8
+Hong Kong,1983,149.72
+Hong Kong,1984,148.48
+Hong Kong,1985,149.16
+Hong Kong,1986,145.04
+Hong Kong,1987,146.48
+Hong Kong,1988,139.76
+Hong Kong,1989,136.44
+Hong Kong,1990,133.0
+Hong Kong,1991,130.36
+Hong Kong,1992,125.92
+Hong Kong,1993,131.52
+Hong Kong,1994,120.8
+Hong Kong,1995,122.76
+Hong Kong,1996,123.04
+Hong Kong,1997,116.52
+Hong Kong,1998,111.32
+Hong Kong,1999,116.36
+Hong Kong,2000,119.52
+Hong Kong,2001,122.8
+Hong Kong,2002,130.8
+Hong Kong,2003,136.76
+Hong Kong,2004,134.48
+Hong Kong,2005,132.6
+Hong Kong,2006,134.52
+Hong Kong,2007,140.52
+Hong Kong,2008,140.28
+Hong Kong,2009,140.6
+Hong Kong,2010,141.72
+Hong Kong,2011,142.04
+Hong Kong,2012,141.84
+Hong Kong,2013,139.08
+Hungary,1961,191.52
+Hungary,1962,215.28
+Hungary,1963,215.48
+Hungary,1964,207.68
+Hungary,1965,220.76
+Hungary,1966,234.16
+Hungary,1967,206.56
+Hungary,1968,198.32
+Hungary,1969,211.4
+Hungary,1970,203.56
+Hungary,1971,202.64
+Hungary,1972,194.36
+Hungary,1973,193.68
+Hungary,1974,206.52
+Hungary,1975,198.04
+Hungary,1976,196.68
+Hungary,1977,188.84
+Hungary,1978,190.8
+Hungary,1979,180.64
+Hungary,1980,192.28
+Hungary,1981,185.92
+Hungary,1982,181.08
+Hungary,1983,182.2
+Hungary,1984,185.24
+Hungary,1985,179.2
+Hungary,1986,177.44
+Hungary,1987,180.36
+Hungary,1988,185.6
+Hungary,1989,166.96
+Hungary,1990,160.92
+Hungary,1991,156.28
+Hungary,1992,148.84
+Hungary,1993,138.84
+Hungary,1994,139.68
+Hungary,1995,134.12
+Hungary,1996,127.12
+Hungary,1997,142.52
+Hungary,1998,133.88
+Hungary,1999,139.48
+Hungary,2000,156.12
+Hungary,2001,151.8
+Hungary,2002,142.2
+Hungary,2003,147.2
+Hungary,2004,159.68
+Hungary,2005,166.96
+Hungary,2006,165.92
+Hungary,2007,153.08
+Hungary,2008,153.76
+Hungary,2009,155.04
+Hungary,2010,148.0
+Hungary,2011,148.56
+Hungary,2012,144.28
+Hungary,2013,147.0
+Iceland,1961,110.52
+Iceland,1962,119.08
+Iceland,1963,101.28
+Iceland,1964,114.08
+Iceland,1965,113.84
+Iceland,1966,102.12
+Iceland,1967,103.32
+Iceland,1968,109.32
+Iceland,1969,105.96
+Iceland,1970,104.64
+Iceland,1971,106.6
+Iceland,1972,109.92
+Iceland,1973,104.32
+Iceland,1974,106.24
+Iceland,1975,96.52
+Iceland,1976,109.32
+Iceland,1977,101.2
+Iceland,1978,103.36
+Iceland,1979,103.56
+Iceland,1980,106.12
+Iceland,1981,108.08
+Iceland,1982,108.4
+Iceland,1983,106.48
+Iceland,1984,113.8
+Iceland,1985,108.48
+Iceland,1986,114.96
+Iceland,1987,129.44
+Iceland,1988,138.0
+Iceland,1989,146.24
+Iceland,1990,140.8
+Iceland,1991,146.28
+Iceland,1992,145.12
+Iceland,1993,137.72
+Iceland,1994,156.44
+Iceland,1995,166.12
+Iceland,1996,140.28
+Iceland,1997,140.04
+Iceland,1998,139.32
+Iceland,1999,144.6
+Iceland,2000,143.28
+Iceland,2001,142.48
+Iceland,2002,134.16
+Iceland,2003,129.36
+Iceland,2004,132.84
+Iceland,2005,138.32
+Iceland,2006,144.44
+Iceland,2007,147.52
+Iceland,2008,144.08
+Iceland,2009,147.52
+Iceland,2010,141.36
+Iceland,2011,141.0
+Iceland,2012,148.56
+Iceland,2013,148.24
+India,1961,183.88
+India,1962,185.4
+India,1963,177.72
+India,1964,177.8
+India,1965,173.48
+India,1966,171.08
+India,1967,175.12
+India,1968,181.28
+India,1969,179.52
+India,1970,188.32
+India,1971,173.08
+India,1972,173.64
+India,1973,180.56
+India,1974,164.4
+India,1975,177.84
+India,1976,166.0
+India,1977,181.68
+India,1978,183.84
+India,1979,173.0
+India,1980,167.04
+India,1981,174.92
+India,1982,171.52
+India,1983,189.84
+India,1984,184.24
+India,1985,176.12
+India,1986,181.04
+India,1987,182.6
+India,1988,190.64
+India,1989,197.72
+India,1990,178.36
+India,1991,189.4
+India,1992,192.0
+India,1993,186.24
+India,1994,185.48
+India,1995,188.36
+India,1996,186.88
+India,1997,186.32
+India,1998,185.56
+India,1999,188.6
+India,2000,187.8
+India,2001,185.4
+India,2002,178.84
+India,2003,178.44
+India,2004,176.28
+India,2005,174.16
+India,2006,181.4
+India,2007,187.64
+India,2008,187.28
+India,2009,184.08
+India,2010,190.64
+India,2011,191.6
+India,2012,187.92
+India,2013,193.04
+Indonesia,1961,120.64
+Indonesia,1962,119.96
+Indonesia,1963,118.12
+Indonesia,1964,120.16
+Indonesia,1965,120.32
+Indonesia,1966,122.84
+Indonesia,1967,122.68
+Indonesia,1968,123.12
+Indonesia,1969,125.96
+Indonesia,1970,130.32
+Indonesia,1971,132.4
+Indonesia,1972,135.72
+Indonesia,1973,141.44
+Indonesia,1974,140.8
+Indonesia,1975,140.72
+Indonesia,1976,137.44
+Indonesia,1977,140.2
+Indonesia,1978,144.48
+Indonesia,1979,147.72
+Indonesia,1980,148.96
+Indonesia,1981,150.52
+Indonesia,1982,147.24
+Indonesia,1983,154.12
+Indonesia,1984,154.08
+Indonesia,1985,153.16
+Indonesia,1986,157.72
+Indonesia,1987,158.28
+Indonesia,1988,165.96
+Indonesia,1989,167.08
+Indonesia,1990,156.96
+Indonesia,1991,158.16
+Indonesia,1992,165.04
+Indonesia,1993,165.64
+Indonesia,1994,169.64
+Indonesia,1995,176.0
+Indonesia,1996,172.0
+Indonesia,1997,167.56
+Indonesia,1998,166.04
+Indonesia,1999,165.8
+Indonesia,2000,161.72
+Indonesia,2001,159.32
+Indonesia,2002,161.36
+Indonesia,2003,161.36
+Indonesia,2004,161.76
+Indonesia,2005,160.0
+Indonesia,2006,162.32
+Indonesia,2007,164.44
+Indonesia,2008,164.88
+Indonesia,2009,168.92
+Indonesia,2010,171.68
+Indonesia,2011,175.08
+Indonesia,2012,177.92
+Indonesia,2013,177.88
+Iran,1961,147.4
+Iran,1962,142.88
+Iran,1963,147.88
+Iran,1964,152.16
+Iran,1965,151.32
+Iran,1966,168.76
+Iran,1967,173.08
+Iran,1968,184.64
+Iran,1969,173.72
+Iran,1970,176.08
+Iran,1971,170.76
+Iran,1972,180.52
+Iran,1973,197.6
+Iran,1974,195.6
+Iran,1975,188.24
+Iran,1976,193.36
+Iran,1977,191.12
+Iran,1978,200.48
+Iran,1979,212.44
+Iran,1980,212.96
+Iran,1981,219.56
+Iran,1982,223.4
+Iran,1983,230.56
+Iran,1984,218.88
+Iran,1985,219.84
+Iran,1986,223.56
+Iran,1987,231.76
+Iran,1988,237.36
+Iran,1989,236.56
+Iran,1990,236.24
+Iran,1991,242.24
+Iran,1992,252.8
+Iran,1993,258.88
+Iran,1994,253.88
+Iran,1995,241.4
+Iran,1996,252.28
+Iran,1997,258.44
+Iran,1998,251.28
+Iran,1999,256.84
+Iran,2000,252.52
+Iran,2001,252.32
+Iran,2002,247.32
+Iran,2003,244.16
+Iran,2004,244.96
+Iran,2005,246.72
+Iran,2006,240.52
+Iran,2007,242.92
+Iran,2008,239.44
+Iran,2009,245.6
+Iran,2010,255.56
+Iran,2011,254.88
+Iran,2012,256.52
+Iran,2013,260.24
+Iraq,1961,139.48
+Iraq,1962,154.24
+Iraq,1963,164.08
+Iraq,1964,170.08
+Iraq,1965,172.0
+Iraq,1966,173.6
+Iraq,1967,175.92
+Iraq,1968,176.76
+Iraq,1969,177.84
+Iraq,1970,181.32
+Iraq,1971,183.16
+Iraq,1972,173.52
+Iraq,1973,175.64
+Iraq,1974,177.44
+Iraq,1975,182.24
+Iraq,1976,182.4
+Iraq,1977,183.16
+Iraq,1978,198.52
+Iraq,1979,206.12
+Iraq,1980,218.56
+Iraq,1981,226.64
+Iraq,1982,240.28
+Iraq,1983,246.04
+Iraq,1984,256.76
+Iraq,1985,267.04
+Iraq,1986,273.48
+Iraq,1987,276.36
+Iraq,1988,278.04
+Iraq,1989,277.04
+Iraq,1990,276.04
+Iraq,1991,220.96
+Iraq,1992,198.4
+Iraq,1993,187.72
+Iraq,1994,174.48
+Iraq,1995,166.52
+Iraq,1996,163.76
+Iraq,1997,161.96
+Iraq,1998,167.6
+Iraq,1999,171.6
+Iraq,2000,175.56
+Iraq,2001,182.76
+Iraq,2002,188.76
+Iraq,2003,197.24
+Iraq,2004,195.16
+Iraq,2005,189.6
+Iraq,2006,190.24
+Iraq,2007,197.52
+Iraq,2008,189.8
+Iraq,2009,199.08
+Iraq,2010,199.72
+Iraq,2011,194.08
+Iraq,2012,200.32
+Iraq,2013,201.8
+Ireland,1961,181.52
+Ireland,1962,180.44
+Ireland,1963,177.68
+Ireland,1964,171.76
+Ireland,1965,172.36
+Ireland,1966,169.72
+Ireland,1967,164.96
+Ireland,1968,166.56
+Ireland,1969,162.36
+Ireland,1970,161.28
+Ireland,1971,160.12
+Ireland,1972,160.88
+Ireland,1973,162.16
+Ireland,1974,165.0
+Ireland,1975,160.52
+Ireland,1976,157.8
+Ireland,1977,168.96
+Ireland,1978,161.44
+Ireland,1979,166.84
+Ireland,1980,158.64
+Ireland,1981,161.64
+Ireland,1982,168.72
+Ireland,1983,170.16
+Ireland,1984,165.92
+Ireland,1985,167.52
+Ireland,1986,170.84
+Ireland,1987,169.08
+Ireland,1988,170.84
+Ireland,1989,172.6
+Ireland,1990,174.84
+Ireland,1991,174.12
+Ireland,1992,178.72
+Ireland,1993,173.6
+Ireland,1994,173.12
+Ireland,1995,165.6
+Ireland,1996,175.28
+Ireland,1997,171.04
+Ireland,1998,171.44
+Ireland,1999,171.92
+Ireland,2000,170.4
+Ireland,2001,172.56
+Ireland,2002,169.68
+Ireland,2003,169.48
+Ireland,2004,166.2
+Ireland,2005,162.0
+Ireland,2006,177.24
+Ireland,2007,169.96
+Ireland,2008,170.6
+Ireland,2009,184.2
+Ireland,2010,187.2
+Ireland,2011,180.2
+Ireland,2012,177.72
+Ireland,2013,180.8
+Israel,1961,206.2
+Israel,1962,198.8
+Israel,1963,194.64
+Israel,1964,201.48
+Israel,1965,191.48
+Israel,1966,194.4
+Israel,1967,201.12
+Israel,1968,204.32
+Israel,1969,203.92
+Israel,1970,206.68
+Israel,1971,219.2
+Israel,1972,213.04
+Israel,1973,212.96
+Israel,1974,211.48
+Israel,1975,211.64
+Israel,1976,212.16
+Israel,1977,210.04
+Israel,1978,201.76
+Israel,1979,200.48
+Israel,1980,205.92
+Israel,1981,210.16
+Israel,1982,215.64
+Israel,1983,215.0
+Israel,1984,199.76
+Israel,1985,211.24
+Israel,1986,216.24
+Israel,1987,219.36
+Israel,1988,215.12
+Israel,1989,224.12
+Israel,1990,227.92
+Israel,1991,231.04
+Israel,1992,224.04
+Israel,1993,221.96
+Israel,1994,221.0
+Israel,1995,221.84
+Israel,1996,218.88
+Israel,1997,215.36
+Israel,1998,219.28
+Israel,1999,218.04
+Israel,2000,213.84
+Israel,2001,217.68
+Israel,2002,223.0
+Israel,2003,216.44
+Israel,2004,225.0
+Israel,2005,226.84
+Israel,2006,234.28
+Israel,2007,224.24
+Israel,2008,220.64
+Israel,2009,222.84
+Israel,2010,221.56
+Israel,2011,218.84
+Israel,2012,224.2
+Israel,2013,222.68
+Italy,1961,214.04
+Italy,1962,212.0
+Italy,1963,214.84
+Italy,1964,216.36
+Italy,1965,217.04
+Italy,1966,217.2
+Italy,1967,219.0
+Italy,1968,221.48
+Italy,1969,222.36
+Italy,1970,224.52
+Italy,1971,220.12
+Italy,1972,217.6
+Italy,1973,224.24
+Italy,1974,213.4
+Italy,1975,214.04
+Italy,1976,208.64
+Italy,1977,207.92
+Italy,1978,212.04
+Italy,1979,219.56
+Italy,1980,216.88
+Italy,1981,207.68
+Italy,1982,195.48
+Italy,1983,188.6
+Italy,1984,196.28
+Italy,1985,193.56
+Italy,1986,200.04
+Italy,1987,199.2
+Italy,1988,200.68
+Italy,1989,201.56
+Italy,1990,200.2
+Italy,1991,206.28
+Italy,1992,202.68
+Italy,1993,194.76
+Italy,1994,196.56
+Italy,1995,201.72
+Italy,1996,202.6
+Italy,1997,203.88
+Italy,1998,205.52
+Italy,1999,208.08
+Italy,2000,209.84
+Italy,2001,206.32
+Italy,2002,204.16
+Italy,2003,205.6
+Italy,2004,209.24
+Italy,2005,204.96
+Italy,2006,204.68
+Italy,2007,203.4
+Italy,2008,202.04
+Italy,2009,208.32
+Italy,2010,201.56
+Italy,2011,199.28
+Italy,2012,197.88
+Italy,2013,201.08
+Jamaica,1961,115.04
+Jamaica,1962,121.92
+Jamaica,1963,119.48
+Jamaica,1964,128.92
+Jamaica,1965,128.76
+Jamaica,1966,126.52
+Jamaica,1967,136.44
+Jamaica,1968,135.8
+Jamaica,1969,130.28
+Jamaica,1970,147.64
+Jamaica,1971,152.12
+Jamaica,1972,153.84
+Jamaica,1973,150.84
+Jamaica,1974,153.52
+Jamaica,1975,154.28
+Jamaica,1976,148.92
+Jamaica,1977,141.64
+Jamaica,1978,148.44
+Jamaica,1979,146.6
+Jamaica,1980,147.8
+Jamaica,1981,149.24
+Jamaica,1982,144.24
+Jamaica,1983,144.88
+Jamaica,1984,151.64
+Jamaica,1985,150.04
+Jamaica,1986,147.92
+Jamaica,1987,146.84
+Jamaica,1988,141.04
+Jamaica,1989,141.6
+Jamaica,1990,138.88
+Jamaica,1991,136.56
+Jamaica,1992,144.12
+Jamaica,1993,148.68
+Jamaica,1994,156.52
+Jamaica,1995,163.28
+Jamaica,1996,143.24
+Jamaica,1997,147.28
+Jamaica,1998,145.92
+Jamaica,1999,149.52
+Jamaica,2000,138.92
+Jamaica,2001,147.48
+Jamaica,2002,140.68
+Jamaica,2003,141.04
+Jamaica,2004,147.12
+Jamaica,2005,147.4
+Jamaica,2006,155.2
+Jamaica,2007,152.24
+Jamaica,2008,147.52
+Jamaica,2009,156.88
+Jamaica,2010,153.0
+Jamaica,2011,159.56
+Jamaica,2012,154.36
+Jamaica,2013,159.44
+Japan,1961,198.52
+Japan,1962,196.48
+Japan,1963,197.96
+Japan,1964,195.92
+Japan,1965,192.16
+Japan,1966,192.36
+Japan,1967,192.28
+Japan,1968,189.8
+Japan,1969,185.84
+Japan,1970,183.0
+Japan,1971,182.76
+Japan,1972,183.28
+Japan,1973,183.76
+Japan,1974,179.12
+Japan,1975,178.76
+Japan,1976,175.84
+Japan,1977,172.64
+Japan,1978,170.52
+Japan,1979,170.6
+Japan,1980,168.64
+Japan,1981,166.84
+Japan,1982,167.68
+Japan,1983,166.8
+Japan,1984,166.32
+Japan,1985,166.44
+Japan,1986,168.0
+Japan,1987,168.48
+Japan,1988,169.28
+Japan,1989,169.84
+Japan,1990,166.68
+Japan,1991,167.0
+Japan,1992,168.48
+Japan,1993,166.04
+Japan,1994,166.08
+Japan,1995,165.76
+Japan,1996,168.72
+Japan,1997,166.12
+Japan,1998,163.48
+Japan,1999,163.48
+Japan,2000,163.8
+Japan,2001,162.96
+Japan,2002,161.28
+Japan,2003,161.48
+Japan,2004,161.52
+Japan,2005,160.96
+Japan,2006,159.2
+Japan,2007,161.64
+Japan,2008,156.92
+Japan,2009,154.2
+Japan,2010,155.72
+Japan,2011,155.44
+Japan,2012,157.16
+Japan,2013,157.08
+Jordan,1961,184.68
+Jordan,1962,184.28
+Jordan,1963,188.76
+Jordan,1964,185.92
+Jordan,1965,180.56
+Jordan,1966,176.64
+Jordan,1967,170.84
+Jordan,1968,182.12
+Jordan,1969,190.16
+Jordan,1970,183.44
+Jordan,1971,184.84
+Jordan,1972,183.88
+Jordan,1973,178.6
+Jordan,1974,180.64
+Jordan,1975,183.88
+Jordan,1976,179.8
+Jordan,1977,180.04
+Jordan,1978,183.28
+Jordan,1979,179.96
+Jordan,1980,186.0
+Jordan,1981,188.32
+Jordan,1982,189.56
+Jordan,1983,195.88
+Jordan,1984,194.28
+Jordan,1985,194.8
+Jordan,1986,190.8
+Jordan,1987,196.88
+Jordan,1988,196.96
+Jordan,1989,198.76
+Jordan,1990,210.6
+Jordan,1991,204.8
+Jordan,1992,201.92
+Jordan,1993,184.32
+Jordan,1994,189.68
+Jordan,1995,200.16
+Jordan,1996,199.16
+Jordan,1997,196.72
+Jordan,1998,190.64
+Jordan,1999,193.68
+Jordan,2000,193.76
+Jordan,2001,197.48
+Jordan,2002,205.76
+Jordan,2003,221.68
+Jordan,2004,200.84
+Jordan,2005,215.8
+Jordan,2006,215.76
+Jordan,2007,209.68
+Jordan,2008,210.84
+Jordan,2009,218.84
+Jordan,2010,209.68
+Jordan,2011,216.92
+Jordan,2012,207.4
+Jordan,2013,209.64
+Kazakhstan,1961,237.96
+Kazakhstan,1962,239.6
+Kazakhstan,1963,238.32
+Kazakhstan,1964,239.64
+Kazakhstan,1965,235.12
+Kazakhstan,1966,230.08
+Kazakhstan,1967,226.68
+Kazakhstan,1968,224.52
+Kazakhstan,1969,224.2
+Kazakhstan,1970,224.72
+Kazakhstan,1971,222.0
+Kazakhstan,1972,217.76
+Kazakhstan,1973,218.76
+Kazakhstan,1974,216.92
+Kazakhstan,1975,214.0
+Kazakhstan,1976,215.24
+Kazakhstan,1977,212.04
+Kazakhstan,1978,212.76
+Kazakhstan,1979,211.68
+Kazakhstan,1980,209.2
+Kazakhstan,1981,207.24
+Kazakhstan,1982,209.72
+Kazakhstan,1983,206.64
+Kazakhstan,1984,206.04
+Kazakhstan,1985,206.72
+Kazakhstan,1986,205.8
+Kazakhstan,1987,206.88
+Kazakhstan,1988,203.36
+Kazakhstan,1989,200.0
+Kazakhstan,1990,202.4
+Kazakhstan,1991,200.08
+Kazakhstan,1992,198.48
+Kazakhstan,1993,205.6
+Kazakhstan,1994,207.52
+Kazakhstan,1995,210.0
+Kazakhstan,1996,213.72
+Kazakhstan,1997,217.2
+Kazakhstan,1998,201.08
+Kazakhstan,1999,200.84
+Kazakhstan,2000,195.24
+Kazakhstan,2001,194.84
+Kazakhstan,2002,186.72
+Kazakhstan,2003,187.8
+Kazakhstan,2004,178.6
+Kazakhstan,2005,164.6
+Kazakhstan,2006,166.56
+Kazakhstan,2007,167.0
+Kazakhstan,2008,165.0
+Kazakhstan,2009,165.68
+Kazakhstan,2010,171.0
+Kazakhstan,2011,157.76
+Kazakhstan,2012,151.16
+Kazakhstan,2013,157.4
+Kenya,1961,213.72
+Kenya,1962,213.88
+Kenya,1963,201.76
+Kenya,1964,205.16
+Kenya,1965,218.04
+Kenya,1966,216.84
+Kenya,1967,218.2
+Kenya,1968,217.8
+Kenya,1969,225.12
+Kenya,1970,216.56
+Kenya,1971,213.16
+Kenya,1972,218.72
+Kenya,1973,213.2
+Kenya,1974,212.68
+Kenya,1975,217.72
+Kenya,1976,220.76
+Kenya,1977,214.24
+Kenya,1978,211.2
+Kenya,1979,196.44
+Kenya,1980,187.6
+Kenya,1981,187.08
+Kenya,1982,184.16
+Kenya,1983,182.16
+Kenya,1984,169.44
+Kenya,1985,173.32
+Kenya,1986,178.12
+Kenya,1987,166.72
+Kenya,1988,160.88
+Kenya,1989,164.96
+Kenya,1990,156.44
+Kenya,1991,154.84
+Kenya,1992,148.68
+Kenya,1993,150.0
+Kenya,1994,176.32
+Kenya,1995,176.96
+Kenya,1996,177.88
+Kenya,1997,173.72
+Kenya,1998,179.28
+Kenya,1999,171.44
+Kenya,2000,170.08
+Kenya,2001,165.16
+Kenya,2002,168.96
+Kenya,2003,162.08
+Kenya,2004,159.2
+Kenya,2005,173.6
+Kenya,2006,173.6
+Kenya,2007,172.76
+Kenya,2008,165.52
+Kenya,2009,170.16
+Kenya,2010,172.88
+Kenya,2011,184.48
+Kenya,2012,185.12
+Kenya,2013,183.76
+Kiribati,1961,122.8
+Kiribati,1962,120.24
+Kiribati,1963,129.4
+Kiribati,1964,135.92
+Kiribati,1965,126.6
+Kiribati,1966,137.12
+Kiribati,1967,138.08
+Kiribati,1968,133.6
+Kiribati,1969,131.28
+Kiribati,1970,141.96
+Kiribati,1971,146.6
+Kiribati,1972,145.08
+Kiribati,1973,155.04
+Kiribati,1974,152.24
+Kiribati,1975,153.44
+Kiribati,1976,153.84
+Kiribati,1977,141.16
+Kiribati,1978,148.36
+Kiribati,1979,148.44
+Kiribati,1980,168.36
+Kiribati,1981,148.52
+Kiribati,1982,147.84
+Kiribati,1983,143.76
+Kiribati,1984,139.0
+Kiribati,1985,136.6
+Kiribati,1986,136.32
+Kiribati,1987,134.48
+Kiribati,1988,137.48
+Kiribati,1989,129.12
+Kiribati,1990,136.76
+Kiribati,1991,138.36
+Kiribati,1992,136.48
+Kiribati,1993,144.52
+Kiribati,1994,129.92
+Kiribati,1995,137.84
+Kiribati,1996,141.08
+Kiribati,1997,142.04
+Kiribati,1998,144.64
+Kiribati,1999,142.2
+Kiribati,2000,141.8
+Kiribati,2001,150.04
+Kiribati,2002,140.4
+Kiribati,2003,140.8
+Kiribati,2004,140.12
+Kiribati,2005,144.68
+Kiribati,2006,141.12
+Kiribati,2007,141.4
+Kiribati,2008,141.52
+Kiribati,2009,146.8
+Kiribati,2010,149.4
+Kiribati,2011,149.32
+Kiribati,2012,151.56
+Kiribati,2013,152.12
+Kuwait,1961,162.32
+Kuwait,1962,174.4
+Kuwait,1963,163.2
+Kuwait,1964,175.4
+Kuwait,1965,169.12
+Kuwait,1966,170.88
+Kuwait,1967,172.52
+Kuwait,1968,169.56
+Kuwait,1969,165.64
+Kuwait,1970,167.28
+Kuwait,1971,158.56
+Kuwait,1972,157.48
+Kuwait,1973,154.8
+Kuwait,1974,154.12
+Kuwait,1975,153.12
+Kuwait,1976,157.96
+Kuwait,1977,161.96
+Kuwait,1978,164.36
+Kuwait,1979,167.2
+Kuwait,1980,166.84
+Kuwait,1981,171.6
+Kuwait,1982,167.28
+Kuwait,1983,168.08
+Kuwait,1984,167.36
+Kuwait,1985,166.24
+Kuwait,1986,166.36
+Kuwait,1987,170.4
+Kuwait,1988,175.92
+Kuwait,1989,180.84
+Kuwait,1990,154.04
+Kuwait,1991,134.0
+Kuwait,1992,140.92
+Kuwait,1993,150.28
+Kuwait,1994,175.04
+Kuwait,1995,189.08
+Kuwait,1996,195.2
+Kuwait,1997,194.04
+Kuwait,1998,203.12
+Kuwait,1999,205.64
+Kuwait,2000,203.16
+Kuwait,2001,199.88
+Kuwait,2002,200.76
+Kuwait,2003,203.8
+Kuwait,2004,210.0
+Kuwait,2005,208.36
+Kuwait,2006,217.36
+Kuwait,2007,216.88
+Kuwait,2008,205.52
+Kuwait,2009,197.28
+Kuwait,2010,202.8
+Kuwait,2011,210.24
+Kuwait,2012,198.72
+Kuwait,2013,218.64
+Kyrgyzstan,1961,237.96
+Kyrgyzstan,1962,239.6
+Kyrgyzstan,1963,238.32
+Kyrgyzstan,1964,239.64
+Kyrgyzstan,1965,235.12
+Kyrgyzstan,1966,230.08
+Kyrgyzstan,1967,226.68
+Kyrgyzstan,1968,224.52
+Kyrgyzstan,1969,224.2
+Kyrgyzstan,1970,224.72
+Kyrgyzstan,1971,222.0
+Kyrgyzstan,1972,217.76
+Kyrgyzstan,1973,218.76
+Kyrgyzstan,1974,216.92
+Kyrgyzstan,1975,214.0
+Kyrgyzstan,1976,215.24
+Kyrgyzstan,1977,212.04
+Kyrgyzstan,1978,212.76
+Kyrgyzstan,1979,211.68
+Kyrgyzstan,1980,209.2
+Kyrgyzstan,1981,207.24
+Kyrgyzstan,1982,209.72
+Kyrgyzstan,1983,206.64
+Kyrgyzstan,1984,206.04
+Kyrgyzstan,1985,206.72
+Kyrgyzstan,1986,205.8
+Kyrgyzstan,1987,206.88
+Kyrgyzstan,1988,203.36
+Kyrgyzstan,1989,200.0
+Kyrgyzstan,1990,202.4
+Kyrgyzstan,1991,200.08
+Kyrgyzstan,1992,185.08
+Kyrgyzstan,1993,179.72
+Kyrgyzstan,1994,178.84
+Kyrgyzstan,1995,192.52
+Kyrgyzstan,1996,196.48
+Kyrgyzstan,1997,213.48
+Kyrgyzstan,1998,177.52
+Kyrgyzstan,1999,192.4
+Kyrgyzstan,2000,190.96
+Kyrgyzstan,2001,193.32
+Kyrgyzstan,2002,190.96
+Kyrgyzstan,2003,205.4
+Kyrgyzstan,2004,202.88
+Kyrgyzstan,2005,207.24
+Kyrgyzstan,2006,189.04
+Kyrgyzstan,2007,190.52
+Kyrgyzstan,2008,194.12
+Kyrgyzstan,2009,197.24
+Kyrgyzstan,2010,199.52
+Kyrgyzstan,2011,194.84
+Kyrgyzstan,2012,198.48
+Kyrgyzstan,2013,200.48
+Laos,1961,175.88
+Laos,1962,172.56
+Laos,1963,175.16
+Laos,1964,178.28
+Laos,1965,178.28
+Laos,1966,179.48
+Laos,1967,177.92
+Laos,1968,178.24
+Laos,1969,173.76
+Laos,1970,176.92
+Laos,1971,177.48
+Laos,1972,176.72
+Laos,1973,176.0
+Laos,1974,173.24
+Laos,1975,171.0
+Laos,1976,169.72
+Laos,1977,178.92
+Laos,1978,172.36
+Laos,1979,168.64
+Laos,1980,167.48
+Laos,1981,165.48
+Laos,1982,166.88
+Laos,1983,163.32
+Laos,1984,159.64
+Laos,1985,162.2
+Laos,1986,163.4
+Laos,1987,164.84
+Laos,1988,158.96
+Laos,1989,160.96
+Laos,1990,168.12
+Laos,1991,167.0
+Laos,1992,166.28
+Laos,1993,165.56
+Laos,1994,166.32
+Laos,1995,162.68
+Laos,1996,167.88
+Laos,1997,168.4
+Laos,1998,170.12
+Laos,1999,169.68
+Laos,2000,183.72
+Laos,2001,182.8
+Laos,2002,190.6
+Laos,2003,189.2
+Laos,2004,189.92
+Laos,2005,197.88
+Laos,2006,194.28
+Laos,2007,194.84
+Laos,2008,190.0
+Laos,2009,199.44
+Laos,2010,201.56
+Laos,2011,209.72
+Laos,2012,206.08
+Laos,2013,217.24
+Latvia,1961,237.96
+Latvia,1962,239.6
+Latvia,1963,238.32
+Latvia,1964,239.64
+Latvia,1965,235.12
+Latvia,1966,230.08
+Latvia,1967,226.68
+Latvia,1968,224.52
+Latvia,1969,224.2
+Latvia,1970,224.72
+Latvia,1971,222.0
+Latvia,1972,217.76
+Latvia,1973,218.76
+Latvia,1974,216.92
+Latvia,1975,214.0
+Latvia,1976,215.24
+Latvia,1977,212.04
+Latvia,1978,212.76
+Latvia,1979,211.68
+Latvia,1980,209.2
+Latvia,1981,207.24
+Latvia,1982,209.72
+Latvia,1983,206.64
+Latvia,1984,206.04
+Latvia,1985,206.72
+Latvia,1986,205.8
+Latvia,1987,206.88
+Latvia,1988,203.36
+Latvia,1989,200.0
+Latvia,1990,202.4
+Latvia,1991,200.08
+Latvia,1992,186.92
+Latvia,1993,188.92
+Latvia,1994,176.92
+Latvia,1995,170.32
+Latvia,1996,156.52
+Latvia,1997,159.2
+Latvia,1998,157.08
+Latvia,1999,157.2
+Latvia,2000,145.96
+Latvia,2001,153.72
+Latvia,2002,150.92
+Latvia,2003,159.44
+Latvia,2004,155.04
+Latvia,2005,149.68
+Latvia,2006,153.12
+Latvia,2007,152.68
+Latvia,2008,148.56
+Latvia,2009,152.88
+Latvia,2010,152.76
+Latvia,2011,158.16
+Latvia,2012,158.16
+Latvia,2013,161.68
+Lebanon,1961,183.4
+Lebanon,1962,181.84
+Lebanon,1963,173.68
+Lebanon,1964,178.2
+Lebanon,1965,180.48
+Lebanon,1966,177.56
+Lebanon,1967,181.24
+Lebanon,1968,181.12
+Lebanon,1969,176.28
+Lebanon,1970,169.92
+Lebanon,1971,171.36
+Lebanon,1972,171.08
+Lebanon,1973,167.68
+Lebanon,1974,171.0
+Lebanon,1975,169.64
+Lebanon,1976,172.0
+Lebanon,1977,178.96
+Lebanon,1978,183.24
+Lebanon,1979,191.04
+Lebanon,1980,196.68
+Lebanon,1981,197.76
+Lebanon,1982,206.32
+Lebanon,1983,205.16
+Lebanon,1984,205.16
+Lebanon,1985,207.0
+Lebanon,1986,210.88
+Lebanon,1987,219.72
+Lebanon,1988,221.2
+Lebanon,1989,226.84
+Lebanon,1990,227.64
+Lebanon,1991,229.92
+Lebanon,1992,231.64
+Lebanon,1993,227.32
+Lebanon,1994,228.2
+Lebanon,1995,234.36
+Lebanon,1996,237.88
+Lebanon,1997,241.6
+Lebanon,1998,234.48
+Lebanon,1999,229.8
+Lebanon,2000,225.68
+Lebanon,2001,230.08
+Lebanon,2002,219.8
+Lebanon,2003,208.76
+Lebanon,2004,207.04
+Lebanon,2005,203.32
+Lebanon,2006,199.08
+Lebanon,2007,199.16
+Lebanon,2008,196.48
+Lebanon,2009,192.08
+Lebanon,2010,200.76
+Lebanon,2011,197.52
+Lebanon,2012,201.64
+Lebanon,2013,201.56
+Lesotho,1961,213.0
+Lesotho,1962,204.96
+Lesotho,1963,212.32
+Lesotho,1964,207.08
+Lesotho,1965,211.68
+Lesotho,1966,207.04
+Lesotho,1967,205.52
+Lesotho,1968,206.04
+Lesotho,1969,201.68
+Lesotho,1970,205.72
+Lesotho,1971,211.48
+Lesotho,1972,196.0
+Lesotho,1973,194.92
+Lesotho,1974,216.8
+Lesotho,1975,203.64
+Lesotho,1976,211.64
+Lesotho,1977,236.56
+Lesotho,1978,237.92
+Lesotho,1979,227.04
+Lesotho,1980,219.16
+Lesotho,1981,219.72
+Lesotho,1982,209.08
+Lesotho,1983,217.4
+Lesotho,1984,211.76
+Lesotho,1985,219.44
+Lesotho,1986,211.92
+Lesotho,1987,207.36
+Lesotho,1988,216.84
+Lesotho,1989,223.76
+Lesotho,1990,225.6
+Lesotho,1991,223.32
+Lesotho,1992,223.64
+Lesotho,1993,223.84
+Lesotho,1994,228.44
+Lesotho,1995,216.72
+Lesotho,1996,226.88
+Lesotho,1997,229.88
+Lesotho,1998,234.44
+Lesotho,1999,236.56
+Lesotho,2000,236.64
+Lesotho,2001,238.4
+Lesotho,2002,241.68
+Lesotho,2003,242.8
+Lesotho,2004,245.12
+Lesotho,2005,247.04
+Lesotho,2006,248.2
+Lesotho,2007,249.36
+Lesotho,2008,246.52
+Lesotho,2009,249.96
+Lesotho,2010,254.52
+Lesotho,2011,248.56
+Lesotho,2012,250.8
+Lesotho,2013,242.96
+Liberia,1961,119.32
+Liberia,1962,120.44
+Liberia,1963,124.64
+Liberia,1964,128.92
+Liberia,1965,123.52
+Liberia,1966,134.0
+Liberia,1967,125.36
+Liberia,1968,131.36
+Liberia,1969,123.36
+Liberia,1970,143.12
+Liberia,1971,147.2
+Liberia,1972,139.08
+Liberia,1973,141.56
+Liberia,1974,141.68
+Liberia,1975,131.72
+Liberia,1976,138.2
+Liberia,1977,147.92
+Liberia,1978,145.08
+Liberia,1979,151.2
+Liberia,1980,147.84
+Liberia,1981,154.08
+Liberia,1982,153.64
+Liberia,1983,143.92
+Liberia,1984,144.72
+Liberia,1985,140.28
+Liberia,1986,146.24
+Liberia,1987,144.96
+Liberia,1988,150.28
+Liberia,1989,159.0
+Liberia,1990,127.76
+Liberia,1991,129.32
+Liberia,1992,135.0
+Liberia,1993,118.16
+Liberia,1994,115.8
+Liberia,1995,127.92
+Liberia,1996,130.2
+Liberia,1997,133.44
+Liberia,1998,134.36
+Liberia,1999,131.68
+Liberia,2000,131.92
+Liberia,2001,116.56
+Liberia,2002,116.08
+Liberia,2003,114.24
+Liberia,2004,114.92
+Liberia,2005,119.64
+Liberia,2006,114.64
+Liberia,2007,117.12
+Liberia,2008,124.28
+Liberia,2009,124.64
+Liberia,2010,119.0
+Liberia,2011,121.04
+Liberia,2012,119.64
+Liberia,2013,118.08
+Lithuania,1961,237.96
+Lithuania,1962,239.6
+Lithuania,1963,238.32
+Lithuania,1964,239.64
+Lithuania,1965,235.12
+Lithuania,1966,230.08
+Lithuania,1967,226.68
+Lithuania,1968,224.52
+Lithuania,1969,224.2
+Lithuania,1970,224.72
+Lithuania,1971,222.0
+Lithuania,1972,217.76
+Lithuania,1973,218.76
+Lithuania,1974,216.92
+Lithuania,1975,214.0
+Lithuania,1976,215.24
+Lithuania,1977,212.04
+Lithuania,1978,212.76
+Lithuania,1979,211.68
+Lithuania,1980,209.2
+Lithuania,1981,207.24
+Lithuania,1982,209.72
+Lithuania,1983,206.64
+Lithuania,1984,206.04
+Lithuania,1985,206.72
+Lithuania,1986,205.8
+Lithuania,1987,206.88
+Lithuania,1988,203.36
+Lithuania,1989,200.0
+Lithuania,1990,202.4
+Lithuania,1991,200.08
+Lithuania,1992,192.24
+Lithuania,1993,176.24
+Lithuania,1994,190.04
+Lithuania,1995,199.6
+Lithuania,1996,216.64
+Lithuania,1997,224.56
+Lithuania,1998,237.28
+Lithuania,1999,216.44
+Lithuania,2000,214.6
+Lithuania,2001,208.68
+Lithuania,2002,208.16
+Lithuania,2003,201.36
+Lithuania,2004,202.48
+Lithuania,2005,199.08
+Lithuania,2006,186.2
+Lithuania,2007,199.6
+Lithuania,2008,190.08
+Lithuania,2009,198.76
+Lithuania,2010,185.52
+Lithuania,2011,187.64
+Lithuania,2012,193.04
+Lithuania,2013,192.0
+Luxembourg,2000,126.8
+Luxembourg,2001,129.56
+Luxembourg,2002,135.48
+Luxembourg,2003,135.0
+Luxembourg,2004,132.88
+Luxembourg,2005,137.96
+Luxembourg,2006,145.04
+Luxembourg,2007,147.0
+Luxembourg,2008,149.16
+Luxembourg,2009,159.28
+Luxembourg,2010,169.88
+Luxembourg,2011,170.56
+Luxembourg,2012,168.2
+Luxembourg,2013,167.04
+Madagascar,1961,175.12
+Madagascar,1962,170.88
+Madagascar,1963,176.0
+Madagascar,1964,180.84
+Madagascar,1965,179.88
+Madagascar,1966,175.4
+Madagascar,1967,179.8
+Madagascar,1968,182.56
+Madagascar,1969,183.76
+Madagascar,1970,178.4
+Madagascar,1971,184.04
+Madagascar,1972,178.92
+Madagascar,1973,174.84
+Madagascar,1974,177.48
+Madagascar,1975,176.08
+Madagascar,1976,179.64
+Madagascar,1977,173.2
+Madagascar,1978,166.32
+Madagascar,1979,164.52
+Madagascar,1980,163.36
+Madagascar,1981,164.8
+Madagascar,1982,152.84
+Madagascar,1983,165.96
+Madagascar,1984,160.88
+Madagascar,1985,160.64
+Madagascar,1986,161.28
+Madagascar,1987,153.96
+Madagascar,1988,143.8
+Madagascar,1989,145.48
+Madagascar,1990,143.6
+Madagascar,1991,139.64
+Madagascar,1992,141.44
+Madagascar,1993,142.08
+Madagascar,1994,135.0
+Madagascar,1995,135.44
+Madagascar,1996,135.28
+Madagascar,1997,134.92
+Madagascar,1998,134.92
+Madagascar,1999,135.92
+Madagascar,2000,136.56
+Madagascar,2001,139.04
+Madagascar,2002,138.28
+Madagascar,2003,143.12
+Madagascar,2004,144.28
+Madagascar,2005,148.48
+Madagascar,2006,149.32
+Madagascar,2007,150.6
+Madagascar,2008,146.48
+Madagascar,2009,146.96
+Madagascar,2010,147.36
+Madagascar,2011,149.04
+Madagascar,2012,147.76
+Madagascar,2013,146.6
+Malawi,1961,228.96
+Malawi,1962,227.56
+Malawi,1963,238.16
+Malawi,1964,250.04
+Malawi,1965,249.84
+Malawi,1966,251.84
+Malawi,1967,241.96
+Malawi,1968,254.12
+Malawi,1969,246.8
+Malawi,1970,261.08
+Malawi,1971,269.12
+Malawi,1972,261.28
+Malawi,1973,264.04
+Malawi,1974,260.72
+Malawi,1975,255.2
+Malawi,1976,252.28
+Malawi,1977,250.76
+Malawi,1978,247.88
+Malawi,1979,239.24
+Malawi,1980,234.2
+Malawi,1981,237.96
+Malawi,1982,239.92
+Malawi,1983,226.16
+Malawi,1984,216.96
+Malawi,1985,217.28
+Malawi,1986,208.24
+Malawi,1987,205.6
+Malawi,1988,206.48
+Malawi,1989,196.44
+Malawi,1990,189.96
+Malawi,1991,186.8
+Malawi,1992,177.2
+Malawi,1993,184.56
+Malawi,1994,184.0
+Malawi,1995,189.16
+Malawi,1996,192.48
+Malawi,1997,194.04
+Malawi,1998,197.8
+Malawi,1999,206.56
+Malawi,2000,208.32
+Malawi,2001,210.8
+Malawi,2002,209.0
+Malawi,2003,209.28
+Malawi,2004,207.32
+Malawi,2005,208.6
+Malawi,2006,217.72
+Malawi,2007,223.96
+Malawi,2008,223.68
+Malawi,2009,219.12
+Malawi,2010,226.16
+Malawi,2011,232.16
+Malawi,2012,224.44
+Malawi,2013,227.04
+Malaysia,1961,131.76
+Malaysia,1962,137.2
+Malaysia,1963,138.76
+Malaysia,1964,133.4
+Malaysia,1965,133.0
+Malaysia,1966,130.92
+Malaysia,1967,130.12
+Malaysia,1968,131.96
+Malaysia,1969,139.4
+Malaysia,1970,137.12
+Malaysia,1971,136.28
+Malaysia,1972,138.12
+Malaysia,1973,141.16
+Malaysia,1974,137.36
+Malaysia,1975,132.36
+Malaysia,1976,133.6
+Malaysia,1977,130.28
+Malaysia,1978,133.16
+Malaysia,1979,133.52
+Malaysia,1980,131.64
+Malaysia,1981,130.12
+Malaysia,1982,127.92
+Malaysia,1983,126.96
+Malaysia,1984,127.36
+Malaysia,1985,113.76
+Malaysia,1986,112.68
+Malaysia,1987,113.52
+Malaysia,1988,115.44
+Malaysia,1989,114.88
+Malaysia,1990,113.56
+Malaysia,1991,119.52
+Malaysia,1992,126.08
+Malaysia,1993,125.2
+Malaysia,1994,126.08
+Malaysia,1995,127.08
+Malaysia,1996,131.4
+Malaysia,1997,131.96
+Malaysia,1998,133.56
+Malaysia,1999,136.56
+Malaysia,2000,135.6
+Malaysia,2001,132.92
+Malaysia,2002,134.12
+Malaysia,2003,136.0
+Malaysia,2004,143.72
+Malaysia,2005,145.68
+Malaysia,2006,145.68
+Malaysia,2007,147.2
+Malaysia,2008,140.84
+Malaysia,2009,143.52
+Malaysia,2010,142.28
+Malaysia,2011,145.92
+Malaysia,2012,143.36
+Malaysia,2013,144.72
+Maldives,1961,98.72
+Maldives,1962,100.6
+Maldives,1963,100.2
+Maldives,1964,101.96
+Maldives,1965,101.16
+Maldives,1966,104.52
+Maldives,1967,103.8
+Maldives,1968,104.32
+Maldives,1969,102.96
+Maldives,1970,102.88
+Maldives,1971,106.16
+Maldives,1972,110.04
+Maldives,1973,135.08
+Maldives,1974,133.44
+Maldives,1975,134.76
+Maldives,1976,146.52
+Maldives,1977,152.2
+Maldives,1978,157.4
+Maldives,1979,167.88
+Maldives,1980,171.28
+Maldives,1981,169.48
+Maldives,1982,175.68
+Maldives,1983,165.32
+Maldives,1984,159.72
+Maldives,1985,159.68
+Maldives,1986,161.16
+Maldives,1987,155.88
+Maldives,1988,155.2
+Maldives,1989,161.88
+Maldives,1990,143.2
+Maldives,1991,146.04
+Maldives,1992,137.2
+Maldives,1993,116.64
+Maldives,1994,121.32
+Maldives,1995,122.76
+Maldives,1996,126.44
+Maldives,1997,122.92
+Maldives,1998,124.2
+Maldives,1999,127.28
+Maldives,2000,121.96
+Maldives,2001,121.84
+Maldives,2002,122.28
+Maldives,2003,124.4
+Maldives,2004,123.8
+Maldives,2005,124.44
+Maldives,2006,125.84
+Maldives,2007,130.48
+Maldives,2008,132.6
+Maldives,2009,133.64
+Maldives,2010,136.2
+Maldives,2011,141.64
+Maldives,2012,145.84
+Maldives,2013,145.88
+Mali,1961,142.64
+Mali,1962,143.4
+Mali,1963,142.12
+Mali,1964,142.48
+Mali,1965,131.68
+Mali,1966,134.68
+Mali,1967,140.12
+Mali,1968,148.56
+Mali,1969,136.92
+Mali,1970,155.12
+Mali,1971,132.88
+Mali,1972,134.72
+Mali,1973,131.12
+Mali,1974,141.76
+Mali,1975,145.76
+Mali,1976,143.64
+Mali,1977,139.0
+Mali,1978,130.6
+Mali,1979,141.0
+Mali,1980,126.84
+Mali,1981,124.2
+Mali,1982,144.68
+Mali,1983,142.04
+Mali,1984,157.08
+Mali,1985,175.44
+Mali,1986,183.48
+Mali,1987,188.44
+Mali,1988,197.16
+Mali,1989,191.48
+Mali,1990,194.6
+Mali,1991,194.64
+Mali,1992,205.0
+Mali,1993,203.28
+Mali,1994,196.56
+Mali,1995,201.28
+Mali,1996,197.4
+Mali,1997,199.48
+Mali,1998,204.6
+Mali,1999,209.12
+Mali,2000,205.88
+Mali,2001,205.4
+Mali,2002,203.52
+Mali,2003,206.08
+Mali,2004,207.28
+Mali,2005,208.76
+Mali,2006,208.72
+Mali,2007,214.76
+Mali,2008,216.36
+Mali,2009,222.88
+Mali,2010,228.56
+Mali,2011,230.68
+Mali,2012,238.88
+Mali,2013,246.04
+Malta,1961,221.92
+Malta,1962,219.8
+Malta,1963,225.08
+Malta,1964,229.84
+Malta,1965,230.6
+Malta,1966,221.52
+Malta,1967,213.16
+Malta,1968,216.04
+Malta,1969,221.4
+Malta,1970,210.16
+Malta,1971,211.28
+Malta,1972,215.12
+Malta,1973,213.0
+Malta,1974,204.84
+Malta,1975,214.76
+Malta,1976,206.04
+Malta,1977,195.68
+Malta,1978,186.48
+Malta,1979,186.68
+Malta,1980,195.0
+Malta,1981,192.0
+Malta,1982,178.92
+Malta,1983,184.92
+Malta,1984,181.92
+Malta,1985,174.52
+Malta,1986,172.28
+Malta,1987,172.16
+Malta,1988,184.16
+Malta,1989,181.12
+Malta,1990,182.84
+Malta,1991,185.6
+Malta,1992,184.48
+Malta,1993,189.68
+Malta,1994,198.2
+Malta,1995,194.8
+Malta,1996,200.64
+Malta,1997,199.48
+Malta,1998,205.56
+Malta,1999,204.72
+Malta,2000,207.52
+Malta,2001,206.6
+Malta,2002,212.44
+Malta,2003,211.84
+Malta,2004,205.2
+Malta,2005,206.56
+Malta,2006,207.04
+Malta,2007,209.84
+Malta,2008,199.68
+Malta,2009,200.24
+Malta,2010,197.04
+Malta,2011,200.2
+Malta,2012,192.2
+Malta,2013,194.48
+Mauritania,1961,167.92
+Mauritania,1962,163.96
+Mauritania,1963,161.72
+Mauritania,1964,157.76
+Mauritania,1965,153.08
+Mauritania,1966,158.28
+Mauritania,1967,157.76
+Mauritania,1968,154.44
+Mauritania,1969,155.48
+Mauritania,1970,139.28
+Mauritania,1971,139.96
+Mauritania,1972,132.96
+Mauritania,1973,145.2
+Mauritania,1974,146.6
+Mauritania,1975,152.2
+Mauritania,1976,147.56
+Mauritania,1977,148.2
+Mauritania,1978,152.0
+Mauritania,1979,146.28
+Mauritania,1980,152.36
+Mauritania,1981,153.4
+Mauritania,1982,157.04
+Mauritania,1983,178.12
+Mauritania,1984,170.76
+Mauritania,1985,178.88
+Mauritania,1986,175.64
+Mauritania,1987,179.56
+Mauritania,1988,179.36
+Mauritania,1989,186.2
+Mauritania,1990,178.32
+Mauritania,1991,185.84
+Mauritania,1992,185.48
+Mauritania,1993,189.08
+Mauritania,1994,198.96
+Mauritania,1995,184.48
+Mauritania,1996,191.56
+Mauritania,1997,182.16
+Mauritania,1998,197.8
+Mauritania,1999,180.76
+Mauritania,2000,173.16
+Mauritania,2001,183.84
+Mauritania,2002,187.96
+Mauritania,2003,200.12
+Mauritania,2004,180.12
+Mauritania,2005,184.28
+Mauritania,2006,181.68
+Mauritania,2007,195.56
+Mauritania,2008,197.36
+Mauritania,2009,197.2
+Mauritania,2010,194.92
+Mauritania,2011,188.8
+Mauritania,2012,198.4
+Mauritania,2013,204.36
+Mauritius,1961,145.4
+Mauritius,1962,149.08
+Mauritius,1963,143.76
+Mauritius,1964,145.84
+Mauritius,1965,139.28
+Mauritius,1966,142.04
+Mauritius,1967,137.04
+Mauritius,1968,141.6
+Mauritius,1969,135.56
+Mauritius,1970,147.88
+Mauritius,1971,148.4
+Mauritius,1972,146.24
+Mauritius,1973,146.04
+Mauritius,1974,148.72
+Mauritius,1975,150.04
+Mauritius,1976,148.08
+Mauritius,1977,147.8
+Mauritius,1978,158.36
+Mauritius,1979,154.04
+Mauritius,1980,155.28
+Mauritius,1981,156.04
+Mauritius,1982,151.52
+Mauritius,1983,156.72
+Mauritius,1984,157.12
+Mauritius,1985,160.68
+Mauritius,1986,158.96
+Mauritius,1987,163.68
+Mauritius,1988,159.68
+Mauritius,1989,158.4
+Mauritius,1990,168.88
+Mauritius,1991,166.88
+Mauritius,1992,168.72
+Mauritius,1993,168.64
+Mauritius,1994,165.4
+Mauritius,1995,173.52
+Mauritius,1996,174.8
+Mauritius,1997,177.28
+Mauritius,1998,176.0
+Mauritius,1999,176.96
+Mauritius,2000,180.0
+Mauritius,2001,184.68
+Mauritius,2002,184.56
+Mauritius,2003,187.68
+Mauritius,2004,193.6
+Mauritius,2005,190.44
+Mauritius,2006,189.8
+Mauritius,2007,198.6
+Mauritius,2008,186.48
+Mauritius,2009,200.68
+Mauritius,2010,207.04
+Mauritius,2011,197.16
+Mauritius,2012,187.6
+Mauritius,2013,194.16
+Mexico,1961,185.84
+Mexico,1962,180.2
+Mexico,1963,181.16
+Mexico,1964,189.8
+Mexico,1965,189.4
+Mexico,1966,189.24
+Mexico,1967,191.36
+Mexico,1968,193.92
+Mexico,1969,192.92
+Mexico,1970,192.16
+Mexico,1971,195.12
+Mexico,1972,191.52
+Mexico,1973,191.48
+Mexico,1974,189.84
+Mexico,1975,190.44
+Mexico,1976,184.12
+Mexico,1977,185.96
+Mexico,1978,188.96
+Mexico,1979,187.16
+Mexico,1980,211.8
+Mexico,1981,227.16
+Mexico,1982,217.52
+Mexico,1983,214.12
+Mexico,1984,198.08
+Mexico,1985,207.6
+Mexico,1986,203.32
+Mexico,1987,196.32
+Mexico,1988,199.6
+Mexico,1989,192.12
+Mexico,1990,194.76
+Mexico,1991,198.4
+Mexico,1992,194.56
+Mexico,1993,191.76
+Mexico,1994,192.28
+Mexico,1995,195.24
+Mexico,1996,195.76
+Mexico,1997,195.8
+Mexico,1998,193.72
+Mexico,1999,194.52
+Mexico,2000,196.52
+Mexico,2001,197.76
+Mexico,2002,196.12
+Mexico,2003,197.0
+Mexico,2004,195.2
+Mexico,2005,190.72
+Mexico,2006,191.8
+Mexico,2007,192.08
+Mexico,2008,188.76
+Mexico,2009,184.64
+Mexico,2010,186.28
+Mexico,2011,180.68
+Mexico,2012,185.8
+Mexico,2013,187.88
+Moldova,1961,237.96
+Moldova,1962,239.6
+Moldova,1963,238.32
+Moldova,1964,239.64
+Moldova,1965,235.12
+Moldova,1966,230.08
+Moldova,1967,226.68
+Moldova,1968,224.52
+Moldova,1969,224.2
+Moldova,1970,224.72
+Moldova,1971,222.0
+Moldova,1972,217.76
+Moldova,1973,218.76
+Moldova,1974,216.92
+Moldova,1975,214.0
+Moldova,1976,215.24
+Moldova,1977,212.04
+Moldova,1978,212.76
+Moldova,1979,211.68
+Moldova,1980,209.2
+Moldova,1981,207.24
+Moldova,1982,209.72
+Moldova,1983,206.64
+Moldova,1984,206.04
+Moldova,1985,206.72
+Moldova,1986,205.8
+Moldova,1987,206.88
+Moldova,1988,203.36
+Moldova,1989,200.0
+Moldova,1990,202.4
+Moldova,1991,200.08
+Moldova,1992,157.4
+Moldova,1993,158.76
+Moldova,1994,156.16
+Moldova,1995,168.68
+Moldova,1996,158.2
+Moldova,1997,166.56
+Moldova,1998,168.76
+Moldova,1999,173.4
+Moldova,2000,175.96
+Moldova,2001,173.48
+Moldova,2002,173.68
+Moldova,2003,167.44
+Moldova,2004,170.72
+Moldova,2005,164.84
+Moldova,2006,160.84
+Moldova,2007,152.72
+Moldova,2008,157.16
+Moldova,2009,148.36
+Moldova,2010,149.6
+Moldova,2011,146.92
+Moldova,2012,144.52
+Moldova,2013,144.68
+Mongolia,1961,95.52
+Mongolia,1962,96.12
+Mongolia,1963,97.92
+Mongolia,1964,105.0
+Mongolia,1965,112.88
+Mongolia,1966,113.84
+Mongolia,1967,102.96
+Mongolia,1968,96.16
+Mongolia,1969,98.04
+Mongolia,1970,110.16
+Mongolia,1971,109.84
+Mongolia,1972,105.64
+Mongolia,1973,113.12
+Mongolia,1974,109.88
+Mongolia,1975,107.2
+Mongolia,1976,116.32
+Mongolia,1977,113.2
+Mongolia,1978,112.24
+Mongolia,1979,114.76
+Mongolia,1980,115.44
+Mongolia,1981,117.68
+Mongolia,1982,118.92
+Mongolia,1983,126.08
+Mongolia,1984,124.48
+Mongolia,1985,118.8
+Mongolia,1986,122.08
+Mongolia,1987,118.28
+Mongolia,1988,121.4
+Mongolia,1989,117.04
+Mongolia,1990,108.24
+Mongolia,1991,99.64
+Mongolia,1992,82.8
+Mongolia,1993,83.4
+Mongolia,1994,86.56
+Mongolia,1995,103.76
+Mongolia,1996,103.12
+Mongolia,1997,96.88
+Mongolia,1998,99.28
+Mongolia,1999,97.16
+Mongolia,2000,103.24
+Mongolia,2001,110.64
+Mongolia,2002,118.2
+Mongolia,2003,117.28
+Mongolia,2004,115.36
+Mongolia,2005,118.0
+Mongolia,2006,122.4
+Mongolia,2007,123.24
+Mongolia,2008,123.88
+Mongolia,2009,120.96
+Mongolia,2010,126.76
+Mongolia,2011,128.12
+Mongolia,2012,129.28
+Mongolia,2013,129.04
+Montenegro,2006,188.24
+Montenegro,2007,200.08
+Montenegro,2008,208.4
+Montenegro,2009,208.64
+Montenegro,2010,214.8
+Montenegro,2011,203.72
+Montenegro,2012,191.08
+Montenegro,2013,195.84
+Morocco,1961,181.24
+Morocco,1962,177.6
+Morocco,1963,184.28
+Morocco,1964,195.0
+Morocco,1965,197.32
+Morocco,1966,187.16
+Morocco,1967,194.6
+Morocco,1968,192.84
+Morocco,1969,215.28
+Morocco,1970,208.16
+Morocco,1971,211.4
+Morocco,1972,217.04
+Morocco,1973,218.0
+Morocco,1974,231.72
+Morocco,1975,238.12
+Morocco,1976,232.2
+Morocco,1977,231.48
+Morocco,1978,229.8
+Morocco,1979,236.64
+Morocco,1980,234.84
+Morocco,1981,236.2
+Morocco,1982,243.72
+Morocco,1983,246.56
+Morocco,1984,255.36
+Morocco,1985,261.92
+Morocco,1986,269.8
+Morocco,1987,272.4
+Morocco,1988,278.08
+Morocco,1989,268.24
+Morocco,1990,287.68
+Morocco,1991,286.04
+Morocco,1992,253.92
+Morocco,1993,249.84
+Morocco,1994,266.72
+Morocco,1995,252.28
+Morocco,1996,278.84
+Morocco,1997,269.96
+Morocco,1998,276.64
+Morocco,1999,268.64
+Morocco,2000,262.48
+Morocco,2001,274.68
+Morocco,2002,278.92
+Morocco,2003,282.88
+Morocco,2004,290.6
+Morocco,2005,279.44
+Morocco,2006,293.36
+Morocco,2007,278.44
+Morocco,2008,280.36
+Morocco,2009,279.92
+Morocco,2010,283.6
+Morocco,2011,285.56
+Morocco,2012,279.44
+Morocco,2013,285.16
+Mozambique,1961,118.12
+Mozambique,1962,117.8
+Mozambique,1963,118.08
+Mozambique,1964,118.12
+Mozambique,1965,123.2
+Mozambique,1966,120.24
+Mozambique,1967,117.36
+Mozambique,1968,112.68
+Mozambique,1969,119.16
+Mozambique,1970,113.4
+Mozambique,1971,115.2
+Mozambique,1972,110.12
+Mozambique,1973,120.76
+Mozambique,1974,113.76
+Mozambique,1975,110.84
+Mozambique,1976,116.68
+Mozambique,1977,108.96
+Mozambique,1978,106.48
+Mozambique,1979,106.48
+Mozambique,1980,109.72
+Mozambique,1981,104.72
+Mozambique,1982,100.12
+Mozambique,1983,101.84
+Mozambique,1984,108.84
+Mozambique,1985,120.92
+Mozambique,1986,105.32
+Mozambique,1987,106.52
+Mozambique,1988,118.36
+Mozambique,1989,107.88
+Mozambique,1990,110.52
+Mozambique,1991,106.28
+Mozambique,1992,106.6
+Mozambique,1993,111.52
+Mozambique,1994,110.2
+Mozambique,1995,126.96
+Mozambique,1996,127.04
+Mozambique,1997,129.56
+Mozambique,1998,131.44
+Mozambique,1999,126.44
+Mozambique,2000,125.6
+Mozambique,2001,122.88
+Mozambique,2002,136.72
+Mozambique,2003,141.36
+Mozambique,2004,141.2
+Mozambique,2005,139.48
+Mozambique,2006,154.72
+Mozambique,2007,154.72
+Mozambique,2008,153.6
+Mozambique,2009,152.96
+Mozambique,2010,159.24
+Mozambique,2011,160.88
+Mozambique,2012,161.8
+Mozambique,2013,157.4
+Myanmar,1961,116.52
+Myanmar,1962,122.12
+Myanmar,1963,126.12
+Myanmar,1964,130.72
+Myanmar,1965,124.8
+Myanmar,1966,118.44
+Myanmar,1967,118.24
+Myanmar,1968,122.72
+Myanmar,1969,124.36
+Myanmar,1970,123.64
+Myanmar,1971,124.36
+Myanmar,1972,122.4
+Myanmar,1973,121.0
+Myanmar,1974,125.84
+Myanmar,1975,127.6
+Myanmar,1976,126.32
+Myanmar,1977,131.68
+Myanmar,1978,135.56
+Myanmar,1979,133.24
+Myanmar,1980,132.36
+Myanmar,1981,136.64
+Myanmar,1982,142.56
+Myanmar,1983,142.0
+Myanmar,1984,143.96
+Myanmar,1985,135.68
+Myanmar,1986,133.08
+Myanmar,1987,132.72
+Myanmar,1988,128.56
+Myanmar,1989,120.36
+Myanmar,1990,136.36
+Myanmar,1991,137.44
+Myanmar,1992,139.48
+Myanmar,1993,143.52
+Myanmar,1994,141.36
+Myanmar,1995,146.28
+Myanmar,1996,148.12
+Myanmar,1997,152.6
+Myanmar,1998,152.76
+Myanmar,1999,153.28
+Myanmar,2000,159.88
+Myanmar,2001,163.84
+Myanmar,2002,166.32
+Myanmar,2003,170.84
+Myanmar,2004,171.52
+Myanmar,2005,173.96
+Myanmar,2006,179.08
+Myanmar,2007,179.12
+Myanmar,2008,184.12
+Myanmar,2009,186.16
+Myanmar,2010,193.4
+Myanmar,2011,192.12
+Myanmar,2012,196.64
+Myanmar,2013,195.6
+Namibia,1961,155.36
+Namibia,1962,159.6
+Namibia,1963,157.48
+Namibia,1964,157.48
+Namibia,1965,158.48
+Namibia,1966,155.96
+Namibia,1967,153.88
+Namibia,1968,153.8
+Namibia,1969,153.52
+Namibia,1970,155.44
+Namibia,1971,156.24
+Namibia,1972,154.8
+Namibia,1973,154.96
+Namibia,1974,154.56
+Namibia,1975,158.08
+Namibia,1976,157.28
+Namibia,1977,157.36
+Namibia,1978,158.56
+Namibia,1979,160.04
+Namibia,1980,162.36
+Namibia,1981,167.04
+Namibia,1982,166.76
+Namibia,1983,166.44
+Namibia,1984,164.44
+Namibia,1985,156.72
+Namibia,1986,155.36
+Namibia,1987,165.96
+Namibia,1988,162.64
+Namibia,1989,153.56
+Namibia,1990,156.44
+Namibia,1991,155.68
+Namibia,1992,154.64
+Namibia,1993,153.88
+Namibia,1994,154.84
+Namibia,1995,158.64
+Namibia,1996,163.08
+Namibia,1997,154.36
+Namibia,1998,151.04
+Namibia,1999,155.8
+Namibia,2000,155.68
+Namibia,2001,162.16
+Namibia,2002,158.52
+Namibia,2003,160.96
+Namibia,2004,158.08
+Namibia,2005,157.64
+Namibia,2006,157.12
+Namibia,2007,158.28
+Namibia,2008,150.56
+Namibia,2009,146.08
+Namibia,2010,143.0
+Namibia,2011,145.76
+Namibia,2012,150.44
+Namibia,2013,152.56
+Nepal,1961,150.64
+Nepal,1962,151.76
+Nepal,1963,152.92
+Nepal,1964,154.28
+Nepal,1965,155.04
+Nepal,1966,152.92
+Nepal,1967,150.32
+Nepal,1968,155.84
+Nepal,1969,156.88
+Nepal,1970,155.08
+Nepal,1971,154.88
+Nepal,1972,150.84
+Nepal,1973,154.76
+Nepal,1974,155.0
+Nepal,1975,147.84
+Nepal,1976,153.2
+Nepal,1977,154.92
+Nepal,1978,157.28
+Nepal,1979,152.04
+Nepal,1980,154.24
+Nepal,1981,156.4
+Nepal,1982,155.12
+Nepal,1983,168.04
+Nepal,1984,168.2
+Nepal,1985,161.2
+Nepal,1986,157.6
+Nepal,1987,175.92
+Nepal,1988,189.44
+Nepal,1989,199.48
+Nepal,1990,186.44
+Nepal,1991,188.8
+Nepal,1992,188.64
+Nepal,1993,182.8
+Nepal,1994,193.4
+Nepal,1995,190.96
+Nepal,1996,191.12
+Nepal,1997,194.72
+Nepal,1998,191.48
+Nepal,1999,193.28
+Nepal,2000,192.72
+Nepal,2001,193.28
+Nepal,2002,193.48
+Nepal,2003,199.36
+Nepal,2004,204.88
+Nepal,2005,209.56
+Nepal,2006,205.76
+Nepal,2007,208.56
+Nepal,2008,211.16
+Nepal,2009,214.84
+Nepal,2010,216.64
+Nepal,2011,223.84
+Nepal,2012,226.68
+Nepal,2013,230.76
+Netherlands,1961,149.32
+Netherlands,1962,142.16
+Netherlands,1963,140.36
+Netherlands,1964,134.64
+Netherlands,1965,127.4
+Netherlands,1966,130.76
+Netherlands,1967,131.04
+Netherlands,1968,128.84
+Netherlands,1969,128.0
+Netherlands,1970,124.16
+Netherlands,1971,122.16
+Netherlands,1972,124.96
+Netherlands,1973,132.36
+Netherlands,1974,132.36
+Netherlands,1975,127.88
+Netherlands,1976,133.08
+Netherlands,1977,130.96
+Netherlands,1978,128.92
+Netherlands,1979,133.88
+Netherlands,1980,123.52
+Netherlands,1981,126.48
+Netherlands,1982,126.0
+Netherlands,1983,128.08
+Netherlands,1984,130.76
+Netherlands,1985,131.2
+Netherlands,1986,132.56
+Netherlands,1987,132.4
+Netherlands,1988,134.48
+Netherlands,1989,126.08
+Netherlands,1990,126.4
+Netherlands,1991,128.56
+Netherlands,1992,132.24
+Netherlands,1993,124.08
+Netherlands,1994,135.08
+Netherlands,1995,136.24
+Netherlands,1996,138.48
+Netherlands,1997,133.4
+Netherlands,1998,126.16
+Netherlands,1999,122.0
+Netherlands,2000,127.0
+Netherlands,2001,129.48
+Netherlands,2002,127.56
+Netherlands,2003,133.04
+Netherlands,2004,133.48
+Netherlands,2005,132.44
+Netherlands,2006,133.72
+Netherlands,2007,141.28
+Netherlands,2008,137.36
+Netherlands,2009,138.24
+Netherlands,2010,142.96
+Netherlands,2011,143.28
+Netherlands,2012,142.72
+Netherlands,2013,143.8
+Netherlands Antilles,1961,147.08
+Netherlands Antilles,1962,151.16
+Netherlands Antilles,1963,154.12
+Netherlands Antilles,1964,159.12
+Netherlands Antilles,1965,154.44
+Netherlands Antilles,1966,149.24
+Netherlands Antilles,1967,154.72
+Netherlands Antilles,1968,153.04
+Netherlands Antilles,1969,144.88
+Netherlands Antilles,1970,145.36
+Netherlands Antilles,1971,141.24
+Netherlands Antilles,1972,133.08
+Netherlands Antilles,1973,133.92
+Netherlands Antilles,1974,148.92
+Netherlands Antilles,1975,146.24
+Netherlands Antilles,1976,167.08
+Netherlands Antilles,1977,165.88
+Netherlands Antilles,1978,171.96
+Netherlands Antilles,1979,169.84
+Netherlands Antilles,1980,176.04
+Netherlands Antilles,1981,171.32
+Netherlands Antilles,1982,167.32
+Netherlands Antilles,1983,169.44
+Netherlands Antilles,1984,175.96
+Netherlands Antilles,1985,127.16
+Netherlands Antilles,1986,126.68
+Netherlands Antilles,1987,130.2
+Netherlands Antilles,1988,124.64
+Netherlands Antilles,1989,115.28
+Netherlands Antilles,1990,130.28
+Netherlands Antilles,1991,130.92
+Netherlands Antilles,1992,145.84
+Netherlands Antilles,1993,143.76
+Netherlands Antilles,1994,140.44
+Netherlands Antilles,1995,135.92
+Netherlands Antilles,1996,136.84
+Netherlands Antilles,1997,139.6
+Netherlands Antilles,1998,135.84
+Netherlands Antilles,1999,137.32
+Netherlands Antilles,2000,139.24
+Netherlands Antilles,2001,144.44
+Netherlands Antilles,2002,137.96
+Netherlands Antilles,2003,141.0
+Netherlands Antilles,2004,143.2
+Netherlands Antilles,2005,147.24
+Netherlands Antilles,2006,140.96
+Netherlands Antilles,2007,151.48
+Netherlands Antilles,2008,143.52
+Netherlands Antilles,2009,142.92
+Netherlands Antilles,2010,138.8
+New Caledonia,1961,135.28
+New Caledonia,1962,136.24
+New Caledonia,1963,131.52
+New Caledonia,1964,134.08
+New Caledonia,1965,142.0
+New Caledonia,1966,145.36
+New Caledonia,1967,143.04
+New Caledonia,1968,144.8
+New Caledonia,1969,148.08
+New Caledonia,1970,153.44
+New Caledonia,1971,149.32
+New Caledonia,1972,145.64
+New Caledonia,1973,147.52
+New Caledonia,1974,142.2
+New Caledonia,1975,143.6
+New Caledonia,1976,142.44
+New Caledonia,1977,135.0
+New Caledonia,1978,139.08
+New Caledonia,1979,131.12
+New Caledonia,1980,136.36
+New Caledonia,1981,134.16
+New Caledonia,1982,136.96
+New Caledonia,1983,132.32
+New Caledonia,1984,135.0
+New Caledonia,1985,142.6
+New Caledonia,1986,131.72
+New Caledonia,1987,136.48
+New Caledonia,1988,132.24
+New Caledonia,1989,135.24
+New Caledonia,1990,124.84
+New Caledonia,1991,126.8
+New Caledonia,1992,123.36
+New Caledonia,1993,123.88
+New Caledonia,1994,125.16
+New Caledonia,1995,115.84
+New Caledonia,1996,118.4
+New Caledonia,1997,125.08
+New Caledonia,1998,124.68
+New Caledonia,1999,134.88
+New Caledonia,2000,140.56
+New Caledonia,2001,137.56
+New Caledonia,2002,132.04
+New Caledonia,2003,133.0
+New Caledonia,2004,126.92
+New Caledonia,2005,133.44
+New Caledonia,2006,131.88
+New Caledonia,2007,132.0
+New Caledonia,2008,131.88
+New Caledonia,2009,133.72
+New Caledonia,2010,132.6
+New Caledonia,2011,134.76
+New Caledonia,2012,142.52
+New Caledonia,2013,138.88
+New Zealand,1961,136.2
+New Zealand,1962,130.48
+New Zealand,1963,136.04
+New Zealand,1964,140.72
+New Zealand,1965,136.64
+New Zealand,1966,133.6
+New Zealand,1967,126.32
+New Zealand,1968,125.64
+New Zealand,1969,129.64
+New Zealand,1970,124.88
+New Zealand,1971,121.48
+New Zealand,1972,122.88
+New Zealand,1973,127.6
+New Zealand,1974,128.8
+New Zealand,1975,131.84
+New Zealand,1976,125.76
+New Zealand,1977,134.36
+New Zealand,1978,132.12
+New Zealand,1979,131.16
+New Zealand,1980,132.0
+New Zealand,1981,125.16
+New Zealand,1982,133.52
+New Zealand,1983,125.72
+New Zealand,1984,123.08
+New Zealand,1985,126.96
+New Zealand,1986,133.2
+New Zealand,1987,136.68
+New Zealand,1988,130.6
+New Zealand,1989,127.56
+New Zealand,1990,138.32
+New Zealand,1991,140.76
+New Zealand,1992,146.08
+New Zealand,1993,155.68
+New Zealand,1994,163.2
+New Zealand,1995,160.68
+New Zealand,1996,159.36
+New Zealand,1997,158.6
+New Zealand,1998,164.8
+New Zealand,1999,164.8
+New Zealand,2000,153.88
+New Zealand,2001,147.04
+New Zealand,2002,143.84
+New Zealand,2003,144.64
+New Zealand,2004,145.32
+New Zealand,2005,146.12
+New Zealand,2006,151.24
+New Zealand,2007,139.6
+New Zealand,2008,142.28
+New Zealand,2009,148.6
+New Zealand,2010,154.72
+New Zealand,2011,143.68
+New Zealand,2012,150.24
+New Zealand,2013,150.92
+Nicaragua,1961,144.96
+Nicaragua,1962,141.8
+Nicaragua,1963,138.96
+Nicaragua,1964,146.28
+Nicaragua,1965,152.72
+Nicaragua,1966,158.64
+Nicaragua,1967,163.56
+Nicaragua,1968,163.84
+Nicaragua,1969,161.68
+Nicaragua,1970,158.28
+Nicaragua,1971,150.12
+Nicaragua,1972,144.76
+Nicaragua,1973,147.12
+Nicaragua,1974,141.36
+Nicaragua,1975,139.0
+Nicaragua,1976,134.84
+Nicaragua,1977,137.92
+Nicaragua,1978,134.16
+Nicaragua,1979,133.16
+Nicaragua,1980,144.28
+Nicaragua,1981,168.6
+Nicaragua,1982,135.76
+Nicaragua,1983,142.28
+Nicaragua,1984,152.72
+Nicaragua,1985,149.4
+Nicaragua,1986,154.24
+Nicaragua,1987,143.96
+Nicaragua,1988,163.28
+Nicaragua,1989,152.88
+Nicaragua,1990,134.92
+Nicaragua,1991,141.0
+Nicaragua,1992,123.4
+Nicaragua,1993,137.44
+Nicaragua,1994,128.28
+Nicaragua,1995,127.4
+Nicaragua,1996,135.0
+Nicaragua,1997,137.4
+Nicaragua,1998,147.04
+Nicaragua,1999,153.4
+Nicaragua,2000,149.92
+Nicaragua,2001,165.76
+Nicaragua,2002,167.0
+Nicaragua,2003,168.12
+Nicaragua,2004,170.8
+Nicaragua,2005,172.2
+Nicaragua,2006,176.6
+Nicaragua,2007,180.28
+Nicaragua,2008,180.0
+Nicaragua,2009,180.2
+Nicaragua,2010,180.76
+Nicaragua,2011,189.32
+Nicaragua,2012,191.48
+Nicaragua,2013,193.68
+Niger,1961,131.2
+Niger,1962,134.92
+Niger,1963,139.8
+Niger,1964,128.4
+Niger,1965,163.44
+Niger,1966,160.12
+Niger,1967,167.88
+Niger,1968,169.56
+Niger,1969,163.04
+Niger,1970,161.44
+Niger,1971,169.2
+Niger,1972,168.16
+Niger,1973,174.88
+Niger,1974,180.2
+Niger,1975,187.8
+Niger,1976,203.24
+Niger,1977,199.48
+Niger,1978,203.08
+Niger,1979,208.44
+Niger,1980,199.04
+Niger,1981,199.0
+Niger,1982,204.48
+Niger,1983,199.0
+Niger,1984,193.04
+Niger,1985,182.84
+Niger,1986,187.76
+Niger,1987,196.36
+Niger,1988,194.72
+Niger,1989,195.28
+Niger,1990,193.12
+Niger,1991,177.6
+Niger,1992,178.16
+Niger,1993,176.72
+Niger,1994,182.08
+Niger,1995,178.44
+Niger,1996,179.2
+Niger,1997,172.44
+Niger,1998,189.96
+Niger,1999,192.0
+Niger,2000,209.0
+Niger,2001,218.56
+Niger,2002,205.72
+Niger,2003,218.8
+Niger,2004,226.36
+Niger,2005,228.04
+Niger,2006,231.56
+Niger,2007,237.44
+Niger,2008,248.12
+Niger,2009,249.44
+Niger,2010,262.0
+Niger,2011,263.44
+Niger,2012,268.0
+Niger,2013,264.84
+Nigeria,1961,163.2
+Nigeria,1962,168.48
+Nigeria,1963,165.4
+Nigeria,1964,162.44
+Nigeria,1965,149.72
+Nigeria,1966,136.36
+Nigeria,1967,142.48
+Nigeria,1968,143.76
+Nigeria,1969,155.32
+Nigeria,1970,159.28
+Nigeria,1971,148.2
+Nigeria,1972,124.28
+Nigeria,1973,138.84
+Nigeria,1974,154.32
+Nigeria,1975,149.2
+Nigeria,1976,136.2
+Nigeria,1977,125.08
+Nigeria,1978,120.68
+Nigeria,1979,119.08
+Nigeria,1980,129.6
+Nigeria,1981,130.8
+Nigeria,1982,131.56
+Nigeria,1983,122.24
+Nigeria,1984,133.24
+Nigeria,1985,144.76
+Nigeria,1986,154.72
+Nigeria,1987,152.0
+Nigeria,1988,158.48
+Nigeria,1989,167.64
+Nigeria,1990,169.84
+Nigeria,1991,173.24
+Nigeria,1992,179.16
+Nigeria,1993,186.12
+Nigeria,1994,188.28
+Nigeria,1995,194.76
+Nigeria,1996,200.44
+Nigeria,1997,203.12
+Nigeria,1998,205.92
+Nigeria,1999,207.6
+Nigeria,2000,206.72
+Nigeria,2001,200.4
+Nigeria,2002,203.12
+Nigeria,2003,204.12
+Nigeria,2004,207.76
+Nigeria,2005,213.96
+Nigeria,2006,215.12
+Nigeria,2007,214.16
+Nigeria,2008,215.12
+Nigeria,2009,218.32
+Nigeria,2010,215.88
+Nigeria,2011,213.32
+Nigeria,2012,211.0
+Nigeria,2013,215.64
+North Korea,1961,197.68
+North Korea,1962,199.76
+North Korea,1963,210.76
+North Korea,1964,219.68
+North Korea,1965,211.6
+North Korea,1966,214.32
+North Korea,1967,202.16
+North Korea,1968,201.0
+North Korea,1969,209.88
+North Korea,1970,209.0
+North Korea,1971,210.6
+North Korea,1972,212.88
+North Korea,1973,218.28
+North Korea,1974,211.76
+North Korea,1975,222.76
+North Korea,1976,226.28
+North Korea,1977,220.0
+North Korea,1978,221.72
+North Korea,1979,230.36
+North Korea,1980,217.36
+North Korea,1981,222.84
+North Korea,1982,199.72
+North Korea,1983,198.68
+North Korea,1984,202.96
+North Korea,1985,207.92
+North Korea,1986,215.72
+North Korea,1987,217.92
+North Korea,1988,217.56
+North Korea,1989,223.76
+North Korea,1990,236.04
+North Korea,1991,236.32
+North Korea,1992,221.92
+North Korea,1993,219.64
+North Korea,1994,219.96
+North Korea,1995,203.16
+North Korea,1996,202.12
+North Korea,1997,208.36
+North Korea,1998,200.72
+North Korea,1999,198.44
+North Korea,2000,209.48
+North Korea,2001,196.08
+North Korea,2002,207.0
+North Korea,2003,199.12
+North Korea,2004,202.28
+North Korea,2005,196.2
+North Korea,2006,192.56
+North Korea,2007,189.36
+North Korea,2008,187.84
+North Korea,2009,186.4
+North Korea,2010,184.56
+North Korea,2011,185.2
+North Korea,2012,181.04
+North Korea,2013,179.72
+North Macedonia,1992,188.0
+North Macedonia,1993,170.28
+North Macedonia,1994,185.0
+North Macedonia,1995,179.76
+North Macedonia,1996,172.32
+North Macedonia,1997,194.08
+North Macedonia,1998,189.6
+North Macedonia,1999,182.32
+North Macedonia,2000,178.12
+North Macedonia,2001,171.56
+North Macedonia,2002,185.24
+North Macedonia,2003,173.32
+North Macedonia,2004,178.48
+North Macedonia,2005,171.0
+North Macedonia,2006,169.72
+North Macedonia,2007,168.44
+North Macedonia,2008,175.92
+North Macedonia,2009,187.2
+North Macedonia,2010,183.6
+North Macedonia,2011,182.84
+North Macedonia,2012,182.8
+North Macedonia,2013,185.04
+Norway,1961,140.56
+Norway,1962,143.88
+Norway,1963,136.24
+Norway,1964,139.92
+Norway,1965,137.4
+Norway,1966,139.48
+Norway,1967,136.32
+Norway,1968,134.84
+Norway,1969,139.52
+Norway,1970,132.68
+Norway,1971,131.24
+Norway,1972,131.24
+Norway,1973,133.44
+Norway,1974,134.4
+Norway,1975,132.72
+Norway,1976,138.44
+Norway,1977,139.0
+Norway,1978,139.64
+Norway,1979,142.72
+Norway,1980,147.48
+Norway,1981,155.6
+Norway,1982,137.44
+Norway,1983,145.36
+Norway,1984,143.0
+Norway,1985,142.4
+Norway,1986,147.44
+Norway,1987,152.96
+Norway,1988,151.52
+Norway,1989,153.64
+Norway,1990,151.8
+Norway,1991,154.88
+Norway,1992,154.48
+Norway,1993,153.48
+Norway,1994,156.64
+Norway,1995,152.0
+Norway,1996,156.28
+Norway,1997,157.12
+Norway,1998,160.16
+Norway,1999,163.08
+Norway,2000,161.64
+Norway,2001,164.72
+Norway,2002,165.28
+Norway,2003,164.88
+Norway,2004,165.32
+Norway,2005,166.96
+Norway,2006,167.4
+Norway,2007,172.16
+Norway,2008,175.68
+Norway,2009,177.48
+Norway,2010,180.44
+Norway,2011,178.56
+Norway,2012,178.8
+Norway,2013,179.64
+Oman,1990,143.52
+Oman,1991,132.92
+Oman,1992,144.56
+Oman,1993,134.24
+Oman,1994,144.08
+Oman,1995,132.64
+Oman,1996,135.04
+Oman,1997,135.96
+Oman,1998,154.32
+Oman,1999,158.76
+Oman,2000,155.76
+Oman,2001,150.92
+Oman,2002,148.4
+Oman,2003,146.76
+Oman,2004,150.96
+Oman,2005,146.72
+Oman,2006,146.52
+Oman,2007,152.0
+Oman,2008,154.56
+Oman,2009,162.32
+Oman,2010,169.32
+Oman,2011,170.08
+Oman,2012,165.24
+Oman,2013,170.24
+Pakistan,1961,156.48
+Pakistan,1962,157.84
+Pakistan,1963,155.52
+Pakistan,1964,170.6
+Pakistan,1965,177.28
+Pakistan,1966,162.52
+Pakistan,1967,163.92
+Pakistan,1968,156.24
+Pakistan,1969,180.88
+Pakistan,1970,181.08
+Pakistan,1971,174.08
+Pakistan,1972,182.76
+Pakistan,1973,182.84
+Pakistan,1974,183.0
+Pakistan,1975,171.6
+Pakistan,1976,174.28
+Pakistan,1977,168.44
+Pakistan,1978,175.88
+Pakistan,1979,169.8
+Pakistan,1980,156.56
+Pakistan,1981,152.52
+Pakistan,1982,158.88
+Pakistan,1983,158.48
+Pakistan,1984,160.56
+Pakistan,1985,156.08
+Pakistan,1986,151.84
+Pakistan,1987,152.6
+Pakistan,1988,142.72
+Pakistan,1989,168.52
+Pakistan,1990,164.48
+Pakistan,1991,151.96
+Pakistan,1992,157.36
+Pakistan,1993,158.24
+Pakistan,1994,164.52
+Pakistan,1995,158.8
+Pakistan,1996,159.84
+Pakistan,1997,158.4
+Pakistan,1998,157.4
+Pakistan,1999,158.56
+Pakistan,2000,157.44
+Pakistan,2001,147.64
+Pakistan,2002,142.44
+Pakistan,2003,147.44
+Pakistan,2004,144.28
+Pakistan,2005,146.64
+Pakistan,2006,144.32
+Pakistan,2007,150.92
+Pakistan,2008,148.76
+Pakistan,2009,152.96
+Pakistan,2010,149.68
+Pakistan,2011,153.16
+Pakistan,2012,150.76
+Pakistan,2013,152.92
+Panama,1961,127.92
+Panama,1962,122.12
+Panama,1963,130.08
+Panama,1964,128.04
+Panama,1965,117.36
+Panama,1966,130.52
+Panama,1967,131.72
+Panama,1968,131.08
+Panama,1969,135.0
+Panama,1970,124.88
+Panama,1971,127.84
+Panama,1972,104.36
+Panama,1973,108.96
+Panama,1974,120.32
+Panama,1975,122.76
+Panama,1976,97.96
+Panama,1977,119.16
+Panama,1978,100.32
+Panama,1979,98.84
+Panama,1980,94.2
+Panama,1981,110.84
+Panama,1982,110.24
+Panama,1983,111.64
+Panama,1984,110.8
+Panama,1985,126.16
+Panama,1986,124.44
+Panama,1987,107.24
+Panama,1988,110.12
+Panama,1989,114.16
+Panama,1990,111.72
+Panama,1991,107.4
+Panama,1992,119.08
+Panama,1993,120.88
+Panama,1994,118.64
+Panama,1995,111.6
+Panama,1996,113.16
+Panama,1997,105.24
+Panama,1998,119.68
+Panama,1999,104.32
+Panama,2000,107.56
+Panama,2001,118.12
+Panama,2002,122.8
+Panama,2003,127.0
+Panama,2004,119.96
+Panama,2005,126.32
+Panama,2006,128.72
+Panama,2007,136.96
+Panama,2008,136.24
+Panama,2009,136.48
+Panama,2010,142.76
+Panama,2011,141.76
+Panama,2012,140.8
+Panama,2013,151.16
+Paraguay,1961,122.84
+Paraguay,1962,125.68
+Paraguay,1963,128.16
+Paraguay,1964,130.0
+Paraguay,1965,138.24
+Paraguay,1966,138.04
+Paraguay,1967,142.32
+Paraguay,1968,146.48
+Paraguay,1969,146.64
+Paraguay,1970,150.56
+Paraguay,1971,153.04
+Paraguay,1972,151.56
+Paraguay,1973,154.92
+Paraguay,1974,154.48
+Paraguay,1975,153.2
+Paraguay,1976,160.6
+Paraguay,1977,168.28
+Paraguay,1978,172.88
+Paraguay,1979,160.36
+Paraguay,1980,156.12
+Paraguay,1981,154.08
+Paraguay,1982,158.52
+Paraguay,1983,158.52
+Paraguay,1984,153.48
+Paraguay,1985,146.68
+Paraguay,1986,148.72
+Paraguay,1987,155.28
+Paraguay,1988,149.04
+Paraguay,1989,155.24
+Paraguay,1990,142.52
+Paraguay,1991,126.44
+Paraguay,1992,127.56
+Paraguay,1993,132.32
+Paraguay,1994,138.48
+Paraguay,1995,135.88
+Paraguay,1996,139.96
+Paraguay,1997,148.28
+Paraguay,1998,137.96
+Paraguay,1999,139.84
+Paraguay,2000,135.76
+Paraguay,2001,148.48
+Paraguay,2002,159.28
+Paraguay,2003,155.64
+Paraguay,2004,156.4
+Paraguay,2005,154.84
+Paraguay,2006,154.36
+Paraguay,2007,156.12
+Paraguay,2008,142.56
+Paraguay,2009,141.68
+Paraguay,2010,145.8
+Paraguay,2011,146.68
+Paraguay,2012,138.48
+Paraguay,2013,146.16
+Peru,1961,140.12
+Peru,1962,140.32
+Peru,1963,127.16
+Peru,1964,138.24
+Peru,1965,129.24
+Peru,1966,124.52
+Peru,1967,131.6
+Peru,1968,124.64
+Peru,1969,148.28
+Peru,1970,134.64
+Peru,1971,138.44
+Peru,1972,135.4
+Peru,1973,125.56
+Peru,1974,128.72
+Peru,1975,138.8
+Peru,1976,127.6
+Peru,1977,127.44
+Peru,1978,114.8
+Peru,1979,121.72
+Peru,1980,133.8
+Peru,1981,139.08
+Peru,1982,144.28
+Peru,1983,132.92
+Peru,1984,124.56
+Peru,1985,125.52
+Peru,1986,138.12
+Peru,1987,131.24
+Peru,1988,132.32
+Peru,1989,134.24
+Peru,1990,126.72
+Peru,1991,141.96
+Peru,1992,141.72
+Peru,1993,149.68
+Peru,1994,156.04
+Peru,1995,156.8
+Peru,1996,162.56
+Peru,1997,167.2
+Peru,1998,164.4
+Peru,1999,159.88
+Peru,2000,172.92
+Peru,2001,167.2
+Peru,2002,164.32
+Peru,2003,161.64
+Peru,2004,161.64
+Peru,2005,174.08
+Peru,2006,174.56
+Peru,2007,178.12
+Peru,2008,178.2
+Peru,2009,183.2
+Peru,2010,187.52
+Peru,2011,186.72
+Peru,2012,191.2
+Peru,2013,191.52
+Philippines,1961,104.4
+Philippines,1962,99.76
+Philippines,1963,102.8
+Philippines,1964,102.92
+Philippines,1965,105.8
+Philippines,1966,101.08
+Philippines,1967,102.24
+Philippines,1968,99.92
+Philippines,1969,99.44
+Philippines,1970,98.32
+Philippines,1971,101.52
+Philippines,1972,106.88
+Philippines,1973,101.2
+Philippines,1974,104.2
+Philippines,1975,110.0
+Philippines,1976,113.4
+Philippines,1977,112.56
+Philippines,1978,113.92
+Philippines,1979,115.44
+Philippines,1980,122.52
+Philippines,1981,122.68
+Philippines,1982,125.44
+Philippines,1983,111.56
+Philippines,1984,117.2
+Philippines,1985,116.72
+Philippines,1986,121.28
+Philippines,1987,115.12
+Philippines,1988,119.6
+Philippines,1989,122.28
+Philippines,1990,123.32
+Philippines,1991,122.28
+Philippines,1992,124.28
+Philippines,1993,120.56
+Philippines,1994,129.48
+Philippines,1995,126.32
+Philippines,1996,127.76
+Philippines,1997,127.84
+Philippines,1998,128.24
+Philippines,1999,126.04
+Philippines,2000,127.0
+Philippines,2001,130.92
+Philippines,2002,129.36
+Philippines,2003,128.12
+Philippines,2004,132.76
+Philippines,2005,135.72
+Philippines,2006,138.52
+Philippines,2007,138.16
+Philippines,2008,137.72
+Philippines,2009,141.56
+Philippines,2010,141.64
+Philippines,2011,138.48
+Philippines,2012,138.92
+Philippines,2013,140.32
+Poland,1961,216.16
+Poland,1962,216.52
+Poland,1963,214.48
+Poland,1964,217.16
+Poland,1965,221.0
+Poland,1966,217.6
+Poland,1967,209.84
+Poland,1968,203.72
+Poland,1969,202.48
+Poland,1970,203.44
+Poland,1971,199.84
+Poland,1972,199.8
+Poland,1973,198.6
+Poland,1974,194.88
+Poland,1975,193.56
+Poland,1976,195.6
+Poland,1977,193.4
+Poland,1978,196.72
+Poland,1979,196.88
+Poland,1980,201.28
+Poland,1981,194.76
+Poland,1982,189.76
+Poland,1983,184.12
+Poland,1984,183.2
+Poland,1985,184.96
+Poland,1986,188.76
+Poland,1987,188.36
+Poland,1988,190.52
+Poland,1989,191.44
+Poland,1990,186.96
+Poland,1991,188.84
+Poland,1992,195.04
+Poland,1993,199.8
+Poland,1994,195.48
+Poland,1995,198.28
+Poland,1996,198.28
+Poland,1997,196.4
+Poland,1998,196.44
+Poland,1999,196.72
+Poland,2000,200.52
+Poland,2001,200.68
+Poland,2002,198.2
+Poland,2003,198.6
+Poland,2004,197.16
+Poland,2005,197.88
+Poland,2006,196.08
+Poland,2007,196.44
+Poland,2008,194.2
+Poland,2009,197.2
+Poland,2010,195.88
+Poland,2011,197.52
+Poland,2012,195.84
+Poland,2013,192.8
+Portugal,1961,169.92
+Portugal,1962,183.56
+Portugal,1963,187.72
+Portugal,1964,177.12
+Portugal,1965,188.28
+Portugal,1966,181.2
+Portugal,1967,193.76
+Portugal,1968,198.8
+Portugal,1969,198.08
+Portugal,1970,200.36
+Portugal,1971,188.8
+Portugal,1972,191.96
+Portugal,1973,191.64
+Portugal,1974,189.72
+Portugal,1975,189.4
+Portugal,1976,179.64
+Portugal,1977,180.12
+Portugal,1978,173.92
+Portugal,1979,164.36
+Portugal,1980,164.72
+Portugal,1981,157.84
+Portugal,1982,163.28
+Portugal,1983,166.8
+Portugal,1984,175.6
+Portugal,1985,183.16
+Portugal,1986,195.28
+Portugal,1987,197.92
+Portugal,1988,194.2
+Portugal,1989,191.36
+Portugal,1990,190.64
+Portugal,1991,192.52
+Portugal,1992,188.12
+Portugal,1993,190.12
+Portugal,1994,190.12
+Portugal,1995,188.6
+Portugal,1996,188.04
+Portugal,1997,177.68
+Portugal,1998,188.12
+Portugal,1999,183.64
+Portugal,2000,182.04
+Portugal,2001,181.32
+Portugal,2002,178.56
+Portugal,2003,179.56
+Portugal,2004,184.36
+Portugal,2005,178.8
+Portugal,2006,175.32
+Portugal,2007,175.96
+Portugal,2008,171.48
+Portugal,2009,173.52
+Portugal,2010,176.04
+Portugal,2011,173.56
+Portugal,2012,173.24
+Portugal,2013,174.4
+Romania,1961,254.8
+Romania,1962,252.76
+Romania,1963,255.92
+Romania,1964,252.8
+Romania,1965,252.16
+Romania,1966,254.92
+Romania,1967,249.24
+Romania,1968,247.8
+Romania,1969,245.64
+Romania,1970,223.8
+Romania,1971,231.72
+Romania,1972,228.52
+Romania,1973,226.68
+Romania,1974,237.32
+Romania,1975,217.68
+Romania,1976,223.24
+Romania,1977,219.12
+Romania,1978,220.24
+Romania,1979,205.92
+Romania,1980,210.52
+Romania,1981,216.24
+Romania,1982,199.56
+Romania,1983,199.52
+Romania,1984,201.4
+Romania,1985,198.36
+Romania,1986,193.68
+Romania,1987,192.36
+Romania,1988,196.96
+Romania,1989,202.72
+Romania,1990,200.08
+Romania,1991,177.64
+Romania,1992,180.8
+Romania,1993,199.56
+Romania,1994,196.64
+Romania,1995,207.04
+Romania,1996,208.08
+Romania,1997,217.16
+Romania,1998,216.56
+Romania,1999,216.64
+Romania,2000,213.6
+Romania,2001,221.16
+Romania,2002,225.08
+Romania,2003,223.68
+Romania,2004,228.8
+Romania,2005,222.08
+Romania,2006,219.52
+Romania,2007,212.56
+Romania,2008,218.92
+Romania,2009,217.36
+Romania,2010,218.56
+Romania,2011,221.24
+Romania,2012,219.92
+Romania,2013,223.24
+Russia,1961,237.96
+Russia,1962,239.6
+Russia,1963,238.32
+Russia,1964,239.64
+Russia,1965,235.12
+Russia,1966,230.08
+Russia,1967,226.68
+Russia,1968,224.52
+Russia,1969,224.2
+Russia,1970,224.72
+Russia,1971,222.0
+Russia,1972,217.76
+Russia,1973,218.76
+Russia,1974,216.92
+Russia,1975,214.0
+Russia,1976,215.24
+Russia,1977,212.04
+Russia,1978,212.76
+Russia,1979,211.68
+Russia,1980,209.2
+Russia,1981,207.24
+Russia,1982,209.72
+Russia,1983,206.64
+Russia,1984,206.04
+Russia,1985,206.72
+Russia,1986,205.8
+Russia,1987,206.88
+Russia,1988,203.36
+Russia,1989,200.0
+Russia,1990,202.4
+Russia,1991,200.08
+Russia,1992,182.68
+Russia,1993,182.72
+Russia,1994,183.28
+Russia,1995,180.36
+Russia,1996,175.0
+Russia,1997,178.44
+Russia,1998,176.48
+Russia,1999,177.2
+Russia,2000,175.44
+Russia,2001,180.52
+Russia,2002,182.16
+Russia,2003,183.52
+Russia,2004,183.88
+Russia,2005,188.32
+Russia,2006,189.12
+Russia,2007,188.24
+Russia,2008,187.72
+Russia,2009,185.84
+Russia,2010,187.04
+Russia,2011,188.16
+Russia,2012,188.44
+Russia,2013,186.64
+Rwanda,1961,176.92
+Rwanda,1962,179.36
+Rwanda,1963,192.72
+Rwanda,1964,188.48
+Rwanda,1965,189.56
+Rwanda,1966,224.8
+Rwanda,1967,231.04
+Rwanda,1968,215.68
+Rwanda,1969,229.8
+Rwanda,1970,222.84
+Rwanda,1971,219.08
+Rwanda,1972,212.36
+Rwanda,1973,210.2
+Rwanda,1974,203.88
+Rwanda,1975,220.2
+Rwanda,1976,224.72
+Rwanda,1977,228.2
+Rwanda,1978,219.0
+Rwanda,1979,216.68
+Rwanda,1980,210.68
+Rwanda,1981,214.08
+Rwanda,1982,209.6
+Rwanda,1983,209.64
+Rwanda,1984,205.52
+Rwanda,1985,214.6
+Rwanda,1986,197.0
+Rwanda,1987,193.64
+Rwanda,1988,172.8
+Rwanda,1989,172.64
+Rwanda,1990,167.52
+Rwanda,1991,171.6
+Rwanda,1992,169.6
+Rwanda,1993,166.04
+Rwanda,1994,167.2
+Rwanda,1995,164.28
+Rwanda,1996,153.08
+Rwanda,1997,149.6
+Rwanda,1998,145.28
+Rwanda,1999,143.32
+Rwanda,2000,157.92
+Rwanda,2001,166.32
+Rwanda,2002,176.52
+Rwanda,2003,172.8
+Rwanda,2004,171.12
+Rwanda,2005,176.96
+Rwanda,2006,181.0
+Rwanda,2007,190.44
+Rwanda,2008,192.4
+Rwanda,2009,201.72
+Rwanda,2010,202.64
+Rwanda,2011,195.96
+Rwanda,2012,204.12
+Rwanda,2013,204.88
+Saint Kitts and Nevis,1961,86.16
+Saint Kitts and Nevis,1962,90.88
+Saint Kitts and Nevis,1963,94.52
+Saint Kitts and Nevis,1964,96.68
+Saint Kitts and Nevis,1965,95.72
+Saint Kitts and Nevis,1966,91.8
+Saint Kitts and Nevis,1967,93.24
+Saint Kitts and Nevis,1968,91.24
+Saint Kitts and Nevis,1969,89.8
+Saint Kitts and Nevis,1970,92.32
+Saint Kitts and Nevis,1971,93.16
+Saint Kitts and Nevis,1972,94.16
+Saint Kitts and Nevis,1973,97.64
+Saint Kitts and Nevis,1974,95.12
+Saint Kitts and Nevis,1975,92.4
+Saint Kitts and Nevis,1976,88.92
+Saint Kitts and Nevis,1977,96.36
+Saint Kitts and Nevis,1978,102.6
+Saint Kitts and Nevis,1979,100.4
+Saint Kitts and Nevis,1980,105.52
+Saint Kitts and Nevis,1981,98.12
+Saint Kitts and Nevis,1982,94.28
+Saint Kitts and Nevis,1983,99.4
+Saint Kitts and Nevis,1984,111.44
+Saint Kitts and Nevis,1985,112.72
+Saint Kitts and Nevis,1986,112.72
+Saint Kitts and Nevis,1987,115.48
+Saint Kitts and Nevis,1988,123.48
+Saint Kitts and Nevis,1989,125.08
+Saint Kitts and Nevis,1990,117.88
+Saint Kitts and Nevis,1991,122.16
+Saint Kitts and Nevis,1992,120.52
+Saint Kitts and Nevis,1993,115.32
+Saint Kitts and Nevis,1994,116.36
+Saint Kitts and Nevis,1995,105.24
+Saint Kitts and Nevis,1996,110.08
+Saint Kitts and Nevis,1997,106.08
+Saint Kitts and Nevis,1998,110.36
+Saint Kitts and Nevis,1999,107.64
+Saint Kitts and Nevis,2000,112.68
+Saint Kitts and Nevis,2001,117.92
+Saint Kitts and Nevis,2002,113.56
+Saint Kitts and Nevis,2003,112.76
+Saint Kitts and Nevis,2004,111.44
+Saint Kitts and Nevis,2005,109.36
+Saint Kitts and Nevis,2006,111.8
+Saint Kitts and Nevis,2007,113.32
+Saint Kitts and Nevis,2008,113.48
+Saint Kitts and Nevis,2009,116.76
+Saint Kitts and Nevis,2010,109.16
+Saint Kitts and Nevis,2011,105.88
+Saint Kitts and Nevis,2012,108.2
+Saint Kitts and Nevis,2013,106.96
+Saint Lucia,1961,83.6
+Saint Lucia,1962,84.44
+Saint Lucia,1963,78.84
+Saint Lucia,1964,85.96
+Saint Lucia,1965,79.56
+Saint Lucia,1966,83.88
+Saint Lucia,1967,82.08
+Saint Lucia,1968,86.16
+Saint Lucia,1969,88.4
+Saint Lucia,1970,89.92
+Saint Lucia,1971,97.56
+Saint Lucia,1972,93.04
+Saint Lucia,1973,89.24
+Saint Lucia,1974,85.76
+Saint Lucia,1975,87.16
+Saint Lucia,1976,91.52
+Saint Lucia,1977,99.96
+Saint Lucia,1978,107.68
+Saint Lucia,1979,115.16
+Saint Lucia,1980,110.8
+Saint Lucia,1981,113.6
+Saint Lucia,1982,113.68
+Saint Lucia,1983,112.72
+Saint Lucia,1984,119.84
+Saint Lucia,1985,121.68
+Saint Lucia,1986,128.8
+Saint Lucia,1987,136.28
+Saint Lucia,1988,126.6
+Saint Lucia,1989,133.6
+Saint Lucia,1990,130.8
+Saint Lucia,1991,133.32
+Saint Lucia,1992,136.08
+Saint Lucia,1993,133.12
+Saint Lucia,1994,137.64
+Saint Lucia,1995,129.08
+Saint Lucia,1996,127.4
+Saint Lucia,1997,136.16
+Saint Lucia,1998,129.0
+Saint Lucia,1999,126.12
+Saint Lucia,2000,130.96
+Saint Lucia,2001,125.04
+Saint Lucia,2002,134.32
+Saint Lucia,2003,133.2
+Saint Lucia,2004,130.64
+Saint Lucia,2005,135.12
+Saint Lucia,2006,132.76
+Saint Lucia,2007,129.88
+Saint Lucia,2008,128.12
+Saint Lucia,2009,129.72
+Saint Lucia,2010,129.16
+Saint Lucia,2011,131.2
+Saint Lucia,2012,134.48
+Saint Lucia,2013,140.36
+Saint Vincent and the Grenadines,1961,102.24
+Saint Vincent and the Grenadines,1962,111.6
+Saint Vincent and the Grenadines,1963,103.2
+Saint Vincent and the Grenadines,1964,106.6
+Saint Vincent and the Grenadines,1965,114.16
+Saint Vincent and the Grenadines,1966,116.4
+Saint Vincent and the Grenadines,1967,108.72
+Saint Vincent and the Grenadines,1968,115.16
+Saint Vincent and the Grenadines,1969,115.44
+Saint Vincent and the Grenadines,1970,120.44
+Saint Vincent and the Grenadines,1971,120.44
+Saint Vincent and the Grenadines,1972,125.68
+Saint Vincent and the Grenadines,1973,121.96
+Saint Vincent and the Grenadines,1974,120.24
+Saint Vincent and the Grenadines,1975,114.6
+Saint Vincent and the Grenadines,1976,115.04
+Saint Vincent and the Grenadines,1977,120.44
+Saint Vincent and the Grenadines,1978,122.44
+Saint Vincent and the Grenadines,1979,138.84
+Saint Vincent and the Grenadines,1980,138.48
+Saint Vincent and the Grenadines,1981,147.44
+Saint Vincent and the Grenadines,1982,135.92
+Saint Vincent and the Grenadines,1983,138.96
+Saint Vincent and the Grenadines,1984,133.2
+Saint Vincent and the Grenadines,1985,132.36
+Saint Vincent and the Grenadines,1986,129.52
+Saint Vincent and the Grenadines,1987,124.16
+Saint Vincent and the Grenadines,1988,125.88
+Saint Vincent and the Grenadines,1989,114.4
+Saint Vincent and the Grenadines,1990,109.36
+Saint Vincent and the Grenadines,1991,111.32
+Saint Vincent and the Grenadines,1992,105.52
+Saint Vincent and the Grenadines,1993,123.28
+Saint Vincent and the Grenadines,1994,120.16
+Saint Vincent and the Grenadines,1995,118.64
+Saint Vincent and the Grenadines,1996,119.52
+Saint Vincent and the Grenadines,1997,114.44
+Saint Vincent and the Grenadines,1998,119.72
+Saint Vincent and the Grenadines,1999,127.08
+Saint Vincent and the Grenadines,2000,132.32
+Saint Vincent and the Grenadines,2001,129.8
+Saint Vincent and the Grenadines,2002,139.84
+Saint Vincent and the Grenadines,2003,142.96
+Saint Vincent and the Grenadines,2004,142.76
+Saint Vincent and the Grenadines,2005,146.72
+Saint Vincent and the Grenadines,2006,141.76
+Saint Vincent and the Grenadines,2007,144.76
+Saint Vincent and the Grenadines,2008,147.52
+Saint Vincent and the Grenadines,2009,147.56
+Saint Vincent and the Grenadines,2010,152.32
+Saint Vincent and the Grenadines,2011,153.12
+Saint Vincent and the Grenadines,2012,153.6
+Saint Vincent and the Grenadines,2013,157.04
+Samoa,1961,94.0
+Samoa,1962,95.68
+Samoa,1963,94.88
+Samoa,1964,100.24
+Samoa,1965,100.72
+Samoa,1966,95.56
+Samoa,1967,102.8
+Samoa,1968,107.04
+Samoa,1969,108.88
+Samoa,1970,106.88
+Samoa,1971,108.96
+Samoa,1972,109.2
+Samoa,1973,114.32
+Samoa,1974,115.36
+Samoa,1975,123.8
+Samoa,1976,127.56
+Samoa,1977,117.32
+Samoa,1978,118.72
+Samoa,1979,118.56
+Samoa,1980,118.04
+Samoa,1981,117.24
+Samoa,1982,123.64
+Samoa,1983,127.84
+Samoa,1984,124.96
+Samoa,1985,125.12
+Samoa,1986,122.12
+Samoa,1987,121.08
+Samoa,1988,125.52
+Samoa,1989,120.0
+Samoa,1990,116.92
+Samoa,1991,110.32
+Samoa,1992,105.28
+Samoa,1993,91.92
+Samoa,1994,99.76
+Samoa,1995,102.48
+Samoa,1996,99.24
+Samoa,1997,110.4
+Samoa,1998,106.84
+Samoa,1999,113.76
+Samoa,2000,120.4
+Samoa,2001,119.6
+Samoa,2002,124.72
+Samoa,2003,126.64
+Samoa,2004,130.96
+Samoa,2005,125.16
+Samoa,2006,126.48
+Samoa,2007,127.4
+Samoa,2008,128.08
+Samoa,2009,127.08
+Samoa,2010,128.72
+Samoa,2011,133.04
+Samoa,2012,128.48
+Samoa,2013,127.48
+Sao Tome and Principe,1961,171.96
+Sao Tome and Principe,1962,160.8
+Sao Tome and Principe,1963,171.76
+Sao Tome and Principe,1964,155.96
+Sao Tome and Principe,1965,161.52
+Sao Tome and Principe,1966,154.6
+Sao Tome and Principe,1967,164.56
+Sao Tome and Principe,1968,167.52
+Sao Tome and Principe,1969,152.52
+Sao Tome and Principe,1970,141.88
+Sao Tome and Principe,1971,141.0
+Sao Tome and Principe,1972,141.48
+Sao Tome and Principe,1973,138.84
+Sao Tome and Principe,1974,126.36
+Sao Tome and Principe,1975,116.88
+Sao Tome and Principe,1976,132.4
+Sao Tome and Principe,1977,141.32
+Sao Tome and Principe,1978,142.8
+Sao Tome and Principe,1979,134.92
+Sao Tome and Principe,1980,135.64
+Sao Tome and Principe,1981,141.32
+Sao Tome and Principe,1982,127.84
+Sao Tome and Principe,1983,133.68
+Sao Tome and Principe,1984,135.4
+Sao Tome and Principe,1985,125.72
+Sao Tome and Principe,1986,117.24
+Sao Tome and Principe,1987,116.56
+Sao Tome and Principe,1988,120.44
+Sao Tome and Principe,1989,140.44
+Sao Tome and Principe,1990,146.2
+Sao Tome and Principe,1991,153.8
+Sao Tome and Principe,1992,157.72
+Sao Tome and Principe,1993,155.52
+Sao Tome and Principe,1994,148.72
+Sao Tome and Principe,1995,139.16
+Sao Tome and Principe,1996,143.64
+Sao Tome and Principe,1997,143.6
+Sao Tome and Principe,1998,148.2
+Sao Tome and Principe,1999,145.92
+Sao Tome and Principe,2000,154.64
+Sao Tome and Principe,2001,154.12
+Sao Tome and Principe,2002,156.24
+Sao Tome and Principe,2003,163.4
+Sao Tome and Principe,2004,165.32
+Sao Tome and Principe,2005,165.16
+Sao Tome and Principe,2006,167.0
+Sao Tome and Principe,2007,166.12
+Sao Tome and Principe,2008,163.72
+Sao Tome and Principe,2009,162.44
+Sao Tome and Principe,2010,155.24
+Sao Tome and Principe,2011,144.08
+Sao Tome and Principe,2012,147.88
+Sao Tome and Principe,2013,148.72
+Saudi Arabia,1961,151.08
+Saudi Arabia,1962,154.36
+Saudi Arabia,1963,156.28
+Saudi Arabia,1964,156.84
+Saudi Arabia,1965,158.92
+Saudi Arabia,1966,161.0
+Saudi Arabia,1967,158.4
+Saudi Arabia,1968,156.0
+Saudi Arabia,1969,155.68
+Saudi Arabia,1970,154.0
+Saudi Arabia,1971,149.48
+Saudi Arabia,1972,132.6
+Saudi Arabia,1973,133.32
+Saudi Arabia,1974,129.8
+Saudi Arabia,1975,134.04
+Saudi Arabia,1976,143.32
+Saudi Arabia,1977,155.4
+Saudi Arabia,1978,164.2
+Saudi Arabia,1979,179.64
+Saudi Arabia,1980,185.32
+Saudi Arabia,1981,181.28
+Saudi Arabia,1982,178.92
+Saudi Arabia,1983,181.48
+Saudi Arabia,1984,170.8
+Saudi Arabia,1985,185.16
+Saudi Arabia,1986,164.32
+Saudi Arabia,1987,164.4
+Saudi Arabia,1988,190.64
+Saudi Arabia,1989,189.36
+Saudi Arabia,1990,197.76
+Saudi Arabia,1991,202.0
+Saudi Arabia,1992,196.52
+Saudi Arabia,1993,189.4
+Saudi Arabia,1994,191.92
+Saudi Arabia,1995,200.76
+Saudi Arabia,1996,203.76
+Saudi Arabia,1997,210.28
+Saudi Arabia,1998,205.8
+Saudi Arabia,1999,204.88
+Saudi Arabia,2000,202.88
+Saudi Arabia,2001,202.84
+Saudi Arabia,2002,203.64
+Saudi Arabia,2003,198.2
+Saudi Arabia,2004,200.24
+Saudi Arabia,2005,199.32
+Saudi Arabia,2006,204.8
+Saudi Arabia,2007,209.56
+Saudi Arabia,2008,202.48
+Saudi Arabia,2009,197.0
+Saudi Arabia,2010,208.28
+Saudi Arabia,2011,202.88
+Saudi Arabia,2012,207.08
+Saudi Arabia,2013,206.8
+Senegal,1961,189.0
+Senegal,1962,187.52
+Senegal,1963,203.24
+Senegal,1964,216.96
+Senegal,1965,212.16
+Senegal,1966,203.6
+Senegal,1967,219.52
+Senegal,1968,203.52
+Senegal,1969,206.08
+Senegal,1970,185.36
+Senegal,1971,186.76
+Senegal,1972,178.44
+Senegal,1973,188.88
+Senegal,1974,200.8
+Senegal,1975,191.72
+Senegal,1976,189.36
+Senegal,1977,175.52
+Senegal,1978,180.64
+Senegal,1979,199.72
+Senegal,1980,197.4
+Senegal,1981,211.2
+Senegal,1982,204.52
+Senegal,1983,184.04
+Senegal,1984,192.68
+Senegal,1985,220.8
+Senegal,1986,211.56
+Senegal,1987,191.8
+Senegal,1988,194.76
+Senegal,1989,194.92
+Senegal,1990,194.16
+Senegal,1991,182.36
+Senegal,1992,164.04
+Senegal,1993,173.04
+Senegal,1994,165.48
+Senegal,1995,171.04
+Senegal,1996,163.16
+Senegal,1997,159.56
+Senegal,1998,162.84
+Senegal,1999,173.96
+Senegal,2000,174.96
+Senegal,2001,149.52
+Senegal,2002,145.52
+Senegal,2003,154.16
+Senegal,2004,160.4
+Senegal,2005,161.32
+Senegal,2006,169.16
+Senegal,2007,170.84
+Senegal,2008,174.36
+Senegal,2009,174.48
+Senegal,2010,175.76
+Senegal,2011,173.32
+Senegal,2012,173.52
+Senegal,2013,172.96
+Serbia,2006,172.32
+Serbia,2007,166.36
+Serbia,2008,173.76
+Serbia,2009,173.16
+Serbia,2010,177.64
+Serbia,2011,177.92
+Serbia,2012,172.52
+Serbia,2013,169.16
+Serbia and Montenegro,1992,165.72
+Serbia and Montenegro,1993,168.52
+Serbia and Montenegro,1994,146.48
+Serbia and Montenegro,1995,159.36
+Serbia and Montenegro,1996,157.48
+Serbia and Montenegro,1997,158.92
+Serbia and Montenegro,1998,151.68
+Serbia and Montenegro,1999,144.8
+Serbia and Montenegro,2000,126.96
+Serbia and Montenegro,2001,127.04
+Serbia and Montenegro,2002,126.92
+Serbia and Montenegro,2003,121.24
+Serbia and Montenegro,2004,134.96
+Serbia and Montenegro,2005,125.08
+Sierra Leone,1961,129.0
+Sierra Leone,1962,131.84
+Sierra Leone,1963,138.04
+Sierra Leone,1964,139.32
+Sierra Leone,1965,147.92
+Sierra Leone,1966,151.76
+Sierra Leone,1967,157.32
+Sierra Leone,1968,154.6
+Sierra Leone,1969,154.4
+Sierra Leone,1970,151.44
+Sierra Leone,1971,149.12
+Sierra Leone,1972,146.96
+Sierra Leone,1973,147.24
+Sierra Leone,1974,148.36
+Sierra Leone,1975,146.6
+Sierra Leone,1976,142.56
+Sierra Leone,1977,146.6
+Sierra Leone,1978,145.8
+Sierra Leone,1979,143.48
+Sierra Leone,1980,137.64
+Sierra Leone,1981,134.64
+Sierra Leone,1982,137.4
+Sierra Leone,1983,130.56
+Sierra Leone,1984,130.28
+Sierra Leone,1985,130.92
+Sierra Leone,1986,135.8
+Sierra Leone,1987,134.88
+Sierra Leone,1988,131.36
+Sierra Leone,1989,134.64
+Sierra Leone,1990,134.24
+Sierra Leone,1991,136.32
+Sierra Leone,1992,137.12
+Sierra Leone,1993,136.08
+Sierra Leone,1994,152.24
+Sierra Leone,1995,152.0
+Sierra Leone,1996,158.2
+Sierra Leone,1997,162.92
+Sierra Leone,1998,162.24
+Sierra Leone,1999,156.72
+Sierra Leone,2000,143.36
+Sierra Leone,2001,152.96
+Sierra Leone,2002,157.16
+Sierra Leone,2003,154.2
+Sierra Leone,2004,153.72
+Sierra Leone,2005,158.16
+Sierra Leone,2006,161.28
+Sierra Leone,2007,156.04
+Sierra Leone,2008,156.4
+Sierra Leone,2009,159.56
+Sierra Leone,2010,161.24
+Sierra Leone,2011,164.68
+Sierra Leone,2012,164.52
+Sierra Leone,2013,165.04
+Slovakia,1993,146.52
+Slovakia,1994,176.56
+Slovakia,1995,148.4
+Slovakia,1996,160.84
+Slovakia,1997,155.12
+Slovakia,1998,155.76
+Slovakia,1999,154.96
+Slovakia,2000,152.04
+Slovakia,2001,150.84
+Slovakia,2002,151.92
+Slovakia,2003,152.48
+Slovakia,2004,150.88
+Slovakia,2005,145.24
+Slovakia,2006,147.6
+Slovakia,2007,150.92
+Slovakia,2008,154.04
+Slovakia,2009,145.96
+Slovakia,2010,149.72
+Slovakia,2011,153.16
+Slovakia,2012,148.32
+Slovakia,2013,150.24
+Slovenia,1992,147.16
+Slovenia,1993,146.4
+Slovenia,1994,153.0
+Slovenia,1995,163.72
+Slovenia,1996,167.72
+Slovenia,1997,157.52
+Slovenia,1998,155.36
+Slovenia,1999,169.12
+Slovenia,2000,169.28
+Slovenia,2001,166.72
+Slovenia,2002,166.04
+Slovenia,2003,164.52
+Slovenia,2004,161.76
+Slovenia,2005,157.6
+Slovenia,2006,165.28
+Slovenia,2007,165.32
+Slovenia,2008,166.8
+Slovenia,2009,169.32
+Slovenia,2010,168.88
+Slovenia,2011,172.4
+Slovenia,2012,174.28
+Slovenia,2013,177.52
+Solomon Islands,1961,127.8
+Solomon Islands,1962,126.16
+Solomon Islands,1963,126.32
+Solomon Islands,1964,131.76
+Solomon Islands,1965,128.72
+Solomon Islands,1966,127.68
+Solomon Islands,1967,136.36
+Solomon Islands,1968,129.44
+Solomon Islands,1969,128.68
+Solomon Islands,1970,131.44
+Solomon Islands,1971,123.64
+Solomon Islands,1972,124.72
+Solomon Islands,1973,123.96
+Solomon Islands,1974,121.16
+Solomon Islands,1975,120.12
+Solomon Islands,1976,120.04
+Solomon Islands,1977,122.36
+Solomon Islands,1978,123.96
+Solomon Islands,1979,122.2
+Solomon Islands,1980,123.44
+Solomon Islands,1981,122.4
+Solomon Islands,1982,123.56
+Solomon Islands,1983,123.76
+Solomon Islands,1984,129.76
+Solomon Islands,1985,130.32
+Solomon Islands,1986,130.68
+Solomon Islands,1987,131.92
+Solomon Islands,1988,132.52
+Solomon Islands,1989,128.28
+Solomon Islands,1990,121.48
+Solomon Islands,1991,128.68
+Solomon Islands,1992,129.0
+Solomon Islands,1993,125.08
+Solomon Islands,1994,134.36
+Solomon Islands,1995,136.0
+Solomon Islands,1996,136.28
+Solomon Islands,1997,145.52
+Solomon Islands,1998,145.48
+Solomon Islands,1999,142.44
+Solomon Islands,2000,149.92
+Solomon Islands,2001,145.04
+Solomon Islands,2002,149.16
+Solomon Islands,2003,149.92
+Solomon Islands,2004,150.88
+Solomon Islands,2005,151.76
+Solomon Islands,2006,149.96
+Solomon Islands,2007,151.4
+Solomon Islands,2008,150.56
+Solomon Islands,2009,150.8
+Solomon Islands,2010,153.44
+Solomon Islands,2011,157.24
+Solomon Islands,2012,157.6
+Solomon Islands,2013,155.56
+South Africa,1961,188.0
+South Africa,1962,179.56
+South Africa,1963,186.88
+South Africa,1964,189.24
+South Africa,1965,196.12
+South Africa,1966,188.8
+South Africa,1967,184.88
+South Africa,1968,186.92
+South Africa,1969,190.04
+South Africa,1970,193.44
+South Africa,1971,188.84
+South Africa,1972,194.76
+South Africa,1973,192.56
+South Africa,1974,192.0
+South Africa,1975,191.16
+South Africa,1976,188.88
+South Africa,1977,195.76
+South Africa,1978,198.56
+South Africa,1979,195.8
+South Africa,1980,197.08
+South Africa,1981,191.88
+South Africa,1982,202.04
+South Africa,1983,194.52
+South Africa,1984,192.84
+South Africa,1985,195.56
+South Africa,1986,191.32
+South Africa,1987,198.76
+South Africa,1988,196.28
+South Africa,1989,188.72
+South Africa,1990,189.6
+South Africa,1991,190.88
+South Africa,1992,191.64
+South Africa,1993,200.08
+South Africa,1994,194.36
+South Africa,1995,193.92
+South Africa,1996,192.96
+South Africa,1997,190.8
+South Africa,1998,194.84
+South Africa,1999,196.52
+South Africa,2000,201.44
+South Africa,2001,202.8
+South Africa,2002,196.08
+South Africa,2003,196.72
+South Africa,2004,199.2
+South Africa,2005,199.16
+South Africa,2006,196.48
+South Africa,2007,195.56
+South Africa,2008,191.84
+South Africa,2009,190.84
+South Africa,2010,194.32
+South Africa,2011,196.64
+South Africa,2012,195.64
+South Africa,2013,195.8
+South Korea,1961,204.16
+South Korea,1962,201.8
+South Korea,1963,197.72
+South Korea,1964,198.36
+South Korea,1965,213.0
+South Korea,1966,218.76
+South Korea,1967,233.36
+South Korea,1968,246.28
+South Korea,1969,253.04
+South Korea,1970,256.16
+South Korea,1971,263.32
+South Korea,1972,266.16
+South Korea,1973,274.88
+South Korea,1974,274.0
+South Korea,1975,289.88
+South Korea,1976,287.28
+South Korea,1977,267.32
+South Korea,1978,275.8
+South Korea,1979,271.32
+South Korea,1980,260.32
+South Korea,1981,257.92
+South Korea,1982,242.52
+South Korea,1983,236.16
+South Korea,1984,240.76
+South Korea,1985,229.16
+South Korea,1986,228.0
+South Korea,1987,241.04
+South Korea,1988,236.96
+South Korea,1989,229.92
+South Korea,1990,224.32
+South Korea,1991,196.6
+South Korea,1992,208.24
+South Korea,1993,210.16
+South Korea,1994,205.84
+South Korea,1995,210.44
+South Korea,1996,200.72
+South Korea,1997,198.76
+South Korea,1998,196.44
+South Korea,1999,206.16
+South Korea,2000,204.4
+South Korea,2001,204.52
+South Korea,2002,200.16
+South Korea,2003,201.84
+South Korea,2004,200.6
+South Korea,2005,196.32
+South Korea,2006,194.44
+South Korea,2007,195.24
+South Korea,2008,197.88
+South Korea,2009,195.24
+South Korea,2010,193.8
+South Korea,2011,205.92
+South Korea,2012,197.84
+South Korea,2013,200.28
+Spain,1961,210.76
+Spain,1962,215.36
+Spain,1963,199.16
+Spain,1964,191.08
+Spain,1965,186.0
+Spain,1966,191.84
+Spain,1967,186.6
+Spain,1968,186.84
+Spain,1969,173.36
+Spain,1970,174.44
+Spain,1971,171.32
+Spain,1972,176.48
+Spain,1973,179.8
+Spain,1974,183.0
+Spain,1975,183.0
+Spain,1976,173.0
+Spain,1977,172.24
+Spain,1978,170.84
+Spain,1979,171.32
+Spain,1980,173.24
+Spain,1981,158.96
+Spain,1982,165.6
+Spain,1983,163.92
+Spain,1984,169.4
+Spain,1985,171.36
+Spain,1986,167.68
+Spain,1987,172.52
+Spain,1988,174.08
+Spain,1989,175.88
+Spain,1990,175.68
+Spain,1991,175.72
+Spain,1992,173.32
+Spain,1993,168.68
+Spain,1994,167.24
+Spain,1995,161.6
+Spain,1996,167.92
+Spain,1997,165.96
+Spain,1998,162.96
+Spain,1999,163.88
+Spain,2000,162.0
+Spain,2001,160.0
+Spain,2002,161.0
+Spain,2003,157.8
+Spain,2004,158.72
+Spain,2005,155.6
+Spain,2006,155.88
+Spain,2007,155.96
+Spain,2008,159.96
+Spain,2009,160.68
+Spain,2010,158.2
+Spain,2011,158.24
+Spain,2012,158.52
+Spain,2013,158.92
+Sri Lanka,1961,137.72
+Sri Lanka,1962,136.8
+Sri Lanka,1963,135.24
+Sri Lanka,1964,153.6
+Sri Lanka,1965,146.0
+Sri Lanka,1966,153.08
+Sri Lanka,1967,160.64
+Sri Lanka,1968,154.6
+Sri Lanka,1969,153.4
+Sri Lanka,1970,150.16
+Sri Lanka,1971,141.16
+Sri Lanka,1972,146.2
+Sri Lanka,1973,144.32
+Sri Lanka,1974,147.68
+Sri Lanka,1975,146.36
+Sri Lanka,1976,142.24
+Sri Lanka,1977,154.44
+Sri Lanka,1978,154.8
+Sri Lanka,1979,149.0
+Sri Lanka,1980,142.6
+Sri Lanka,1981,144.48
+Sri Lanka,1982,150.32
+Sri Lanka,1983,149.32
+Sri Lanka,1984,153.0
+Sri Lanka,1985,149.04
+Sri Lanka,1986,151.68
+Sri Lanka,1987,152.24
+Sri Lanka,1988,151.88
+Sri Lanka,1989,144.6
+Sri Lanka,1990,147.0
+Sri Lanka,1991,148.04
+Sri Lanka,1992,148.88
+Sri Lanka,1993,146.56
+Sri Lanka,1994,152.16
+Sri Lanka,1995,157.28
+Sri Lanka,1996,152.84
+Sri Lanka,1997,153.8
+Sri Lanka,1998,151.6
+Sri Lanka,1999,164.6
+Sri Lanka,2000,152.48
+Sri Lanka,2001,159.6
+Sri Lanka,2002,157.96
+Sri Lanka,2003,159.64
+Sri Lanka,2004,163.84
+Sri Lanka,2005,163.72
+Sri Lanka,2006,162.32
+Sri Lanka,2007,168.96
+Sri Lanka,2008,164.16
+Sri Lanka,2009,168.96
+Sri Lanka,2010,165.88
+Sri Lanka,2011,171.8
+Sri Lanka,2012,169.2
+Sri Lanka,2013,173.6
+Sudan,2012,158.6
+Sudan,2013,166.04
+Sudan (former),1961,125.2
+Sudan (former),1962,146.68
+Sudan (former),1963,139.76
+Sudan (former),1964,144.72
+Sudan (former),1965,125.64
+Sudan (former),1966,123.32
+Sudan (former),1967,136.0
+Sudan (former),1968,138.6
+Sudan (former),1969,140.48
+Sudan (former),1970,150.28
+Sudan (former),1971,150.28
+Sudan (former),1972,148.88
+Sudan (former),1973,149.32
+Sudan (former),1974,153.32
+Sudan (former),1975,148.12
+Sudan (former),1976,147.96
+Sudan (former),1977,146.04
+Sudan (former),1978,160.68
+Sudan (former),1979,149.68
+Sudan (former),1980,147.24
+Sudan (former),1981,148.88
+Sudan (former),1982,139.48
+Sudan (former),1983,148.56
+Sudan (former),1984,136.0
+Sudan (former),1985,153.88
+Sudan (former),1986,156.68
+Sudan (former),1987,152.16
+Sudan (former),1988,163.4
+Sudan (former),1989,157.2
+Sudan (former),1990,154.44
+Sudan (former),1991,167.48
+Sudan (former),1992,166.08
+Sudan (former),1993,174.24
+Sudan (former),1994,177.0
+Sudan (former),1995,178.2
+Sudan (former),1996,180.2
+Sudan (former),1997,178.48
+Sudan (former),1998,173.32
+Sudan (former),1999,170.24
+Sudan (former),2000,168.72
+Sudan (former),2001,171.52
+Sudan (former),2002,173.28
+Sudan (former),2003,170.84
+Sudan (former),2004,165.24
+Sudan (former),2005,166.12
+Sudan (former),2006,174.56
+Sudan (former),2007,176.88
+Sudan (former),2008,179.84
+Sudan (former),2009,175.64
+Sudan (former),2010,177.48
+Sudan (former),2011,180.56
+Suriname,1961,106.64
+Suriname,1962,106.64
+Suriname,1963,111.48
+Suriname,1964,133.52
+Suriname,1965,131.48
+Suriname,1966,126.44
+Suriname,1967,130.64
+Suriname,1968,130.52
+Suriname,1969,130.0
+Suriname,1970,128.8
+Suriname,1971,127.04
+Suriname,1972,128.36
+Suriname,1973,125.6
+Suriname,1974,120.92
+Suriname,1975,124.12
+Suriname,1976,126.6
+Suriname,1977,131.24
+Suriname,1978,124.12
+Suriname,1979,122.64
+Suriname,1980,126.2
+Suriname,1981,130.44
+Suriname,1982,136.0
+Suriname,1983,149.08
+Suriname,1984,160.44
+Suriname,1985,156.08
+Suriname,1986,138.84
+Suriname,1987,155.72
+Suriname,1988,143.0
+Suriname,1989,144.6
+Suriname,1990,143.4
+Suriname,1991,142.6
+Suriname,1992,144.92
+Suriname,1993,152.24
+Suriname,1994,146.96
+Suriname,1995,142.0
+Suriname,1996,135.2
+Suriname,1997,128.56
+Suriname,1998,125.96
+Suriname,1999,124.6
+Suriname,2000,128.44
+Suriname,2001,127.8
+Suriname,2002,124.16
+Suriname,2003,126.44
+Suriname,2004,126.44
+Suriname,2005,131.96
+Suriname,2006,137.56
+Suriname,2007,136.84
+Suriname,2008,135.0
+Suriname,2009,141.12
+Suriname,2010,139.12
+Suriname,2011,136.36
+Suriname,2012,135.0
+Suriname,2013,138.24
+Sweden,1961,115.2
+Sweden,1962,117.72
+Sweden,1963,123.28
+Sweden,1964,125.72
+Sweden,1965,118.24
+Sweden,1966,125.4
+Sweden,1967,122.4
+Sweden,1968,118.84
+Sweden,1969,118.32
+Sweden,1970,119.8
+Sweden,1971,119.28
+Sweden,1972,116.92
+Sweden,1973,118.52
+Sweden,1974,118.28
+Sweden,1975,117.68
+Sweden,1976,124.0
+Sweden,1977,118.68
+Sweden,1978,117.04
+Sweden,1979,118.96
+Sweden,1980,121.48
+Sweden,1981,118.0
+Sweden,1982,122.12
+Sweden,1983,120.96
+Sweden,1984,128.04
+Sweden,1985,123.72
+Sweden,1986,121.44
+Sweden,1987,120.08
+Sweden,1988,124.52
+Sweden,1989,123.04
+Sweden,1990,127.44
+Sweden,1991,123.96
+Sweden,1992,135.16
+Sweden,1993,137.36
+Sweden,1994,129.8
+Sweden,1995,131.56
+Sweden,1996,133.16
+Sweden,1997,135.04
+Sweden,1998,134.2
+Sweden,1999,137.96
+Sweden,2000,136.84
+Sweden,2001,138.88
+Sweden,2002,139.88
+Sweden,2003,139.52
+Sweden,2004,143.4
+Sweden,2005,142.32
+Sweden,2006,141.76
+Sweden,2007,143.52
+Sweden,2008,146.44
+Sweden,2009,147.0
+Sweden,2010,148.8
+Sweden,2011,144.16
+Sweden,2012,143.64
+Sweden,2013,147.56
+Switzerland,1961,178.44
+Switzerland,1962,155.84
+Switzerland,1963,162.72
+Switzerland,1964,156.96
+Switzerland,1965,159.16
+Switzerland,1966,153.08
+Switzerland,1967,145.76
+Switzerland,1968,148.88
+Switzerland,1969,148.04
+Switzerland,1970,147.76
+Switzerland,1971,143.84
+Switzerland,1972,149.28
+Switzerland,1973,147.24
+Switzerland,1974,137.52
+Switzerland,1975,132.56
+Switzerland,1976,136.08
+Switzerland,1977,141.56
+Switzerland,1978,146.32
+Switzerland,1979,136.28
+Switzerland,1980,142.2
+Switzerland,1981,148.4
+Switzerland,1982,141.56
+Switzerland,1983,132.64
+Switzerland,1984,133.16
+Switzerland,1985,136.64
+Switzerland,1986,134.2
+Switzerland,1987,139.76
+Switzerland,1988,138.28
+Switzerland,1989,138.72
+Switzerland,1990,142.08
+Switzerland,1991,139.56
+Switzerland,1992,145.92
+Switzerland,1993,141.76
+Switzerland,1994,144.76
+Switzerland,1995,138.08
+Switzerland,1996,135.92
+Switzerland,1997,140.12
+Switzerland,1998,141.44
+Switzerland,1999,142.4
+Switzerland,2000,150.28
+Switzerland,2001,139.72
+Switzerland,2002,139.56
+Switzerland,2003,139.4
+Switzerland,2004,137.12
+Switzerland,2005,134.36
+Switzerland,2006,134.36
+Switzerland,2007,136.72
+Switzerland,2008,134.16
+Switzerland,2009,138.8
+Switzerland,2010,136.12
+Switzerland,2011,141.72
+Switzerland,2012,132.72
+Switzerland,2013,133.24
+Taiwan,1961,183.12
+Taiwan,1962,177.12
+Taiwan,1963,173.76
+Taiwan,1964,176.04
+Taiwan,1965,177.36
+Taiwan,1966,172.64
+Taiwan,1967,174.4
+Taiwan,1968,174.8
+Taiwan,1969,185.08
+Taiwan,1970,193.08
+Taiwan,1971,196.08
+Taiwan,1972,202.68
+Taiwan,1973,195.64
+Taiwan,1974,199.04
+Taiwan,1975,203.48
+Taiwan,1976,199.52
+Taiwan,1977,190.4
+Taiwan,1978,192.44
+Taiwan,1979,187.84
+Taiwan,1980,189.44
+Taiwan,1981,182.96
+Taiwan,1982,179.48
+Taiwan,1983,174.84
+Taiwan,1984,173.56
+Taiwan,1985,175.04
+Taiwan,1986,176.76
+Taiwan,1987,179.08
+Taiwan,1988,181.08
+Taiwan,1989,185.44
+Taiwan,1990,182.28
+Taiwan,1991,178.76
+Taiwan,1992,180.88
+Taiwan,1993,185.4
+Taiwan,1994,186.8
+Taiwan,1995,186.88
+Taiwan,1996,194.04
+Taiwan,1997,197.8
+Taiwan,1998,189.44
+Taiwan,1999,196.6
+Taiwan,2000,196.72
+Taiwan,2001,187.84
+Taiwan,2002,187.48
+Taiwan,2003,185.6
+Taiwan,2004,183.36
+Taiwan,2005,183.96
+Taiwan,2006,180.84
+Taiwan,2007,178.76
+Taiwan,2008,173.96
+Taiwan,2009,180.28
+Taiwan,2010,181.24
+Taiwan,2011,180.84
+Taiwan,2012,181.08
+Taiwan,2013,185.0
+Tajikistan,1961,237.96
+Tajikistan,1962,239.6
+Tajikistan,1963,238.32
+Tajikistan,1964,239.64
+Tajikistan,1965,235.12
+Tajikistan,1966,230.08
+Tajikistan,1967,226.68
+Tajikistan,1968,224.52
+Tajikistan,1969,224.2
+Tajikistan,1970,224.72
+Tajikistan,1971,222.0
+Tajikistan,1972,217.76
+Tajikistan,1973,218.76
+Tajikistan,1974,216.92
+Tajikistan,1975,214.0
+Tajikistan,1976,215.24
+Tajikistan,1977,212.04
+Tajikistan,1978,212.76
+Tajikistan,1979,211.68
+Tajikistan,1980,209.2
+Tajikistan,1981,207.24
+Tajikistan,1982,209.72
+Tajikistan,1983,206.64
+Tajikistan,1984,206.04
+Tajikistan,1985,206.72
+Tajikistan,1986,205.8
+Tajikistan,1987,206.88
+Tajikistan,1988,203.36
+Tajikistan,1989,200.0
+Tajikistan,1990,202.4
+Tajikistan,1991,200.08
+Tajikistan,1992,159.32
+Tajikistan,1993,161.84
+Tajikistan,1994,160.16
+Tajikistan,1995,156.52
+Tajikistan,1996,156.0
+Tajikistan,1997,157.76
+Tajikistan,1998,164.2
+Tajikistan,1999,168.12
+Tajikistan,2000,164.52
+Tajikistan,2001,160.16
+Tajikistan,2002,159.16
+Tajikistan,2003,158.24
+Tajikistan,2004,158.44
+Tajikistan,2005,161.96
+Tajikistan,2006,163.96
+Tajikistan,2007,161.4
+Tajikistan,2008,160.96
+Tajikistan,2009,163.6
+Tajikistan,2010,163.88
+Tajikistan,2011,158.64
+Tajikistan,2012,165.2
+Tajikistan,2013,168.44
+Tanzania,1961,129.8
+Tanzania,1962,129.16
+Tanzania,1963,131.96
+Tanzania,1964,122.32
+Tanzania,1965,125.04
+Tanzania,1966,132.88
+Tanzania,1967,123.2
+Tanzania,1968,124.56
+Tanzania,1969,122.32
+Tanzania,1970,120.64
+Tanzania,1971,118.36
+Tanzania,1972,121.88
+Tanzania,1973,131.6
+Tanzania,1974,142.68
+Tanzania,1975,164.08
+Tanzania,1976,168.16
+Tanzania,1977,171.28
+Tanzania,1978,175.48
+Tanzania,1979,181.68
+Tanzania,1980,180.16
+Tanzania,1981,174.16
+Tanzania,1982,175.68
+Tanzania,1983,172.44
+Tanzania,1984,178.28
+Tanzania,1985,184.88
+Tanzania,1986,180.68
+Tanzania,1987,185.48
+Tanzania,1988,176.88
+Tanzania,1989,187.76
+Tanzania,1990,175.72
+Tanzania,1991,180.6
+Tanzania,1992,173.8
+Tanzania,1993,171.16
+Tanzania,1994,172.56
+Tanzania,1995,172.08
+Tanzania,1996,174.72
+Tanzania,1997,171.8
+Tanzania,1998,179.16
+Tanzania,1999,176.08
+Tanzania,2000,173.32
+Tanzania,2001,176.88
+Tanzania,2002,183.2
+Tanzania,2003,170.52
+Tanzania,2004,177.96
+Tanzania,2005,176.56
+Tanzania,2006,181.56
+Tanzania,2007,187.8
+Tanzania,2008,176.76
+Tanzania,2009,181.96
+Tanzania,2010,175.8
+Tanzania,2011,187.76
+Tanzania,2012,186.68
+Tanzania,2013,190.4
+Thailand,1961,123.44
+Thailand,1962,133.16
+Thailand,1963,143.8
+Thailand,1964,140.52
+Thailand,1965,129.92
+Thailand,1966,146.44
+Thailand,1967,134.56
+Thailand,1968,141.32
+Thailand,1969,138.0
+Thailand,1970,138.0
+Thailand,1971,139.0
+Thailand,1972,141.44
+Thailand,1973,144.88
+Thailand,1974,142.2
+Thailand,1975,139.88
+Thailand,1976,135.56
+Thailand,1977,130.16
+Thailand,1978,142.08
+Thailand,1979,129.04
+Thailand,1980,133.72
+Thailand,1981,134.04
+Thailand,1982,121.68
+Thailand,1983,131.0
+Thailand,1984,127.6
+Thailand,1985,126.24
+Thailand,1986,128.96
+Thailand,1987,120.72
+Thailand,1988,123.28
+Thailand,1989,120.56
+Thailand,1990,121.0
+Thailand,1991,126.76
+Thailand,1992,123.92
+Thailand,1993,121.44
+Thailand,1994,127.32
+Thailand,1995,127.64
+Thailand,1996,137.88
+Thailand,1997,134.8
+Thailand,1998,139.24
+Thailand,1999,139.44
+Thailand,2000,143.72
+Thailand,2001,141.64
+Thailand,2002,143.48
+Thailand,2003,140.08
+Thailand,2004,140.96
+Thailand,2005,146.24
+Thailand,2006,146.12
+Thailand,2007,141.08
+Thailand,2008,141.08
+Thailand,2009,141.52
+Thailand,2010,142.76
+Thailand,2011,140.56
+Thailand,2012,143.12
+Thailand,2013,144.12
+Timor,1961,111.76
+Timor,1962,114.64
+Timor,1963,110.88
+Timor,1964,107.16
+Timor,1965,108.6
+Timor,1966,115.76
+Timor,1967,113.96
+Timor,1968,114.0
+Timor,1969,117.36
+Timor,1970,114.4
+Timor,1971,118.04
+Timor,1972,132.36
+Timor,1973,125.92
+Timor,1974,119.2
+Timor,1975,123.2
+Timor,1976,130.0
+Timor,1977,143.2
+Timor,1978,153.12
+Timor,1979,164.8
+Timor,1980,163.08
+Timor,1981,166.48
+Timor,1982,167.12
+Timor,1983,163.32
+Timor,1984,163.88
+Timor,1985,158.08
+Timor,1986,155.72
+Timor,1987,154.52
+Timor,1988,153.12
+Timor,1989,151.24
+Timor,1990,128.68
+Timor,1991,142.56
+Timor,1992,143.76
+Timor,1993,148.36
+Timor,1994,146.4
+Timor,1995,151.48
+Timor,1996,148.84
+Timor,1997,143.2
+Timor,1998,132.64
+Timor,1999,132.96
+Timor,2000,132.76
+Timor,2001,135.52
+Timor,2002,142.44
+Timor,2003,142.56
+Timor,2004,143.08
+Timor,2005,151.36
+Timor,2006,156.84
+Timor,2007,158.16
+Timor,2008,157.04
+Timor,2009,151.96
+Timor,2010,157.32
+Timor,2011,159.48
+Timor,2012,160.32
+Timor,2013,159.08
+Togo,1961,148.48
+Togo,1962,168.12
+Togo,1963,162.52
+Togo,1964,168.92
+Togo,1965,176.68
+Togo,1966,166.76
+Togo,1967,179.88
+Togo,1968,165.48
+Togo,1969,149.88
+Togo,1970,158.8
+Togo,1971,175.48
+Togo,1972,173.56
+Togo,1973,162.08
+Togo,1974,155.16
+Togo,1975,148.4
+Togo,1976,140.16
+Togo,1977,136.8
+Togo,1978,143.28
+Togo,1979,156.48
+Togo,1980,158.64
+Togo,1981,163.8
+Togo,1982,152.24
+Togo,1983,147.76
+Togo,1984,153.72
+Togo,1985,164.4
+Togo,1986,143.92
+Togo,1987,148.2
+Togo,1988,150.76
+Togo,1989,157.4
+Togo,1990,162.96
+Togo,1991,150.32
+Togo,1992,153.32
+Togo,1993,169.16
+Togo,1994,171.64
+Togo,1995,164.68
+Togo,1996,171.6
+Togo,1997,179.48
+Togo,1998,170.28
+Togo,1999,171.6
+Togo,2000,175.68
+Togo,2001,172.72
+Togo,2002,169.64
+Togo,2003,171.76
+Togo,2004,175.4
+Togo,2005,181.28
+Togo,2006,182.88
+Togo,2007,185.4
+Togo,2008,188.12
+Togo,2009,189.8
+Togo,2010,190.2
+Togo,2011,187.12
+Togo,2012,195.8
+Togo,2013,203.0
+Trinidad and Tobago,1961,140.2
+Trinidad and Tobago,1962,146.56
+Trinidad and Tobago,1963,144.48
+Trinidad and Tobago,1964,146.16
+Trinidad and Tobago,1965,141.68
+Trinidad and Tobago,1966,143.64
+Trinidad and Tobago,1967,142.6
+Trinidad and Tobago,1968,134.24
+Trinidad and Tobago,1969,148.28
+Trinidad and Tobago,1970,150.72
+Trinidad and Tobago,1971,156.56
+Trinidad and Tobago,1972,154.88
+Trinidad and Tobago,1973,157.28
+Trinidad and Tobago,1974,155.44
+Trinidad and Tobago,1975,157.24
+Trinidad and Tobago,1976,164.28
+Trinidad and Tobago,1977,160.24
+Trinidad and Tobago,1978,170.8
+Trinidad and Tobago,1979,166.24
+Trinidad and Tobago,1980,173.76
+Trinidad and Tobago,1981,170.76
+Trinidad and Tobago,1982,167.68
+Trinidad and Tobago,1983,159.96
+Trinidad and Tobago,1984,155.44
+Trinidad and Tobago,1985,147.16
+Trinidad and Tobago,1986,166.44
+Trinidad and Tobago,1987,165.36
+Trinidad and Tobago,1988,155.52
+Trinidad and Tobago,1989,151.96
+Trinidad and Tobago,1990,154.0
+Trinidad and Tobago,1991,147.32
+Trinidad and Tobago,1992,141.56
+Trinidad and Tobago,1993,136.36
+Trinidad and Tobago,1994,132.68
+Trinidad and Tobago,1995,142.56
+Trinidad and Tobago,1996,144.96
+Trinidad and Tobago,1997,140.92
+Trinidad and Tobago,1998,144.64
+Trinidad and Tobago,1999,144.36
+Trinidad and Tobago,2000,147.92
+Trinidad and Tobago,2001,149.28
+Trinidad and Tobago,2002,146.56
+Trinidad and Tobago,2003,143.04
+Trinidad and Tobago,2004,141.16
+Trinidad and Tobago,2005,143.0
+Trinidad and Tobago,2006,143.36
+Trinidad and Tobago,2007,145.48
+Trinidad and Tobago,2008,149.92
+Trinidad and Tobago,2009,148.0
+Trinidad and Tobago,2010,152.0
+Trinidad and Tobago,2011,154.08
+Trinidad and Tobago,2012,159.24
+Trinidad and Tobago,2013,161.0
+Tunisia,1961,194.04
+Tunisia,1962,196.84
+Tunisia,1963,195.32
+Tunisia,1964,192.16
+Tunisia,1965,201.72
+Tunisia,1966,193.16
+Tunisia,1967,199.52
+Tunisia,1968,198.8
+Tunisia,1969,194.6
+Tunisia,1970,195.36
+Tunisia,1971,212.84
+Tunisia,1972,224.12
+Tunisia,1973,224.4
+Tunisia,1974,226.48
+Tunisia,1975,224.0
+Tunisia,1976,224.92
+Tunisia,1977,234.4
+Tunisia,1978,249.92
+Tunisia,1979,244.96
+Tunisia,1980,259.24
+Tunisia,1981,244.56
+Tunisia,1982,236.88
+Tunisia,1983,247.72
+Tunisia,1984,255.8
+Tunisia,1985,263.96
+Tunisia,1986,260.6
+Tunisia,1987,264.64
+Tunisia,1988,258.2
+Tunisia,1989,258.44
+Tunisia,1990,260.8
+Tunisia,1991,270.48
+Tunisia,1992,262.48
+Tunisia,1993,265.56
+Tunisia,1994,255.6
+Tunisia,1995,262.44
+Tunisia,1996,269.92
+Tunisia,1997,265.4
+Tunisia,1998,271.08
+Tunisia,1999,269.12
+Tunisia,2000,262.4
+Tunisia,2001,263.48
+Tunisia,2002,254.2
+Tunisia,2003,263.44
+Tunisia,2004,261.24
+Tunisia,2005,267.68
+Tunisia,2006,260.68
+Tunisia,2007,268.92
+Tunisia,2008,263.84
+Tunisia,2009,280.28
+Tunisia,2010,285.6
+Tunisia,2011,289.8
+Tunisia,2012,286.32
+Tunisia,2013,280.88
+Turkey,1961,269.24
+Turkey,1962,266.04
+Turkey,1963,268.52
+Turkey,1964,264.64
+Turkey,1965,268.6
+Turkey,1966,269.72
+Turkey,1967,268.84
+Turkey,1968,267.2
+Turkey,1969,274.44
+Turkey,1970,276.72
+Turkey,1971,282.12
+Turkey,1972,283.56
+Turkey,1973,276.56
+Turkey,1974,279.24
+Turkey,1975,285.4
+Turkey,1976,289.16
+Turkey,1977,291.92
+Turkey,1978,282.2
+Turkey,1979,294.0
+Turkey,1980,293.4
+Turkey,1981,289.92
+Turkey,1982,291.2
+Turkey,1983,308.36
+Turkey,1984,293.12
+Turkey,1985,320.72
+Turkey,1986,315.4
+Turkey,1987,321.68
+Turkey,1988,321.72
+Turkey,1989,317.0
+Turkey,1990,330.36
+Turkey,1991,330.76
+Turkey,1992,326.52
+Turkey,1993,320.2
+Turkey,1994,324.88
+Turkey,1995,324.68
+Turkey,1996,314.76
+Turkey,1997,300.44
+Turkey,1998,314.72
+Turkey,1999,314.28
+Turkey,2000,314.36
+Turkey,2001,314.36
+Turkey,2002,319.96
+Turkey,2003,305.44
+Turkey,2004,305.56
+Turkey,2005,306.52
+Turkey,2006,301.68
+Turkey,2007,294.84
+Turkey,2008,291.48
+Turkey,2009,290.4
+Turkey,2010,291.76
+Turkey,2011,288.28
+Turkey,2012,288.4
+Turkey,2013,287.24
+Turkmenistan,1961,237.96
+Turkmenistan,1962,239.6
+Turkmenistan,1963,238.32
+Turkmenistan,1964,239.64
+Turkmenistan,1965,235.12
+Turkmenistan,1966,230.08
+Turkmenistan,1967,226.68
+Turkmenistan,1968,224.52
+Turkmenistan,1969,224.2
+Turkmenistan,1970,224.72
+Turkmenistan,1971,222.0
+Turkmenistan,1972,217.76
+Turkmenistan,1973,218.76
+Turkmenistan,1974,216.92
+Turkmenistan,1975,214.0
+Turkmenistan,1976,215.24
+Turkmenistan,1977,212.04
+Turkmenistan,1978,212.76
+Turkmenistan,1979,211.68
+Turkmenistan,1980,209.2
+Turkmenistan,1981,207.24
+Turkmenistan,1982,209.72
+Turkmenistan,1983,206.64
+Turkmenistan,1984,206.04
+Turkmenistan,1985,206.72
+Turkmenistan,1986,205.8
+Turkmenistan,1987,206.88
+Turkmenistan,1988,203.36
+Turkmenistan,1989,200.0
+Turkmenistan,1990,202.4
+Turkmenistan,1991,200.08
+Turkmenistan,1992,186.24
+Turkmenistan,1993,184.72
+Turkmenistan,1994,185.72
+Turkmenistan,1995,191.68
+Turkmenistan,1996,191.04
+Turkmenistan,1997,196.24
+Turkmenistan,1998,197.44
+Turkmenistan,1999,203.92
+Turkmenistan,2000,206.88
+Turkmenistan,2001,209.68
+Turkmenistan,2002,208.64
+Turkmenistan,2003,212.68
+Turkmenistan,2004,216.28
+Turkmenistan,2005,219.2
+Turkmenistan,2006,221.04
+Turkmenistan,2007,217.6
+Turkmenistan,2008,214.56
+Turkmenistan,2009,213.88
+Turkmenistan,2010,211.32
+Turkmenistan,2011,212.08
+Turkmenistan,2012,209.24
+Turkmenistan,2013,210.16
+USSR,1961,237.96
+USSR,1962,239.6
+USSR,1963,238.32
+USSR,1964,239.64
+USSR,1965,235.12
+USSR,1966,230.08
+USSR,1967,226.68
+USSR,1968,224.52
+USSR,1969,224.2
+USSR,1970,224.72
+USSR,1971,222.0
+USSR,1972,217.76
+USSR,1973,218.76
+USSR,1974,216.92
+USSR,1975,214.0
+USSR,1976,215.24
+USSR,1977,212.04
+USSR,1978,212.76
+USSR,1979,211.68
+USSR,1980,209.2
+USSR,1981,207.24
+USSR,1982,209.72
+USSR,1983,206.64
+USSR,1984,206.04
+USSR,1985,206.72
+USSR,1986,205.8
+USSR,1987,206.88
+USSR,1988,203.36
+USSR,1989,200.0
+USSR,1990,202.4
+USSR,1991,200.08
+Uganda,1961,173.0
+Uganda,1962,172.2
+Uganda,1963,171.08
+Uganda,1964,174.4
+Uganda,1965,173.32
+Uganda,1966,161.08
+Uganda,1967,181.88
+Uganda,1968,187.6
+Uganda,1969,182.04
+Uganda,1970,189.64
+Uganda,1971,200.52
+Uganda,1972,207.56
+Uganda,1973,180.44
+Uganda,1974,190.56
+Uganda,1975,184.36
+Uganda,1976,198.2
+Uganda,1977,190.04
+Uganda,1978,190.24
+Uganda,1979,162.76
+Uganda,1980,147.72
+Uganda,1981,147.0
+Uganda,1982,153.12
+Uganda,1983,170.36
+Uganda,1984,162.28
+Uganda,1985,148.08
+Uganda,1986,149.08
+Uganda,1987,150.4
+Uganda,1988,162.16
+Uganda,1989,174.76
+Uganda,1990,170.84
+Uganda,1991,162.2
+Uganda,1992,156.92
+Uganda,1993,156.6
+Uganda,1994,156.92
+Uganda,1995,154.04
+Uganda,1996,140.04
+Uganda,1997,139.92
+Uganda,1998,158.8
+Uganda,1999,159.8
+Uganda,2000,159.92
+Uganda,2001,167.44
+Uganda,2002,169.8
+Uganda,2003,175.28
+Uganda,2004,164.2
+Uganda,2005,166.56
+Uganda,2006,155.12
+Uganda,2007,149.96
+Uganda,2008,165.8
+Uganda,2009,167.4
+Uganda,2010,166.52
+Uganda,2011,168.68
+Uganda,2012,164.76
+Uganda,2013,161.16
+Ukraine,1961,237.96
+Ukraine,1962,239.6
+Ukraine,1963,238.32
+Ukraine,1964,239.64
+Ukraine,1965,235.12
+Ukraine,1966,230.08
+Ukraine,1967,226.68
+Ukraine,1968,224.52
+Ukraine,1969,224.2
+Ukraine,1970,224.72
+Ukraine,1971,222.0
+Ukraine,1972,217.76
+Ukraine,1973,218.76
+Ukraine,1974,216.92
+Ukraine,1975,214.0
+Ukraine,1976,215.24
+Ukraine,1977,212.04
+Ukraine,1978,212.76
+Ukraine,1979,211.68
+Ukraine,1980,209.2
+Ukraine,1981,207.24
+Ukraine,1982,209.72
+Ukraine,1983,206.64
+Ukraine,1984,206.04
+Ukraine,1985,206.72
+Ukraine,1986,205.8
+Ukraine,1987,206.88
+Ukraine,1988,203.36
+Ukraine,1989,200.0
+Ukraine,1990,202.4
+Ukraine,1991,200.08
+Ukraine,1992,210.12
+Ukraine,1993,215.28
+Ukraine,1994,199.96
+Ukraine,1995,186.92
+Ukraine,1996,182.52
+Ukraine,1997,187.6
+Ukraine,1998,185.96
+Ukraine,1999,181.16
+Ukraine,2000,188.04
+Ukraine,2001,196.12
+Ukraine,2002,197.76
+Ukraine,2003,191.32
+Ukraine,2004,194.16
+Ukraine,2005,195.0
+Ukraine,2006,188.76
+Ukraine,2007,184.0
+Ukraine,2008,185.44
+Ukraine,2009,179.28
+Ukraine,2010,178.68
+Ukraine,2011,184.16
+Ukraine,2012,181.88
+Ukraine,2013,181.88
+United Arab Emirates,1961,128.72
+United Arab Emirates,1962,125.96
+United Arab Emirates,1963,131.24
+United Arab Emirates,1964,126.6
+United Arab Emirates,1965,125.88
+United Arab Emirates,1966,140.56
+United Arab Emirates,1967,152.84
+United Arab Emirates,1968,152.76
+United Arab Emirates,1969,156.52
+United Arab Emirates,1970,153.76
+United Arab Emirates,1971,146.56
+United Arab Emirates,1972,146.04
+United Arab Emirates,1973,202.84
+United Arab Emirates,1974,184.84
+United Arab Emirates,1975,195.8
+United Arab Emirates,1976,178.64
+United Arab Emirates,1977,199.12
+United Arab Emirates,1978,196.04
+United Arab Emirates,1979,159.84
+United Arab Emirates,1980,154.68
+United Arab Emirates,1981,154.32
+United Arab Emirates,1982,172.8
+United Arab Emirates,1983,204.88
+United Arab Emirates,1984,214.52
+United Arab Emirates,1985,217.0
+United Arab Emirates,1986,218.88
+United Arab Emirates,1987,210.64
+United Arab Emirates,1988,210.16
+United Arab Emirates,1989,207.24
+United Arab Emirates,1990,176.6
+United Arab Emirates,1991,177.04
+United Arab Emirates,1992,204.0
+United Arab Emirates,1993,210.44
+United Arab Emirates,1994,220.92
+United Arab Emirates,1995,204.92
+United Arab Emirates,1996,200.28
+United Arab Emirates,1997,211.52
+United Arab Emirates,1998,225.84
+United Arab Emirates,1999,233.72
+United Arab Emirates,2000,225.8
+United Arab Emirates,2001,230.12
+United Arab Emirates,2002,227.88
+United Arab Emirates,2003,218.96
+United Arab Emirates,2004,240.04
+United Arab Emirates,2005,232.08
+United Arab Emirates,2006,232.88
+United Arab Emirates,2007,225.28
+United Arab Emirates,2008,218.28
+United Arab Emirates,2009,236.16
+United Arab Emirates,2010,235.96
+United Arab Emirates,2011,251.28
+United Arab Emirates,2012,255.44
+United Arab Emirates,2013,251.68
+United Kingdom,1961,150.0
+United Kingdom,1962,151.92
+United Kingdom,1963,152.68
+United Kingdom,1964,149.8
+United Kingdom,1965,149.0
+United Kingdom,1966,148.12
+United Kingdom,1967,146.32
+United Kingdom,1968,145.68
+United Kingdom,1969,148.68
+United Kingdom,1970,150.36
+United Kingdom,1971,146.2
+United Kingdom,1972,144.04
+United Kingdom,1973,146.24
+United Kingdom,1974,144.04
+United Kingdom,1975,142.96
+United Kingdom,1976,144.6
+United Kingdom,1977,149.72
+United Kingdom,1978,141.0
+United Kingdom,1979,146.56
+United Kingdom,1980,141.88
+United Kingdom,1981,140.04
+United Kingdom,1982,140.44
+United Kingdom,1983,142.84
+United Kingdom,1984,147.88
+United Kingdom,1985,154.88
+United Kingdom,1986,156.12
+United Kingdom,1987,153.36
+United Kingdom,1988,161.2
+United Kingdom,1989,154.32
+United Kingdom,1990,161.08
+United Kingdom,1991,158.16
+United Kingdom,1992,156.6
+United Kingdom,1993,162.24
+United Kingdom,1994,162.24
+United Kingdom,1995,159.36
+United Kingdom,1996,163.12
+United Kingdom,1997,172.52
+United Kingdom,1998,175.92
+United Kingdom,1999,179.0
+United Kingdom,2000,177.4
+United Kingdom,2001,176.76
+United Kingdom,2002,179.76
+United Kingdom,2003,179.52
+United Kingdom,2004,177.92
+United Kingdom,2005,179.44
+United Kingdom,2006,177.48
+United Kingdom,2007,179.6
+United Kingdom,2008,180.76
+United Kingdom,2009,178.0
+United Kingdom,2010,176.52
+United Kingdom,2011,177.44
+United Kingdom,2012,178.36
+United Kingdom,2013,179.72
+United States,1961,128.88
+United States,1962,127.52
+United States,1963,127.6
+United States,1964,128.28
+United States,1965,126.28
+United States,1966,127.12
+United States,1967,128.36
+United States,1968,128.2
+United States,1969,130.2
+United States,1970,126.0
+United States,1971,127.16
+United States,1972,123.92
+United States,1973,127.68
+United States,1974,124.64
+United States,1975,133.96
+United States,1976,134.24
+United States,1977,128.88
+United States,1978,131.28
+United States,1979,135.96
+United States,1980,127.8
+United States,1981,136.28
+United States,1982,133.84
+United States,1983,132.52
+United States,1984,135.08
+United States,1985,143.64
+United States,1986,139.32
+United States,1987,147.04
+United States,1988,150.28
+United States,1989,150.44
+United States,1990,154.48
+United States,1991,160.0
+United States,1992,157.44
+United States,1993,159.92
+United States,1994,164.72
+United States,1995,159.04
+United States,1996,163.6
+United States,1997,167.08
+United States,1998,165.24
+United States,1999,166.24
+United States,2000,166.24
+United States,2001,161.8
+United States,2002,160.04
+United States,2003,161.24
+United States,2004,162.72
+United States,2005,161.8
+United States,2006,160.64
+United States,2007,163.52
+United States,2008,161.24
+United States,2009,158.88
+United States,2010,158.92
+United States,2011,156.24
+United States,2012,159.68
+United States,2013,159.28
+Uruguay,1961,110.92
+Uruguay,1962,108.32
+Uruguay,1963,113.36
+Uruguay,1964,114.52
+Uruguay,1965,111.84
+Uruguay,1966,115.52
+Uruguay,1967,115.36
+Uruguay,1968,108.2
+Uruguay,1969,117.76
+Uruguay,1970,117.24
+Uruguay,1971,119.08
+Uruguay,1972,113.04
+Uruguay,1973,117.92
+Uruguay,1974,123.04
+Uruguay,1975,123.92
+Uruguay,1976,124.72
+Uruguay,1977,118.96
+Uruguay,1978,119.4
+Uruguay,1979,128.24
+Uruguay,1980,124.64
+Uruguay,1981,128.92
+Uruguay,1982,120.52
+Uruguay,1983,118.48
+Uruguay,1984,124.12
+Uruguay,1985,125.8
+Uruguay,1986,125.12
+Uruguay,1987,123.08
+Uruguay,1988,118.76
+Uruguay,1989,115.8
+Uruguay,1990,126.72
+Uruguay,1991,124.04
+Uruguay,1992,129.48
+Uruguay,1993,125.8
+Uruguay,1994,124.28
+Uruguay,1995,126.76
+Uruguay,1996,130.12
+Uruguay,1997,132.72
+Uruguay,1998,131.52
+Uruguay,1999,133.12
+Uruguay,2000,134.84
+Uruguay,2001,140.84
+Uruguay,2002,141.68
+Uruguay,2003,145.96
+Uruguay,2004,147.16
+Uruguay,2005,149.84
+Uruguay,2006,150.64
+Uruguay,2007,151.12
+Uruguay,2008,153.08
+Uruguay,2009,153.16
+Uruguay,2010,152.4
+Uruguay,2011,151.08
+Uruguay,2012,153.76
+Uruguay,2013,153.76
+Uzbekistan,1961,237.96
+Uzbekistan,1962,239.6
+Uzbekistan,1963,238.32
+Uzbekistan,1964,239.64
+Uzbekistan,1965,235.12
+Uzbekistan,1966,230.08
+Uzbekistan,1967,226.68
+Uzbekistan,1968,224.52
+Uzbekistan,1969,224.2
+Uzbekistan,1970,224.72
+Uzbekistan,1971,222.0
+Uzbekistan,1972,217.76
+Uzbekistan,1973,218.76
+Uzbekistan,1974,216.92
+Uzbekistan,1975,214.0
+Uzbekistan,1976,215.24
+Uzbekistan,1977,212.04
+Uzbekistan,1978,212.76
+Uzbekistan,1979,211.68
+Uzbekistan,1980,209.2
+Uzbekistan,1981,207.24
+Uzbekistan,1982,209.72
+Uzbekistan,1983,206.64
+Uzbekistan,1984,206.04
+Uzbekistan,1985,206.72
+Uzbekistan,1986,205.8
+Uzbekistan,1987,206.88
+Uzbekistan,1988,203.36
+Uzbekistan,1989,200.0
+Uzbekistan,1990,202.4
+Uzbekistan,1991,200.08
+Uzbekistan,1992,213.92
+Uzbekistan,1993,207.6
+Uzbekistan,1994,207.12
+Uzbekistan,1995,198.64
+Uzbekistan,1996,193.88
+Uzbekistan,1997,187.0
+Uzbekistan,1998,174.12
+Uzbekistan,1999,181.48
+Uzbekistan,2000,173.2
+Uzbekistan,2001,173.12
+Uzbekistan,2002,178.64
+Uzbekistan,2003,188.12
+Uzbekistan,2004,190.4
+Uzbekistan,2005,193.4
+Uzbekistan,2006,196.84
+Uzbekistan,2007,189.52
+Uzbekistan,2008,202.72
+Uzbekistan,2009,205.64
+Uzbekistan,2010,208.16
+Uzbekistan,2011,210.24
+Uzbekistan,2012,213.96
+Uzbekistan,2013,216.96
+Vanuatu,1961,122.4
+Vanuatu,1962,123.64
+Vanuatu,1963,126.84
+Vanuatu,1964,119.76
+Vanuatu,1965,124.24
+Vanuatu,1966,123.28
+Vanuatu,1967,132.2
+Vanuatu,1968,125.16
+Vanuatu,1969,133.36
+Vanuatu,1970,130.96
+Vanuatu,1971,135.36
+Vanuatu,1972,135.48
+Vanuatu,1973,132.56
+Vanuatu,1974,135.12
+Vanuatu,1975,133.6
+Vanuatu,1976,123.0
+Vanuatu,1977,131.8
+Vanuatu,1978,132.92
+Vanuatu,1979,138.68
+Vanuatu,1980,140.76
+Vanuatu,1981,137.64
+Vanuatu,1982,143.48
+Vanuatu,1983,144.4
+Vanuatu,1984,152.2
+Vanuatu,1985,152.16
+Vanuatu,1986,149.04
+Vanuatu,1987,148.12
+Vanuatu,1988,142.76
+Vanuatu,1989,137.72
+Vanuatu,1990,138.88
+Vanuatu,1991,137.44
+Vanuatu,1992,138.04
+Vanuatu,1993,135.0
+Vanuatu,1994,134.76
+Vanuatu,1995,134.12
+Vanuatu,1996,140.6
+Vanuatu,1997,146.8
+Vanuatu,1998,148.52
+Vanuatu,1999,148.04
+Vanuatu,2000,147.12
+Vanuatu,2001,149.88
+Vanuatu,2002,155.28
+Vanuatu,2003,159.04
+Vanuatu,2004,159.72
+Vanuatu,2005,160.24
+Vanuatu,2006,162.84
+Vanuatu,2007,160.56
+Vanuatu,2008,157.6
+Vanuatu,2009,160.44
+Vanuatu,2010,160.2
+Vanuatu,2011,157.16
+Vanuatu,2012,158.84
+Vanuatu,2013,161.8
+Venezuela,1961,124.48
+Venezuela,1962,120.4
+Venezuela,1963,122.56
+Venezuela,1964,135.48
+Venezuela,1965,130.12
+Venezuela,1966,130.0
+Venezuela,1967,131.32
+Venezuela,1968,130.64
+Venezuela,1969,133.16
+Venezuela,1970,136.0
+Venezuela,1971,132.36
+Venezuela,1972,129.8
+Venezuela,1973,119.92
+Venezuela,1974,120.8
+Venezuela,1975,131.24
+Venezuela,1976,133.84
+Venezuela,1977,140.16
+Venezuela,1978,131.16
+Venezuela,1979,132.48
+Venezuela,1980,139.52
+Venezuela,1981,143.32
+Venezuela,1982,130.44
+Venezuela,1983,135.96
+Venezuela,1984,143.88
+Venezuela,1985,137.08
+Venezuela,1986,118.96
+Venezuela,1987,132.64
+Venezuela,1988,142.28
+Venezuela,1989,115.4
+Venezuela,1990,123.36
+Venezuela,1991,134.48
+Venezuela,1992,138.36
+Venezuela,1993,124.64
+Venezuela,1994,126.04
+Venezuela,1995,130.72
+Venezuela,1996,123.8
+Venezuela,1997,119.6
+Venezuela,1998,126.72
+Venezuela,1999,125.16
+Venezuela,2000,129.72
+Venezuela,2001,136.08
+Venezuela,2002,114.2
+Venezuela,2003,136.84
+Venezuela,2004,130.6
+Venezuela,2005,135.24
+Venezuela,2006,130.28
+Venezuela,2007,139.96
+Venezuela,2008,149.24
+Venezuela,2009,154.2
+Venezuela,2010,151.96
+Venezuela,2011,149.72
+Venezuela,2012,145.64
+Venezuela,2013,139.56
+Vietnam,1961,146.32
+Vietnam,1962,150.96
+Vietnam,1963,149.88
+Vietnam,1964,148.56
+Vietnam,1965,147.6
+Vietnam,1966,145.16
+Vietnam,1967,144.4
+Vietnam,1968,147.4
+Vietnam,1969,147.72
+Vietnam,1970,155.6
+Vietnam,1971,149.56
+Vietnam,1972,146.56
+Vietnam,1973,149.32
+Vietnam,1974,153.32
+Vietnam,1975,144.8
+Vietnam,1976,146.68
+Vietnam,1977,144.56
+Vietnam,1978,141.96
+Vietnam,1979,151.72
+Vietnam,1980,150.88
+Vietnam,1981,156.72
+Vietnam,1982,148.88
+Vietnam,1983,148.64
+Vietnam,1984,152.96
+Vietnam,1985,148.64
+Vietnam,1986,154.28
+Vietnam,1987,147.88
+Vietnam,1988,148.96
+Vietnam,1989,147.4
+Vietnam,1990,142.2
+Vietnam,1991,136.56
+Vietnam,1992,141.36
+Vietnam,1993,150.96
+Vietnam,1994,152.0
+Vietnam,1995,147.28
+Vietnam,1996,145.12
+Vietnam,1997,144.92
+Vietnam,1998,155.48
+Vietnam,1999,159.08
+Vietnam,2000,157.92
+Vietnam,2001,162.76
+Vietnam,2002,165.16
+Vietnam,2003,169.44
+Vietnam,2004,172.56
+Vietnam,2005,172.36
+Vietnam,2006,169.68
+Vietnam,2007,175.68
+Vietnam,2008,179.36
+Vietnam,2009,177.84
+Vietnam,2010,185.48
+Vietnam,2011,188.4
+Vietnam,2012,197.96
+Vietnam,2013,202.24
+Yemen,1961,178.76
+Yemen,1962,178.6
+Yemen,1963,182.44
+Yemen,1964,179.64
+Yemen,1965,178.24
+Yemen,1966,179.64
+Yemen,1967,178.28
+Yemen,1968,176.88
+Yemen,1969,176.64
+Yemen,1970,182.44
+Yemen,1971,187.52
+Yemen,1972,188.76
+Yemen,1973,186.72
+Yemen,1974,187.52
+Yemen,1975,188.52
+Yemen,1976,190.96
+Yemen,1977,197.28
+Yemen,1978,196.44
+Yemen,1979,192.44
+Yemen,1980,187.2
+Yemen,1981,184.88
+Yemen,1982,186.4
+Yemen,1983,182.44
+Yemen,1984,174.72
+Yemen,1985,174.2
+Yemen,1986,183.2
+Yemen,1987,181.28
+Yemen,1988,192.6
+Yemen,1989,197.44
+Yemen,1990,180.12
+Yemen,1991,175.28
+Yemen,1992,187.52
+Yemen,1993,184.8
+Yemen,1994,184.88
+Yemen,1995,186.72
+Yemen,1996,183.88
+Yemen,1997,182.92
+Yemen,1998,187.0
+Yemen,1999,191.36
+Yemen,2000,187.56
+Yemen,2001,184.36
+Yemen,2002,189.68
+Yemen,2003,178.52
+Yemen,2004,164.6
+Yemen,2005,171.04
+Yemen,2006,173.6
+Yemen,2007,177.4
+Yemen,2008,176.2
+Yemen,2009,179.68
+Yemen,2010,185.4
+Yemen,2011,182.48
+Yemen,2012,183.4
+Yemen,2013,180.24
+Yugoslavia,1961,271.4
+Yugoslavia,1962,282.6
+Yugoslavia,1963,284.4
+Yugoslavia,1964,287.84
+Yugoslavia,1965,280.44
+Yugoslavia,1966,287.2
+Yugoslavia,1967,287.04
+Yugoslavia,1968,280.48
+Yugoslavia,1969,278.36
+Yugoslavia,1970,271.32
+Yugoslavia,1971,272.44
+Yugoslavia,1972,269.48
+Yugoslavia,1973,267.32
+Yugoslavia,1974,274.24
+Yugoslavia,1975,267.32
+Yugoslavia,1976,270.64
+Yugoslavia,1977,269.28
+Yugoslavia,1978,263.48
+Yugoslavia,1979,264.84
+Yugoslavia,1980,266.8
+Yugoslavia,1981,262.92
+Yugoslavia,1982,256.16
+Yugoslavia,1983,262.08
+Yugoslavia,1984,255.28
+Yugoslavia,1985,250.48
+Yugoslavia,1986,255.08
+Yugoslavia,1987,245.56
+Yugoslavia,1988,241.52
+Yugoslavia,1989,245.96
+Yugoslavia,1990,247.32
+Yugoslavia,1991,245.76
+Zambia,1961,202.72
+Zambia,1962,201.4
+Zambia,1963,197.8
+Zambia,1964,191.64
+Zambia,1965,189.24
+Zambia,1966,200.76
+Zambia,1967,197.4
+Zambia,1968,198.88
+Zambia,1969,201.96
+Zambia,1970,198.64
+Zambia,1971,199.8
+Zambia,1972,201.12
+Zambia,1973,203.44
+Zambia,1974,207.08
+Zambia,1975,203.52
+Zambia,1976,203.32
+Zambia,1977,218.44
+Zambia,1978,204.92
+Zambia,1979,201.0
+Zambia,1980,194.08
+Zambia,1981,188.56
+Zambia,1982,176.12
+Zambia,1983,179.16
+Zambia,1984,179.4
+Zambia,1985,171.04
+Zambia,1986,172.6
+Zambia,1987,172.96
+Zambia,1988,175.84
+Zambia,1989,172.04
+Zambia,1990,165.04
+Zambia,1991,162.44
+Zambia,1992,162.52
+Zambia,1993,161.48
+Zambia,1994,167.64
+Zambia,1995,174.0
+Zambia,1996,170.08
+Zambia,1997,161.2
+Zambia,1998,159.2
+Zambia,1999,156.68
+Zambia,2000,148.52
+Zambia,2001,148.72
+Zambia,2002,146.72
+Zambia,2003,153.76
+Zambia,2004,147.4
+Zambia,2005,165.68
+Zambia,2006,151.8
+Zambia,2007,144.4
+Zambia,2008,155.48
+Zambia,2009,161.68
+Zambia,2010,171.36
+Zambia,2011,174.56
+Zambia,2012,179.92
+Zambia,2013,183.96
+Zimbabwe,1961,196.6
+Zimbabwe,1962,201.2
+Zimbabwe,1963,199.48
+Zimbabwe,1964,200.36
+Zimbabwe,1965,198.28
+Zimbabwe,1966,197.8
+Zimbabwe,1967,208.08
+Zimbabwe,1968,210.24
+Zimbabwe,1969,203.96
+Zimbabwe,1970,208.28
+Zimbabwe,1971,207.32
+Zimbabwe,1972,206.2
+Zimbabwe,1973,194.16
+Zimbabwe,1974,201.92
+Zimbabwe,1975,195.2
+Zimbabwe,1976,199.96
+Zimbabwe,1977,204.36
+Zimbabwe,1978,206.24
+Zimbabwe,1979,201.12
+Zimbabwe,1980,195.2
+Zimbabwe,1981,181.4
+Zimbabwe,1982,184.36
+Zimbabwe,1983,176.16
+Zimbabwe,1984,172.92
+Zimbabwe,1985,169.32
+Zimbabwe,1986,163.0
+Zimbabwe,1987,163.24
+Zimbabwe,1988,168.4
+Zimbabwe,1989,167.88
+Zimbabwe,1990,164.6
+Zimbabwe,1991,162.48
+Zimbabwe,1992,159.6
+Zimbabwe,1993,160.96
+Zimbabwe,1994,157.08
+Zimbabwe,1995,154.08
+Zimbabwe,1996,156.72
+Zimbabwe,1997,154.36
+Zimbabwe,1998,153.56
+Zimbabwe,1999,150.84
+Zimbabwe,2000,146.72
+Zimbabwe,2001,149.8
+Zimbabwe,2002,148.12
+Zimbabwe,2003,150.24
+Zimbabwe,2004,155.0
+Zimbabwe,2005,155.24
+Zimbabwe,2006,161.4
+Zimbabwe,2007,162.84
+Zimbabwe,2008,158.28
+Zimbabwe,2009,162.16
+Zimbabwe,2010,161.72
+Zimbabwe,2011,159.2
+Zimbabwe,2012,153.16
+Zimbabwe,2013,146.36
