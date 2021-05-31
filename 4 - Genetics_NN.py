@@ -17,19 +17,19 @@ df_filled = pd.read_csv('https://raw.githubusercontent.com/MiguelRocaGarcia/Data
                         sep=',')
 
 # Obtener los datos de un país en un año y un género:
-COUNTRY = 'Argentina'  # Nombre del país en inglés
-YEAR = 1999  # Rango dentro del intervalo [1990, 2019]
+COUNTRY = 'Spain'  # Nombre del país en inglés
+YEAR = 2019  # Rango dentro del intervalo [1990, 2019]
 GENDER = 'Both sexes'  # Posibles valores: Male, Female y Both sexes
 
 MARGIN_LE = 0.25
-MARGIN_INPUT = 3.0
+MARGIN_INPUT = 5.0
 TARGET_LE = 85.0  # Número decimal
-TARGET_FIT = 0.999
+TARGET_FIT = 100.0
 ALPHABET_MIN = -5.0
 ALPHABET_MAX = 5.0
 N_FEATURES = df.shape[1] - 1
 
-W_INPUT = 0.01 #0.05
+W_INPUT = 0.1
 W_PREDICTION = 1 - W_INPUT
 
 # Creamos las listas de las features que se van a transformar
@@ -75,30 +75,30 @@ data_norm[featuresScale] = scaler_total.transform(data_norm[featuresScale])
 data_norm[columnsYJ] = power_YJ.transform(data_norm[columnsYJ])
 ORIGINAL_LE = data_norm['Life Expectancy'].values[0]
 data_norm.drop(columns=['Life Expectancy'], inplace=True)
-data_norm = data_norm.values
+data_norm = data_norm.values[0]
 
 
 def phenotype(chromosome):
-    diff_features = np.sum(abs(data_norm - np.array(chromosome).reshape(1, -1)))
-    diff_le = NN_model.predict(np.array(chromosome).reshape(1, -1))[0][0] - TARGET_LE
-    return f'Diferencia de features: {diff_features}. Diferencia esperanza de vida: {diff_le}.'
+    diff_input_no_mutable = np.sum(abs(data_norm[:3] - np.array(chromosome)[:3]))
+    diff_input_mutable = np.sum(abs(data_norm[3:] - np.array(chromosome)[3:]))
+    diff_le = NN_model.predict(np.array(chromosome).reshape(1, -1))[0][0] - ORIGINAL_LE
+    return f'Diferencia de features no mutables: {diff_input_no_mutable}. \nDiferencia de features mutables: {diff_input_mutable}. \nDiferencia esperanza de vida: {diff_le}.'
 
 
 def fitness(chromosome):
     #Obtenemos la similaridad entre el cromosoma y el caso elegido
-    diff_input = np.sum(abs(data_norm[:3] - np.array(chromosome).reshape(1, -1)[:3]))*10 # Penalizamos más el que se modifiquen el año y el género
-    diff_input += np.sum(abs(data_norm[3:] - np.array(chromosome).reshape(1, -1)[3:]))
+    diff_input_no_mutable = np.sum(abs(data_norm[:3] - np.array(chromosome)[:3]))*100 # Penalizamos más el que se modifiquen el año y el género
+    diff_input_mutable = np.sum(abs(data_norm[3:] - np.array(chromosome)[3:]))
+    diff_input = diff_input_no_mutable + diff_input_mutable
     similarity_input = 1 / (diff_input + 1)
+
 
     # No beneficiamos el valor de la esperanza de vida hasta que el cromosoma se parece lo suficiente al caso elegido(margen de cambio)
     if(diff_input < MARGIN_INPUT):
+        similarity_input = 1.0
         #Obtenemos el valor de la diferencia de esperanza de vida del cromosoma y la objetivo
         le_predicted = NN_model.predict(np.array(chromosome).reshape(1, -1))[0][0]
-        diff_prediction = 1 / (abs(le_predicted - ORIGINAL_LE) + 1)
-
-        #Hasta que la esperanza de vida no se parezca lo suficiente a la objetivo, se penaliza el parecerse más al caso elegido
-        #if(abs(le_predicted - TARGET_LE) > MARGIN_LE):
-        #    similarity_input *= 1 / (abs(MARGIN_INPUT - diff_input) / MARGIN_INPUT + 1)
+        diff_prediction = (le_predicted - ORIGINAL_LE + 1)**3
     else:
         diff_prediction = 0
 
