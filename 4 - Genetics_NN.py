@@ -4,9 +4,6 @@
 
 import pandas as pd
 import numpy as np
-import sklearn
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import PowerTransformer
 import tensorflow as tf
 from keras import backend as K
 import pickle
@@ -17,20 +14,18 @@ df_filled = pd.read_csv('https://raw.githubusercontent.com/MiguelRocaGarcia/Data
                         sep=',')
 
 # Obtener los datos de un país en un año y un género:
-COUNTRY = 'Spain'  # Nombre del país en inglés
-YEAR = 2019  # Rango dentro del intervalo [1990, 2019]
-GENDER = 'Both sexes'  # Posibles valores: Male, Female y Both sexes
+COUNTRY = 'Lithuania'  # Nombre del país en inglés
+YEAR = 2005  # Rango dentro del intervalo [1990, 2019]
+GENDER = 'Male'  # Posibles valores: Male, Female y Both sexes
 
-MARGIN_LE = 0.25
 MARGIN_INPUT = 5.0
-TARGET_LE = 85.0  # Número decimal
+W_INPUT = 0.1
+W_OUTPUT = 1 - W_INPUT
+
 TARGET_FIT = 100.0
 ALPHABET_MIN = -5.0
 ALPHABET_MAX = 5.0
 N_FEATURES = df.shape[1] - 1
-
-W_INPUT = 0.1
-W_PREDICTION = 1 - W_INPUT
 
 # Creamos las listas de las features que se van a transformar
 columnsYJ = list(df.columns)
@@ -50,8 +45,6 @@ featuresScale = ['Life Expectancy', '% Death Cardiovascular', 'Tobacco Prevalenc
 scalerLE = pickle.load(open('Data/Scalers/LE_Scaler.pkl', 'rb'))
 scaler_total = pickle.load(open('Data/Scalers/Normal_Features_Scaler.pkl', 'rb'))
 power_YJ = pickle.load(open('Data/Scalers/Yeo-Johnson_Scaler.pkl', 'rb'))
-
-TARGET_LE = scalerLE.transform(np.array(TARGET_LE).reshape(-1, 1)).flatten()[0]
 
 # Función para poder calcular el error R2 al entrenar la red de neuronas
 def r2_score_metric(y_true, y_pred):
@@ -92,7 +85,6 @@ def fitness(chromosome):
     diff_input = diff_input_no_mutable + diff_input_mutable
     similarity_input = 1 / (diff_input + 1)
 
-
     # No beneficiamos el valor de la esperanza de vida hasta que el cromosoma se parece lo suficiente al caso elegido(margen de cambio)
     if(diff_input < MARGIN_INPUT):
         similarity_input = 1.0
@@ -103,7 +95,7 @@ def fitness(chromosome):
         diff_prediction = 0
 
     #Se pondera la importancia de la similaridad con el caso elegido y la diferencia con la esperanza de vida objetivo
-    score = W_INPUT * similarity_input + W_PREDICTION * diff_prediction
+    score = W_INPUT * similarity_input + W_OUTPUT * diff_prediction
 
     return score
 
